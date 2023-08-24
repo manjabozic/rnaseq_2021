@@ -60,3 +60,17 @@ git checkout HEAD/HEAD~1/HEAD~2 #filename
 git revert
 
 #to ignore certain files create a file named .gitignore and add to it with filenames/extrensions/directories you want to ignore 
+
+
+
+
+#To connect the repository to git hub you need to:
+# 1. Create an empty repository of the same name in your github account
+# 2. Connect to it using the SSH url
+		git remote add origin git@github.com:#yourinfo
+# 3. you need to have the ssh keys set up, and to to that there is an explanation in the github tutorial
+# 4. to push the local changes to a rmeote
+		git push origin main
+# 5. to download files from the remote directory to the local one
+		git pull origin main
+
