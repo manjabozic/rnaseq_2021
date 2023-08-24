@@ -14,3 +14,19 @@ git checkout -b main
 #Check the setup
 
 git status
+
+#If there are untracked files Git will notify us in the git status
+
+#To track them do:
+
+git add #filename/pathtofilename
+
+git commit -m "#a short, descriptive, and specific comment that will help us remember later on what we did and why"
+
+#we can see the history of all the changes
+
+git log
+
+#or the changes made
+
+git diff
