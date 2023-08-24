@@ -27,6 +27,34 @@ git commit -m "#a short, descriptive, and specific comment that will help us rem
 
 git log
 
-#or the changes made
+#or the changes made, through all the differences
 
 git diff
+
+git diff --staged 
+#all the changes to be commited
+git diff HEAD #filename
+
+#shows the latest change
+git diff HEAD~1
+#shows the change before the last one, and so on with ~2, ~3, etc
+
+git diff #changeidentifier #filename
+#see the exact change using the change identifier string or its shorter form
+
+
+#we can also see all the changes with comments
+
+git show HEAD #filename
+
+#you can't add directories, but you can add al the files within one
+
+git add #directory-with-files
+
+#changing back - staged changes
+
+git checkout HEAD/HEAD~1/HEAD~2 #filename
+
+#changing back - commited changes
+
+git revert 
