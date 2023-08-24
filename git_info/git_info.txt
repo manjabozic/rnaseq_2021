@@ -1,0 +1,16 @@
+#Configuring git first (if it's already done, skip this step)
+
+git config --global user.name "#username"
+git config --global user.email "#user_mail"
+
+#Creating a repository for all the files
+
+git init
+
+#Change the default branch to main
+
+git checkout -b main
+
+#Check the setup
+
+git status
