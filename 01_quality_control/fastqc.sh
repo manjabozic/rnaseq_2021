@@ -23,7 +23,7 @@ for file in ${runqc[@]}
 
 do
 	echo Checking the quality of ${runqc}
-	fastqc -o ~/rnaseq_2021/01_quality_control/results --noextract ${file}
+	fastqc -o ~/rnaseq_2021/01_quality_control/results --noextract -t 32 ${file}
 	echo Finished with the quality check of ${runqc}
 done
 
