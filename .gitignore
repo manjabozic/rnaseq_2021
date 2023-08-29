@@ -2,3 +2,4 @@
 test_files/*fastq.gz
 02_trimming/trimmomatic/*fastq.gz
 02_trimming/trimmomatic/*fq.gz
+02_trimming/cutadapt/*fq.gz
