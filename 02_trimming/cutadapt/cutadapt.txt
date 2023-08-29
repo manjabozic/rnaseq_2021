@@ -1,0 +1,4 @@
+Prvi pokusaj:
+-> regular adapters in files; no additional options; minimum overlap for OR is set as 5; quality is set as 20 for all
+
+cutadapt -j 16 -a file:threeprim_adap.fa -A file:threeprim_adap.fa -g file:fiveprim_adap.fa -G file:fiveprim_adap.fa -e 0.15 -q 20,20 -Q 20,20 -o C_II_6_1P.fq.gz -p C_II_6_2P.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_1.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_2.fq.gz
