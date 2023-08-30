@@ -6,3 +6,12 @@ cutadapt -j 16 -a file:threeprim_adap.fa -A file:threeprim_adap.fa -g file:fivep
 Drugi pokusaj:
 -> sve isto ali promenjen core number, j=o (po cemu bi cutadapt sam trebalo da odluci koji broj cores to use)
 cutadapt -j 0 -a file:threeprim_adap.fa -A file:threeprim_adap.fa -g file:fiveprim_adap.fa -G file:fiveprim_adap.fa -e 0.15 -q 20,20 -Q 20,20 -o C_II_6_1P.fq.gz -p C_II_6_2P.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_1.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_2.fq.gz
+
+Treci pokusaj:
+-> skracen broj sekvenci sa uklanjanje u adapter files da bi se ubrzao proces: smanjen nivo kompresije takodje da bi se ubrzalo sve
+cutadapt -j 0 -Z -a file:threeprim_red.fa -A file:threeprim_red.fa -g file:fiveprim_red.fa -G file:fiveprim_red.fa -e 0.15 -q 20,20 -Q 20,20 -o C_II_6_1P.fq.gz -p C_II_6_2P.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_1.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_2.fq.gz
+
+Treci pokusaj:
+-> fajlovi su unzipovani unapred; dodat minimum length, lets try -m 15
+cutadapt -j 0 -Z -a file:threeprim_red.fa -A file:threeprim_red.fa -g file:fiveprim_red.fa -G file:fiveprim_red.fa -e 0.15 -q 30
+,30 -Q 30,30 -m 15 -o C_II_6_1P.fq.gz -p C_II_6_2P.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_1.fq ~/rnaseq_2021/00_raw_data/C_6_II_2.fq
