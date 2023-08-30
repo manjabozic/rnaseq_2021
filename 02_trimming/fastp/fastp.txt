@@ -1,0 +1,14 @@
+Prvi pokusaj:
+-> just quality trimming and default adapter trimming in fastp
+
+fastp -i ~/rnaseq_2021/00_raw_data/C_6_II_1.fq -I ~/rnaseq_2021/00_raw_data/C_6_II_2.fq -o C_II_6_1P.fq.gz -O C_II_6_2P.fq.gz -q 30
+
+Drugi pokusaj:
+-> quality trimming and automatically detected adapters
+
+fastp -i ~/rnaseq_2021/00_raw_data/C_6_II_1.fq -I ~/rnaseq_2021/00_raw_data/C_6_II_2.fq -o C_II_6_1P.fq.gz -O C_II_6_2P.fq.gz -q 30--detect_adapter_for_pe -l 30
+
+Treci pokusaj:
+-> quality trimming, automatically detected adapters and the fasta file with adapters
+
+fastp -i ~/rnaseq_2021/00_raw_data/C_6_II_1.fq -I ~/rnaseq_2021/00_raw_data/C_6_II_2.fq -o C_II_6_1P.fq.gz -O C_II_6_2P.fq.gz -q 30 --detect_adapter_for_pe --adapter_fasta fastp_adap.fa -l 30

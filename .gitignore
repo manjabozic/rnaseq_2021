@@ -5,3 +5,7 @@ test_files/*fastq.gz
 02_trimming/cutadapt/*fq.gz
 02_trimming/cutadapt/attempt_n_01/*fq.gz
 02_trimming/cutadapt/attempt_n_02/*fq.gz
+02_trimming/cutadapt/attempt_n_03/*fq.gz
+02_trimming/fastp/first_attempt/*fq.gz
+02_trimming/fastp/second_attempt/*fq.gz
+02_trimming/fastp/third_attempt/*fq.gz
