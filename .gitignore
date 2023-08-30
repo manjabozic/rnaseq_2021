@@ -4,3 +4,4 @@ test_files/*fastq.gz
 02_trimming/trimmomatic/*fq.gz
 02_trimming/cutadapt/*fq.gz
 02_trimming/cutadapt/attempt_n_01/*fq.gz
+02_trimming/cutadapt/attempt_n_02/*fq.gz
