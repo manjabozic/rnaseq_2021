@@ -1,1 +1,8 @@
-java -jar ~/anaconda3/envs/trimmomatic_env/share/trimmomatic-0.39-2/trimmomatic.jar PE -threads 15 ~/rnaseq_2021/00_raw_data/C_6_II_1.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_2.fq.gz -baseout C_6_II.fq.gz ILLUMINACLIP:adapters_dan_manja.fa:2:30:10 SLIDINGWINDOW:5:20
+java -jar ~/anaconda3/envs/trimmomatic_env/share/trimmomatic-0.39-2/trimmomatic.jar PE 
+-threads 15 ~/rnaseq_2021/00_raw_data/C_6_II_1.fq.gz ~/rnaseq_2021/00_raw_data/C_6_II_2.fq.gz -baseout C_6_II.fq.gz 
+ILLUMINACLIP:adapters_dan_manja.fa:2:30:10 SLIDINGWINDOW:5:20
+
+for r1 in Raw_Reads/*_R1_*.fastq.gz; 
+do r2=$(echo $r1|sed 's/_R1_/_R2_/'); 
+name=";
+echo "trimmomatic PE $r1 $r2 -baseout Trim_Reads/$name.fastq.gz ILLUMINACLIP:TruSeq3-PE-2.fa:4:30:10 MINLEN:30";done > trim_commands

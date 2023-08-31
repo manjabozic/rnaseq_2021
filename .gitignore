@@ -9,3 +9,4 @@ test_files/*fastq.gz
 02_trimming/fastp/first_attempt/*fq.gz
 02_trimming/fastp/second_attempt/*fq.gz
 02_trimming/fastp/third_attempt/*fq.gz
+02_trimming/fastp/fourth_attempt/*fq.gz
