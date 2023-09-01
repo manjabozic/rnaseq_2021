@@ -66,7 +66,7 @@ do
 	file2=$(echo $file1|sed 's/_1/_2/') #This will extract the reverse reads, or all the reads whose names end with "_2.fq.gz" and add them to the variable file2:
 	output=$(echo $file1|sed 's/_1.fq.gz//') #This will create the appropriate output file name;
 	echo Started trimming ${file1} and ${file2} 
-	java -jar ~/anaconda3/envs/trimmomatic_env/share/trimmomatic-0.39-2/trimmomatic.jar PE -threads ${t} ${file1} ${file2} -baseout ~/rnaseq_2021/02_trimming/results/${output}.fq.gz ILLUMINACLIP:${adapters}:${seed_mismatches}:${pct}:${sct} SLIDINGWINDOW:${sws}:${q} MINLEN:30
+	java -jar ~/anaconda3/envs/trimmomatic_env/share/trimmomatic-0.39-2/trimmomatic.jar PE -threads ${t} ${file1} ${file2} -baseout ~/rnaseq_2021/02_trimming/results/${output}.fq.gz ILLUMINACLIP:${adapters}:${seed_mismatches}:${pct}:${sct} SLIDINGWINDOW:${sws}:${q} MINLEN:30 HEADCROP:5
 	echo Finished trimming ${file1} and ${file2}
 done
 
