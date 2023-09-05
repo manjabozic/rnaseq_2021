@@ -47,9 +47,10 @@ do
 	file2=$(echo $file1|sed 's/_1/_2/') #This will extract the reverse reads, or all the reads whose names end with "_2.fq.gz" and add them to the variable file2:
 	output=$(echo $file1|sed 's/_1.fq.gz//') #This will create the appropriate output file name;
 	echo Started trimming ${file1} and ${file2} 
-	fastp -i ${file1} -I ${file2} -o ~/rnaseq_2021/02_trimming/results/${output}_1P.fq.gz -O ~/rnaseq_2021/02_trimming/results/${output}_2P.fq.gz -q ${q} --detect_adapter_for_pe --adapter_fasta ${adapters} -l ${l} -f 8 -F 8 -c -p
+	fastp -i ${file1} -I ${file2} -o ~/rnaseq_2021/02_trimming/results/${output}_1P.fq.gz -O ~/rnaseq_2021/02_trimming/results/${output}_2P.fq.gz -q ${q} --detect_adapter_for_pe --adapter_fasta ${adapters} -l ${l} -f 8 -F 8 -c -p -R "${output}" -w 8
 	echo Finished trimming ${file1} and ${file2}
 done
+
 
 
 
