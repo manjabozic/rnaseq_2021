@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	C_24_III_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_III_1P_fastqc.zip
+FastQC	all_sections	C_24_III_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_III_2P_fastqc.zip
+FastQC	all_sections	C_24_II_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_II_1P_fastqc.zip
+FastQC	all_sections	C_24_II_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_II_2P_fastqc.zip
+FastQC	all_sections	C_6_III_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_III_1P_fastqc.zip
+FastQC	all_sections	C_6_III_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_III_2P_fastqc.zip
+FastQC	all_sections	C_6_II_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_II_1P_fastqc.zip
+FastQC	all_sections	C_6_II_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_II_2P_fastqc.zip
+FastQC	all_sections	T_24_III_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_III_1P_fastqc.zip
+FastQC	all_sections	T_24_III_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_III_2P_fastqc.zip
+FastQC	all_sections	T_24_II_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_II_1P_fastqc.zip
+FastQC	all_sections	T_24_II_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_II_2P_fastqc.zip
+FastQC	all_sections	T_6_III_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_III_1P_fastqc.zip
+FastQC	all_sections	T_6_III_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_III_2P_fastqc.zip
+FastQC	all_sections	T_6_II_1P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_II_1P_fastqc.zip
+FastQC	all_sections	T_6_II_2P	/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_II_2P_fastqc.zip

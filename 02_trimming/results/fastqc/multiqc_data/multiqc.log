@@ -1,0 +1,34 @@
+[2023-09-06 09:06:06,785] multiqc                                            [DEBUG  ]  This is MultiQC v1.15
+[2023-09-06 09:06:06,786] multiqc                                            [DEBUG  ]  Command used: /home/mb62095/anaconda3/envs/fastp_env/bin/multiqc C_24_III_1P_fastqc.zip C_24_III_2P_fastqc.zip C_24_II_1P_fastqc.zip C_24_II_2P_fastqc.zip C_6_III_1P_fastqc.zip C_6_III_2P_fastqc.zip C_6_II_1P_fastqc.zip C_6_II_2P_fastqc.zip T_24_III_1P_fastqc.zip T_24_III_2P_fastqc.zip T_24_II_1P_fastqc.zip T_24_II_2P_fastqc.zip T_6_III_1P_fastqc.zip T_6_III_2P_fastqc.zip T_6_II_1P_fastqc.zip T_6_II_2P_fastqc.zip
+[2023-09-06 09:06:07,187] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.15
+[2023-09-06 09:06:07,188] multiqc                                            [DEBUG  ]  Working dir : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc
+[2023-09-06 09:06:07,188] multiqc                                            [DEBUG  ]  Template    : default
+[2023-09-06 09:06:07,188] multiqc                                            [DEBUG  ]  Running Python 3.11.5 | packaged by conda-forge | (main, Aug 27 2023, 03:34:09) [GCC 12.3.0]
+[2023-09-06 09:06:07,189] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2023-09-06 09:06:07,190] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmp6ys_nzk3
+[2023-09-06 09:06:07,263] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_III_1P_fastqc.zip
+[2023-09-06 09:06:07,264] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_III_2P_fastqc.zip
+[2023-09-06 09:06:07,265] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_II_1P_fastqc.zip
+[2023-09-06 09:06:07,266] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_24_II_2P_fastqc.zip
+[2023-09-06 09:06:07,267] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_III_1P_fastqc.zip
+[2023-09-06 09:06:07,268] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_III_2P_fastqc.zip
+[2023-09-06 09:06:07,268] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_II_1P_fastqc.zip
+[2023-09-06 09:06:07,269] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/C_6_II_2P_fastqc.zip
+[2023-09-06 09:06:07,270] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_III_1P_fastqc.zip
+[2023-09-06 09:06:07,271] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_III_2P_fastqc.zip
+[2023-09-06 09:06:07,272] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_II_1P_fastqc.zip
+[2023-09-06 09:06:07,273] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_24_II_2P_fastqc.zip
+[2023-09-06 09:06:07,274] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_III_1P_fastqc.zip
+[2023-09-06 09:06:07,275] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_III_2P_fastqc.zip
+[2023-09-06 09:06:07,276] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_II_1P_fastqc.zip
+[2023-09-06 09:06:07,277] multiqc                                            [INFO   ]  Search path : /home/mb62095/rnaseq_2021/02_trimming/results/fastqc/T_6_II_2P_fastqc.zip
+[2023-09-06 09:06:07,313] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: []
+[2023-09-06 09:06:07,731] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.7.2
+[2023-09-06 09:06:07,732] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.7.2
+[2023-09-06 09:06:07,733] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2023-09-06 09:06:09,657] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 16 reports
+[2023-09-06 09:06:09,999] multiqc                                            [DEBUG  ]  Compressing plot data
+[2023-09-06 09:06:10,137] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2023-09-06 09:06:10,137] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2023-09-06 09:06:10,138] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmp6ys_nzk3/multiqc_data' to '/home/mb62095/rnaseq_2021/02_trimming/results/fastqc/multiqc_data'
+[2023-09-06 09:06:10,724] multiqc                                            [INFO   ]  MultiQC complete
