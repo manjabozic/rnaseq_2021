@@ -1,0 +1,42 @@
+
+[2023-09-11 12:00:05] Beginning TopHat run (v2.1.1)
+-----------------------------------------------
+[2023-09-11 12:00:05] Checking for Bowtie
+		  Bowtie version:	 2.2.5.0
+[2023-09-11 12:00:05] Checking for Bowtie index files (genome)..
+[2023-09-11 12:00:05] Checking for reference FASTA file
+[2023-09-11 12:00:05] Generating SAM header for /home/mb62095/rnaseq_2021/03_mapping/tophat2/indexes/zm_ref_index
+[2023-09-11 12:00:10] Preparing reads
+	 left reads: min. length=32, max. length=142, 499974 kept reads (26 discarded)
+	right reads: min. length=31, max. length=142, 499977 kept reads (23 discarded)
+[2023-09-11 12:00:25] Mapping left_kept_reads to genome zm_ref_index with Bowtie2 
+[2023-09-11 12:01:42] Mapping left_kept_reads_seg1 to genome zm_ref_index with Bowtie2 (1/5)
+[2023-09-11 12:01:54] Mapping left_kept_reads_seg2 to genome zm_ref_index with Bowtie2 (2/5)
+[2023-09-11 12:02:05] Mapping left_kept_reads_seg3 to genome zm_ref_index with Bowtie2 (3/5)
+[2023-09-11 12:02:17] Mapping left_kept_reads_seg4 to genome zm_ref_index with Bowtie2 (4/5)
+[2023-09-11 12:02:29] Mapping left_kept_reads_seg5 to genome zm_ref_index with Bowtie2 (5/5)
+[2023-09-11 12:02:49] Mapping right_kept_reads to genome zm_ref_index with Bowtie2 
+[2023-09-11 12:04:23] Mapping right_kept_reads_seg1 to genome zm_ref_index with Bowtie2 (1/5)
+[2023-09-11 12:04:44] Mapping right_kept_reads_seg2 to genome zm_ref_index with Bowtie2 (2/5)
+[2023-09-11 12:04:56] Mapping right_kept_reads_seg3 to genome zm_ref_index with Bowtie2 (3/5)
+[2023-09-11 12:05:07] Mapping right_kept_reads_seg4 to genome zm_ref_index with Bowtie2 (4/5)
+[2023-09-11 12:05:18] Mapping right_kept_reads_seg5 to genome zm_ref_index with Bowtie2 (5/5)
+[2023-09-11 12:05:34] Searching for junctions via segment mapping
+[2023-09-11 12:06:59] Retrieving sequences for splices
+[2023-09-11 12:07:54] Indexing splices
+[2023-09-11 12:08:07] Mapping left_kept_reads_seg1 to genome segment_juncs with Bowtie2 (1/5)
+[2023-09-11 12:08:10] Mapping left_kept_reads_seg2 to genome segment_juncs with Bowtie2 (2/5)
+[2023-09-11 12:08:13] Mapping left_kept_reads_seg3 to genome segment_juncs with Bowtie2 (3/5)
+[2023-09-11 12:08:16] Mapping left_kept_reads_seg4 to genome segment_juncs with Bowtie2 (4/5)
+[2023-09-11 12:08:21] Mapping left_kept_reads_seg5 to genome segment_juncs with Bowtie2 (5/5)
+[2023-09-11 12:08:26] Joining segment hits
+[2023-09-11 12:09:34] Mapping right_kept_reads_seg1 to genome segment_juncs with Bowtie2 (1/5)
+[2023-09-11 12:09:38] Mapping right_kept_reads_seg2 to genome segment_juncs with Bowtie2 (2/5)
+[2023-09-11 12:09:41] Mapping right_kept_reads_seg3 to genome segment_juncs with Bowtie2 (3/5)
+[2023-09-11 12:09:44] Mapping right_kept_reads_seg4 to genome segment_juncs with Bowtie2 (4/5)
+[2023-09-11 12:09:48] Mapping right_kept_reads_seg5 to genome segment_juncs with Bowtie2 (5/5)
+[2023-09-11 12:09:52] Joining segment hits
+[2023-09-11 12:11:00] Reporting output tracks
+-----------------------------------------------
+[2023-09-11 12:13:04] A summary of the alignment counts can be found in C_6_III/align_summary.txt
+[2023-09-11 12:13:04] Run complete: 00:12:59 elapsed

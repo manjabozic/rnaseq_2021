@@ -6,6 +6,14 @@ tophat2 -g 1 -N 1 -p 15 -o C_6_III ~/rnaseq_2021/03_mapping/tophat2/indexes/zm_r
 
 tophat2 -g 1 -N 1 -p 15 -o T_6_III ~/rnaseq_2021/03_mapping/tophat2/indexes/zm_ref_index cut_T_6_III_1P.fq.gz cut_T_6_III_2P.fq.gz
 
+#attempt no 02
+
+tophat2 -N 1 -p 15 --b2-very-sensitive -o C_6_III ~/rnaseq_2021/03_mapping/tophat2/indexes/zm_ref_index cut_C_6_III_1P.fq.gz cut_C_6_III_2P.fq.gz
+
+attempt no. 03
+
+tophat2 -N 1 -p 15 --b2-sensitive -o C_6_III ~/rnaseq_2021/03_mapping/tophat2/indexes/zm_ref_index cut_C_6_III_1P.fq.gz cut_C_6_III_2P.fq.gz
+
 #BAM 
 samtools view -Sb C_6_III/accepted_hits.bam > C_6_III.bam
 samtools view -Sb T_6_III/accepted_hits.bam > T_6_III.bam
