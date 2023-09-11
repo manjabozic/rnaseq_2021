@@ -5,3 +5,16 @@ bowtie2-build ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.d
 #aligning the reads
 
 bowtie2 --local --no-unal -p 16 -q -x $ARGV[2]_bowtie2 -1 $ARGV[0]_1.fasta -2 $ARGV[0]_2.fasta > $ARGV[0]_1.fasta_$ARGV[2]_BT2_mapping.bam\n"
+
+#transform into bam
+
+samtools view -Sb C_6_III > C_6_III.bam
+
+
+#sort
+
+samtools sort C_6_III.bam > sorted_C_6_III.bam
+
+#index
+
+samtools index sorted_C_6_III.bam
