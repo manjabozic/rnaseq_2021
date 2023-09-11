@@ -16,5 +16,7 @@ test_files/
 03_mapping/bowtie2/.sam
 03_mapping/bowtie2/.bam
 03_mapping/bowtie2/.fq.gz
-
+03_mapping/tophat2/.fq.gz
+03_mapping/tophat2/indexes
+03_mapping/tophat2/*.fq.gz
 
