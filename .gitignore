@@ -23,3 +23,5 @@ test_files/
 03_mapping/star/*.sam
 03_mapping/star/*.fq.gz
 03_mapping/star/*.fq
+03_mapping/salmon/decoys
+03_mapping/salmon/transcript_index
