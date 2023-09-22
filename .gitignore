@@ -25,3 +25,7 @@ test_files/
 03_mapping/star/*.fq
 03_mapping/salmon/decoys
 03_mapping/salmon/transcript_index
+03_mapping/results
+04_read_counts/*.bam
+04_read_counts/*.bam.bai
+
