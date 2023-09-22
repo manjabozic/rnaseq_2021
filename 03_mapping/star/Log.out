@@ -1,7 +1,7 @@
 STAR version=2.7.10b
 STAR compilation time,server,dir=2023-05-25T06:56:23+0000 :/opt/conda/conda-bld/star_1684997536154/work/source
 ##### Command Line:
-/home/mb62095/anaconda3/envs/star_env/bin/STAR-avx2 --runThreadN 15 --genomeDir indexes/ --readFilesCommand zcat --quantMode GeneCounts --outFilterMismatchNmax 15 --outFilterMultimapNmax 50 --readFilesIn cut_T_6_III_1P.fq.gz cut_T_6_III_2P.fq.gz
+/home/mb62095/anaconda3/envs/star_env/bin/STAR-avx2 --runThreadN 15 --genomeDir indexes/ --readFilesCommand zcat --quantMode GeneCounts --outFilterMismatchNmax 15--outFilterMultimapNmax 50 --readFilesIn cut_T_6_III_1P.fq.gz cut_T_6_III_2P.fq.gz
 ##### Initial USER parameters from Command Line:
 ###### All USER parameters from Command Line:
 runThreadN                    15     ~RE-DEFINED
@@ -9,7 +9,6 @@ genomeDir                     indexes/     ~RE-DEFINED
 readFilesCommand              zcat        ~RE-DEFINED
 quantMode                     GeneCounts        ~RE-DEFINED
 outFilterMismatchNmax         15     ~RE-DEFINED
-outFilterMultimapNmax         50     ~RE-DEFINED
 readFilesIn                   cut_T_6_III_1P.fq.gz   cut_T_6_III_2P.fq.gz        ~RE-DEFINED
 ##### Finished reading parameters from all sources
 
@@ -18,13 +17,12 @@ runThreadN                        15
 genomeDir                         indexes/
 readFilesIn                       cut_T_6_III_1P.fq.gz   cut_T_6_III_2P.fq.gz   
 readFilesCommand                  zcat   
-outFilterMultimapNmax             50
 outFilterMismatchNmax             15
 quantMode                         GeneCounts   
 
 -------------------------------
 ##### Final effective command line:
-/home/mb62095/anaconda3/envs/star_env/bin/STAR-avx2   --runThreadN 15   --genomeDir indexes/   --readFilesIn cut_T_6_III_1P.fq.gz   cut_T_6_III_2P.fq.gz      --readFilesCommand zcat      --outFilterMultimapNmax 50   --outFilterMismatchNmax 15   --quantMode GeneCounts   
+/home/mb62095/anaconda3/envs/star_env/bin/STAR-avx2   --runThreadN 15   --genomeDir indexes/   --readFilesIn cut_T_6_III_1P.fq.gz   cut_T_6_III_2P.fq.gz      --readFilesCommand zcat      --outFilterMismatchNmax 15   --quantMode GeneCounts   
 ----------------------------------------
 
 Number of fastq files for each mate = 1
@@ -756,7 +754,7 @@ Number of real (reference) chromosomes= 685
 684	scaf_694	30512	2310799360
 685	scaf_695	30084	2311061504
 --sjdbOverhang = 100 taken from the generated genome
-Started loading the genome: Thu Sep 14 14:21:54 2023
+Started loading the genome: Fri Sep 22 10:58:21 2023
 
 Genome: size given as a parameter = 2348058006
 SA: size given as a parameter = 18272262108
@@ -770,15 +768,15 @@ Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 2348058006 byt
 SA file size: 18272262108 bytes; state: good=1 eof=0 fail=0 bad=0
 Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 18272262108 bytes
 Loading SAindex ... done: 1565873619 bytes
-Finished loading the genome: Thu Sep 14 14:23:28 2023
+Finished loading the genome: Fri Sep 22 11:00:03 2023
 
 Processing splice junctions database sjdbN=182758,   pGe.sjdbOverhang=100 
 alignIntronMax=alignMatesGapMax=0, the max intron size will be approximately determined by (2^winBinNbits)*winAnchorDistNbins=589824
 Created thread # 1
+Created thread # 2
 Starting to map file # 0
 mate 1:   cut_T_6_III_1P.fq.gz
 mate 2:   cut_T_6_III_2P.fq.gz
-Created thread # 2
 Created thread # 3
 Created thread # 4
 Created thread # 5
@@ -795,15 +793,15 @@ Thread #12 end of input stream, nextChar=-1
 Completed: thread #13
 Completed: thread #14
 Completed: thread #0
+Completed: thread #2
 Completed: thread #1
 Joined thread # 1
-Completed: thread #2
 Joined thread # 2
-Completed: thread #5
-Completed: thread #4
 Completed: thread #3
 Joined thread # 3
+Completed: thread #4
 Joined thread # 4
+Completed: thread #5
 Joined thread # 5
 Completed: thread #6
 Joined thread # 6
@@ -821,9 +819,9 @@ Joined thread # 11
 Joined thread # 12
 Joined thread # 13
 Joined thread # 14
-Sep 14 14:23:53 ..... finished mapping
+Sep 22 11:00:25 ..... finished mapping
 RAM after mapping:
-VmPeak:	0 kB; VmSize:	24928432 kB; VmHWM:	0 kB; VmRSS:	23841076 kB; 
+VmPeak:	0 kB; VmSize:	24927824 kB; VmHWM:	0 kB; VmRSS:	23756848 kB; 
 RAM after freeing genome index memory:
-VmPeak:	0 kB; VmSize:	3262220 kB; VmHWM:	0 kB; VmRSS:	2174864 kB; 
+VmPeak:	0 kB; VmSize:	3261612 kB; VmHWM:	0 kB; VmRSS:	2090636 kB; 
 ALL DONE!
