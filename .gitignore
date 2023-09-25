@@ -28,4 +28,6 @@ test_files/
 03_mapping/results
 04_read_counts/*.bam
 04_read_counts/*.bam.bai
+04_read_counts/stringtie
+04_read_counts/featurecounts
 
