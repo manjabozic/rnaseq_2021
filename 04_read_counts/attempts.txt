@@ -1,0 +1,23 @@
+# star comes automatically
+
+#htseq 
+
+htseq-count --stranded=no -s no -r pos -m union -o htseq/cut_c_6_iii.bam -p bam -c htseq/cut_c_6_iii.tsv -n 16 cut_C_6_III.bam ~/rnase
+q_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf
+
+htseq-count --stranded=no -s no -r pos -m union -o htseq/cut_t_6_iii.bam -p bam -c htseq/cut_t_6_iii.tsv -n 16 cut_T_6_III.bam ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf
+
+#featurecounts
+
+featureCounts -a ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -G ~/rnaseq_2021/03_mapping/reference_genome/Zm-B73-REFERENCE-NAM-5.0.fa -o rcfc_cut_C_6_III_02.txt -p ~/rnaseq_2021/04_read_counts/cut_C_6_III.bam
+
+#stringtie
+
+#first do it normally
+
+stringtie cut_C_6_III.bam -G ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o ~/rnaseq_2021/04_read_counts/stringtie/temp_cut_C_6_III.gtf
+stringtie cut_T_6_III.bam -G ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o ~/rnaseq_2021/04_read_counts/stringtie/temp_cut_T_6_III.gtf
+
+#run stringtie merge
+
+stringtie --merge stringtie/temp_cut_C_6_III.gtf stringtie/temp_cut_T_6_III.gtf -G ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o stringtie/merged_cut_6_III.gtf
