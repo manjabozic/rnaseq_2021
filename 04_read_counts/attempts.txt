@@ -21,3 +21,16 @@ stringtie cut_T_6_III.bam -G ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_
 #run stringtie merge
 
 stringtie --merge stringtie/temp_cut_C_6_III.gtf stringtie/temp_cut_T_6_III.gtf -G ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o stringtie/merged_cut_6_III.gtf
+
+#cufflinks
+cufflinks -g ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o ~/rnaseq_2021/04_read_counts/cufflinks --library-type fr-unstranded ~/rnaseq_2021/04_read_counts/cut_C_6_III.bam
+cufflinks -g ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16 -o ~/rnaseq_2021/04_read_counts/cufflinks --library-type fr-unstranded ~/rnaseq_2021/04_read_counts/cut_T_6_III.bam
+
+cuffcompare cut_C_6_III_transcripts.gtf cut_T_6_III_transcripts.gtf -r ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16
+
+
+cuffquant -p 16 -u -o ~/rnaseq_2021/04_read_counts/cufflinks/quant ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf --library-type fr-unstranded ~/rnaseq_2021/04_read_counts/cut_T_6_III.bam
+
+cuffnorm -p 16 -o quant/ --library-type fr-unstranded --library-norm-method classic-fpkm ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf ~/rnaseq_2021/04_read_counts/cut_C_6_III.bam ~/rnaseq_2021/04_read_counts/cut_T_6_III.bam
+
+cuffdiff -p 16 -o quant/diff --library-type fr-unstranded --library-norm-method classic-fpkm ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf ~/rnaseq_2021/04_read_counts/cut_C_6_III.bam ~/rnaseq_2021/04_read_counts/cut_T_6_III.bam
