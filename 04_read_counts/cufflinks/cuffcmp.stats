@@ -1,0 +1,52 @@
+# Cuffcompare v2.2.1 | Command line was:
+#cuffcompare cut_C_6_III_transcripts.gtf cut_T_6_III_transcripts.gtf -r /home/mb62095/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf -p 16
+#
+
+#= Summary for dataset: cut_C_6_III_transcripts.gtf :
+#     Query mRNAs :   73078 in   39260 loci  (63335 multi-exon transcripts)
+#            (15529 multi-transcript loci, ~1.9 transcripts per locus)
+# Reference mRNAs :   71677 in   38991 loci  (62151 multi-exon)
+# Super-loci w/ reference transcripts:    38761
+#--------------------|   Sn   |  Sp   |  fSn |  fSp  
+        Base level: 	100.0	 99.2	  - 	  - 
+        Exon level: 	109.0	107.6	100.0	100.0
+      Intron level: 	100.0	 99.0	100.0	100.0
+Intron chain level: 	 99.8	 97.9	100.0	100.0
+  Transcript level: 	 99.8	 97.9	 91.0	 89.3
+       Locus level: 	 99.9	 99.2	100.0	 99.2
+
+     Matching intron chains:   62005
+              Matching loci:   38967
+
+          Missed exons:       5/248990	(  0.0%)
+           Novel exons:    1546/252205	(  0.6%)
+        Missed introns:      74/182787	(  0.0%)
+         Novel introns:    1240/184612	(  0.7%)
+           Missed loci:       5/38991	(  0.0%)
+            Novel loci:     294/39260	(  0.7%)
+
+#= Summary for dataset: cut_T_6_III_transcripts.gtf :
+#     Query mRNAs :   73423 in   39310 loci  (63652 multi-exon transcripts)
+#            (15623 multi-transcript loci, ~1.9 transcripts per locus)
+# Reference mRNAs :   71677 in   38991 loci  (62151 multi-exon)
+# Super-loci w/ reference transcripts:    38789
+#--------------------|   Sn   |  Sp   |  fSn |  fSp  
+        Base level: 	100.0	 99.1	  - 	  - 
+        Exon level: 	109.0	107.3	100.0	100.0
+      Intron level: 	100.0	 98.7	100.0	100.0
+Intron chain level: 	 99.8	 97.4	100.0	100.0
+  Transcript level: 	 99.8	 97.4	 91.0	 88.9
+       Locus level: 	 99.9	 99.0	100.0	 99.1
+
+     Matching intron chains:   61996
+              Matching loci:   38955
+
+          Missed exons:       5/248990	(  0.0%)
+           Novel exons:    1917/253052	(  0.8%)
+        Missed introns:      74/182787	(  0.0%)
+         Novel introns:    1546/185097	(  0.8%)
+           Missed loci:       5/38991	(  0.0%)
+            Novel loci:     346/39310	(  0.9%)
+
+ Total union super-loci across all input datasets: 39392 
+  (15181 multi-transcript, ~1.9 transcripts per locus)

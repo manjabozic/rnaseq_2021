@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffnorm -p 16 -o quant/ --library-type fr-unstranded --library-norm-method classic-fpkm /home/mb62095/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf /home/mb62095/rnaseq_2021/04_read_counts/cut_C_6_III.bam /home/mb62095/rnaseq_2021/04_read_counts/cut_T_6_III.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700
