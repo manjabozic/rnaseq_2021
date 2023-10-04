@@ -31,4 +31,6 @@ test_files/
 04_read_counts/stringtie/*.gtf
 04_read_counts/featurecounts/.txt
 04_read_counts/htseq/*.bam
+04_read_counts/cufflinks/*.gtf
+04_read_counts/cufflinks/quant/*.cxb
 
