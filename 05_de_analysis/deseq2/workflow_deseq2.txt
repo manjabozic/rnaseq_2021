@@ -1,0 +1,26 @@
+# in R
+
+
+#Load DESeq into the workspace
+
+library(DESeq2)
+
+#since we are using htseq, we need to merge all the counts files into one first
+
+#to do that, we will use an R script through the command line - htseq-combine_all.R
+
+Rscript htseq-combine_all.R <arg1> <arg2>
+
+#arg1 is the path to where the files are and arg2 is the name of the final output
+
+Rscript htseq-combine_all.R ~/rnaseq_2021/04_read_counts/htseq/ counts
+
+
+
+
+
+#then we can start preparing the files for the DESeq analysis
+
+dds <- DESeqDataSetFromHTSeq(countData = counts, colData = coldata, design= ~ batch + condition)
+
+#so
