@@ -33,4 +33,4 @@ test_files/
 04_read_counts/htseq/*.bam
 04_read_counts/cufflinks/*.gtf
 04_read_counts/cufflinks/quant/*.cxb
-
+04_read_counts/stringtie/all/
