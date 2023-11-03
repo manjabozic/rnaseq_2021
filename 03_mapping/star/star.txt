@@ -32,3 +32,9 @@ STAR --runThreadN 15 --genomeDir indexes/ --readFilesCommand zcat --quantMode Ge
 #best option seems to be:
 
 STAR --runThreadN 15 --genomeDir indexes/ --readFilesCommand zcat --quantMode GeneCounts --outFilterMismatchNmax 15 --outFilterMultimapNmax 50 --readFilesIn cut_T_6_III_1P.fq.gz cut_T_6_III_2P.fq.gz
+
+
+STAR --runThreadN 16  --genomeDir indexes/ \
+--readFilesCommand zcat --quantMode TranscriptomeSAM --outFilterMismatchNmax 15 \
+--outFilterMultimapNmax 50 --outFileNamePrefix rsem/rsem_C_6_III_ \
+--readFilesIn cut_C_6_III_1P.fq.gz cut_C_6_III_2P.fq.gz
