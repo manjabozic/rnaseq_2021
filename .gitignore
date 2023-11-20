@@ -34,3 +34,5 @@ test_files/
 04_read_counts/cufflinks/*.gtf
 04_read_counts/cufflinks/quant/*.cxb
 04_read_counts/stringtie/all/
+04_read_counts/rsem
+05_de_analysis/fake_reps/

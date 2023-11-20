@@ -10,7 +10,7 @@
 
 #Set the working directory and load the necessary packages
 
-setwd("E:/Manja/deseq2")
+setwd("E:/Manja/deseq2/fake_reps")
 library(tidyverse)
 library(DESeq2)
 
@@ -31,6 +31,16 @@ Rscript htseq-combine_all.R <arg1> <arg2>
 counts <- read.delim("E:/Manja/deseq2/counts.csv", header=TRUE, row.names="ENSEMBL_GeneID")
 cts=as.matrix(counts)
 
+total <- read.csv("E:/Manja/deseq2/fake_reps/counts_total.csv", header=TRUE, row.names="ENSEMBL_GeneID")
+counts_total=as.matrix(total)
+
+
+counts_T_6 <- as.matrix(read.csv("E:/Manja/deseq2/fake_reps/counts_II_6.csv", header=TRUE, row.names="ENSEMBL_GeneID"))
+counts_S_6 <- as.matrix(read.csv("E:/Manja/deseq2/fake_reps/counts_III_6.csv", header=TRUE, row.names="ENSEMBL_GeneID"))
+
+counts_T_24 <- as.matrix(read.csv("E:/Manja/deseq2/fake_reps/counts_II_24.csv", header=TRUE, row.names="ENSEMBL_GeneID"))
+counts_S_24 <- as.matrix(read.csv("E:/Manja/deseq2/fake_reps/counts_III_24.csv", header=TRUE, row.names="ENSEMBL_GeneID"))
+
 #Watch out for the file you are loading - add the absolute path to it, and see how to rows are named in it
 #(it doesn't have to be "ENSEMBL_GeneID") - check this and change the parameters if necessary.
 
@@ -39,10 +49,23 @@ cts=as.matrix(counts)
 #the sample information before that.This files needs to have the sample names in different rows, and
 #information about the treatment conditions, type of sequencing, etc - in separate columns.
 
-coldata <- read.csv("E:/Manja/deseq2/coldata.csv", row.names=1)
-coldata <- coldata[,c("condition","type")]
-coldata$condition <- factor(coldata$condition)
-coldata$type <- factor(coldata$type)
+coldata <- read.csv("E:/Manja/deseq2/fake_reps/coldata.csv", row.names=1)
+coldata <- coldata[,c("condition","time_point", "genotype")]
+coldata$condition <- factor(coldata$condition) #factor() encodes a vector as a factor
+coldata$time_point <- factor(coldata$time_point)
+coldata$genotype <- factor(coldata$genotype)
+
+cd_T_6 <- read.delim("E:/Manja/deseq2/fake_reps/coldata_II_6.txt", sep = "\t", row.names=1)
+cd_T_6$condition <- factor(cd_T_6$condition)
+
+cd_T_24 <- read.delim("E:/Manja/deseq2/fake_reps/coldata_II_24.txt", sep = "\t", row.names=1)
+cd_T_24$condition <- factor(cd_T_24$condition)
+
+cd_S_6 <- read.csv("E:/Manja/deseq2/fake_reps/coldata_III_6.txt", sep = "\t", row.names=1)
+cd_S_6$condition <- factor(cd_S_6$condition)
+
+cd_S_24 <- read.csv("E:/Manja/deseq2/fake_reps/coldata_III_24.txt", sep = "\t", row.names=1)
+cd_S_24$condition <- factor(cd_S_24$condition)
 
 #Again, be careful of the path to the CSV file and the namings of its columns.
 
@@ -51,16 +74,44 @@ coldata$type <- factor(coldata$type)
 #the same order. Additionally, naming of the columns in the count matrix and rows in coldata must be
 # consistent. You can check if this is true using these commands:
 
-all(rownames(coldata) %in% colnames(cts))
-all(rownames(coldata) == colnames(cts))
+all(rownames(coldata) %in% colnames(counts))
+all(rownames(coldata) == colnames(counts))
+
+all(rownames(cd_S_24) %in% colnames(counts_S_24))
+all(rownames(cd_S_24) == colnames(counts_S_24))
+
+all(rownames(cd_T_24) %in% colnames(counts_T_24))
+all(rownames(cd_T_24) == colnames(counts_T_24))
+
+all(rownames(cd_S_6) %in% colnames(counts_S_6))
+all(rownames(cd_S_6) == colnames(counts_S_6))
+
+all(rownames(cd_T_6) %in% colnames(counts_T_6))
+all(rownames(cd_T_6) == colnames(counts_T_6))
 
 #Both have to give the output "TRUE"
 
 #Then just, load the data into DESeq2
 
-dds <- DESeqDataSetFromMatrix(countData = cts,
+dds <- DESeqDataSetFromMatrix(countData = counts_total,
                               colData = coldata,
                               design = ~ condition)
+
+dds_T6 <- DESeqDataSetFromMatrix(countData = counts_T_6,
+                              colData = cd_T_6,
+                              design = ~ condition)
+
+dds_T24 <- DESeqDataSetFromMatrix(countData = counts_T_24,
+                                   colData = cd_T_24,
+                                   design = ~ condition)
+
+dds_S6 <- DESeqDataSetFromMatrix(countData = counts_S_6,
+                                 colData = cd_S_6,
+                                 design = ~ condition)
+
+dds_S24 <- DESeqDataSetFromMatrix(countData = counts_S_24,
+                                  colData = cd_S_24,
+                                  design = ~ condition)
 
 #########################################################################################################
 
@@ -93,9 +144,18 @@ ddsHTSeq <- DESeqDataSetFromHTSeqCount(sampleTable = sampleTable,
 # samples (not including technical replicates). Since we have no replicates, it will always be one.
 
 smallestGroupSize <- 1
-keep <- rowSums(counts(dds) >= 10) >= smallestGroupSize
-dds <- dds[keep,]
+keep <- rowSums(counts(dds_all) >= 10) >= smallestGroupSize
+dds_all <- dds_all[keep,]
 
+keep <- rowSums(counts(dds_T6) >= 10) >= smallestGroupSize
+dds_T6 <- dds_T6[keep,]
+keep <- rowSums(counts(dds_T24) >= 10) >= smallestGroupSize
+dds_T24 <- dds_T24[keep,]
+
+keep <- rowSums(counts(dds_S6) >= 10) >= smallestGroupSize
+dds_S6 <- dds_S6[keep,]
+keep <- rowSums(counts(dds_S24) >= 10) >= smallestGroupSize
+dds_S24 <- dds_S24[keep,]
 
 ################################# SETTING THE FACTOR LEVELS ############################################
 
@@ -105,8 +165,21 @@ dds <- dds[keep,]
 #the control group). 
 #You can explicitly set the factors levels.
 
-dds$condition <- factor(dds$condition, levels = c("untreated","treated"))
-dds$condition <- relevel(dds$condition, ref = "untreated")
+dds_all$condition <- factor(dds_all$condition, levels = c("untreated","treated"))
+dds_all$genotype <- factor(dds_all$genotype, levels = c("II","III"))
+dds_all$time_point <- factor(dds_all$time_point, levels = c("6","24"))
+dds_all$condition <- relevel(dds_all$condition, ref = "untreated")
+
+
+dds_T6$condition <- factor(dds_T6$condition, levels = c("untreated","treated"))
+dds_T6$condition <- relevel(dds_T6$condition, ref = "untreated")
+dds_T24$condition <- factor(dds_T24$condition, levels = c("untreated","treated"))
+dds_T24$condition <- relevel(dds_T24$condition, ref = "untreated")
+
+dds_S6$condition <- factor(dds_S6$condition, levels = c("untreated","treated"))
+dds_S6$condition <- relevel(dds_S6$condition, ref = "untreated")
+dds_S24$condition <- factor(dds_S24$condition, levels = c("untreated","treated"))
+dds_S24$condition <- relevel(dds_S24$condition, ref = "untreated")
 
 #In order to see the change of reference levels reflected in the results names, you need to either run DESeq 
 #or nbinomWaldTest/nbinomLRT after the re-leveling operation.
@@ -119,16 +192,40 @@ dds$condition <- relevel(dds$condition, ref = "untreated")
 dds_DESEQ2 <- DESeq(dds)
 res <- results(dds)
 
+Tol_6h_DE <- DESeq(dds_T6)
+Tol_6h_res <- results(Tol_6h_DE, alpha = 0.05)
+
+Tol_24h_DE <- DESeq(dds_T24)
+Tol_24h_res <- results(Tol_24h_DE, alpha = 0.05)
+
+Susc_6h_DE <- DESeq(dds_S6)
+Susc_6h_res <- results(Susc_6h_DE, alpha = 0.05)
+
+Susc_24h_DE <- DESeq(dds_S24)
+Susc_24h_res <- results(Susc_24h_DE, alpha = 0.05)
+
 ###################################### ADDITIONAL ANALYSIS PARAMETERS ###################################
+summary(Tol_6h_res)#The results summary
+summary(Tol_24h_res)
+
+summary(Susc_6h_res)
+summary(Susc_24h_res)
 
 #You can sort the results by p-value:
 
 resOrdered <- res[order(res$pvalue),]
 
-summary(res) #The results summary
+Tol_6h_res_sort <- Tol_6h_res[order(Tol_6h_res$padj),]
+Tol_24h_res_sort <- Tol_24h_res[order(Tol_24h_res$padj),]
 
-sum(res$padj < 0.1, na.rm=TRUE) #Number of DE genes with adjusted p-value less than 0.1
+Susc_6h_res_sort <- Susc_6h_res[order(Susc_6h_res$padj),]
+Susc_24h_res_sort <- Susc_24h_res[order(Susc_24h_res$padj),]
 
+sum(Tol_6h_res$padj < 0.05, na.rm=TRUE) #Number of DE genes with adjusted p-value less than 0.1
+sum(Tol_24h_res$padj < 0.05, na.rm=TRUE)
+
+sum(Susc_6h_res$padj < 0.05, na.rm=TRUE)
+sum(Susc_24h_res$padj < 0.05, na.rm=TRUE)
 #Note that the results function automatically performs independent filtering based on the mean of 
 #normalized counts for each gene, optimizing the number of genes which will have an adjusted p value 
 #below a given FDR cutoff, alpha. 
@@ -141,6 +238,14 @@ res05 <- results(dds, alpha=0.05)
 
 
 ########################################## RESULTS ######################################################
+
+#Log fold change shrinkage
+
+resLFC_Tol_6h <- lfcShrink(Tol_6h_DE, coef="condition_treated_vs_untreated", type="apeglm")
+resLFC_Tol_24h <- lfcShrink(Tol_24h_DE, coef="condition_treated_vs_untreated", type="apeglm")
+
+resLFC_Susc_6h <- lfcShrink(Susc_6h_DE, coef="condition_treated_vs_untreated", type="apeglm")
+resLFC_Susc_24h <- lfcShrink(Susc_24h_DE, coef="condition_treated_vs_untreated", type="apeglm")
 
 #MA-plot (The log2 fold changes attributable to a given variable over the mean of normalized counts for 
 #all the samples in the DESeqDataSet.)
