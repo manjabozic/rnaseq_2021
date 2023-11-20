@@ -36,3 +36,6 @@ test_files/
 04_read_counts/stringtie/all/
 04_read_counts/rsem
 05_de_analysis/fake_reps/
+picard/
+fakereps/
+
