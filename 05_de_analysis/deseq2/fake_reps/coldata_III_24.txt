@@ -1,0 +1,5 @@
+file	condition	time_point	genotype
+C_24_Susc_1	untreated	24	Susc
+C_24_Susc_2	untreated	24	Susc
+T_24_Susc_1	treated	24	Susc
+T_24_Susc_2	treated	24	Susc

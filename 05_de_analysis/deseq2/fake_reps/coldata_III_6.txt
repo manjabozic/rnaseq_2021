@@ -1,0 +1,5 @@
+file	condition	time_point	genotype
+C_6_Susc_1	untreated	6	Susc
+C_6_Susc_2	untreated	6	Susc
+T_6_Susc_1	treated	6	Susc
+T_6_Susc_2	treated	6	Susc

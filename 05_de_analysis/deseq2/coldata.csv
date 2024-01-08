@@ -1,0 +1,5 @@
+﻿file,condition,type
+cut_c_6_iii_01,untreated,paired-end
+cut_c_6_iii_02,untreated,paired-end
+cut_t_6_iii_01,"treated	",paired-end
+cut_t_6_iii_02,treated,paired-end

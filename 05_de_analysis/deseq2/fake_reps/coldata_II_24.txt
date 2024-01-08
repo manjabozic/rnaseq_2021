@@ -1,0 +1,5 @@
+file	condition	time_point	genotype
+C_24_Tol_1	untreated	24	Tol
+C_24_Tol_2	untreated	24	Tol
+T_24_Tol_1	treated	24	Tol
+T_24_Tol_2	treated	24	Tol

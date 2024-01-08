@@ -1,0 +1,5 @@
+file	condition	time_point	genotype
+C_6_Tol_1	untreated	6	Tol
+C_6_Tol_2	untreated	6	Tol
+T_6_Tol_1	treated	6	Tol
+T_6_Tol_2	treated	6	Tol
