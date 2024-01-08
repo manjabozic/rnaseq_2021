@@ -38,4 +38,7 @@ test_files/
 05_de_analysis/fake_reps/
 picard/
 fakereps/
-
+05_de_analysis/edgeR/zm_annotation
+05_de_analysis/edgeR/.RData
+05_de_analysis/edgeR/.Rhistory
+05_de_analysis/edgeR/data/Zea_mays_B73_RefGen_v5.exon
