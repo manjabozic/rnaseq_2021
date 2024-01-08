@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.10.2",
+    "index": "transcript_index/",
+    "libType": "A",
+    "mates1": "/home/mb62095/rnaseq_2021/03_mapping/star/cut_C_6_III_1P.fq.gz",
+    "mates2": "/home/mb62095/rnaseq_2021/03_mapping/star/cut_C_6_III_2P.fq.gz",
+    "validateMappings": [],
+    "seqBias": [],
+    "gcBias": [],
+    "writeMappings": "attempt_no_03.sam",
+    "output": "transcripts_quant_attempt_03",
+    "auxDir": "aux_info"
+}

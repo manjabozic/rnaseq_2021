@@ -1,0 +1,30 @@
+## MAPPING WITH SALMON, NOTES
+
+#First step is creating index files for mapping
+# To do this, first you need to create a decoys.txt file - this makes mapping more succesful
+ 		#This step requires you to install bedtools, mashmap and have awk available
+		# Next, you need to have the generateDecoyTranscriptome.sh script available - running this script creates the decoy file
+		#since the script is buggy, try this:
+		awk -v OFS='\t' '{if ($3=="exon") {print $1,$4,$5}}' ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.exon.gtf > exons.bed
+		bedtools maskfasta -fi  ~/rnaseq_2021/03_mapping/reference_genome/Zea_mays_B73_RefGen_v5.dna.fa -bed exons.bed -fo reference.masked.genome.fa
+		mashmap -r reference.masked.genome.fa -q ~/rnaseq_2021/03_mapping/reference_genome/Zmays_833_Zm-B73-REFERENCE-NAM-5.0.55.transcript.fa -t 16 --pi 90 -s 1000 > mashmap.out
+		#mashmap was really problematiic, it takes up too much RAM with the initial parameters (--pi 80 -s 500) and it crashed, so I needed to loosen up the parameters for it to work
+		awk -v OFS='\t' '{print $6,$8,$9}' mashmap.out | sort -k1,1 -k2,2n - > genome_found.sorted.bed
+		nano ~/rnaseq_2021/03_mapping/salmon/salmon.txt
+		awk -v OFS='\t' '{print $6,$8,$9}' mashmap.out | sort -k1,1 -k2,2n - > genome_found.sorted.bed
+		bedtools merge -i genome_found.sorted.bed > genome_found_merged.bed
+		bedtools getfasta -fi reference.masked.genome.fa -bed genome_found_merged.bed -fo genome_found.fa
+		awk '{a=$0; getline;split(a, b, ":");  r[b[1]] = r[b[1]]""$0} END { for (k in r) { print k"\n"r[k] } }' genome_found.fa > decoy.fa
+		cat ~/rnaseq_2021/03_mapping/reference_genome/Zmays_833_Zm-B73-REFERENCE-NAM-5.0.55.transcript.fa decoy.fa > gentrome.fa
+		grep ">" decoy.fa | $awk '{print substr($1,2); }' > decoys.txt
+		#though a script with these corrected commands would work the same
+
+
+		#Another option (maybe even an easier option is to do it by foot)
+		grep "^>" <(gunzip -c #refgenome.fa.gz) | cut -d " " -f 1 > decoys.txt
+		sed -i.bak -e 's/>//g' decoys.txt
+		cat #transcripts.fa.gz #refgenome.fa.gz > gentrome.fa.gz	
+
+
+#Then, after creating to gentrome and decoy files, you can create the index
+		salmon index -t ~/rnaseq_2021/03_mapping/salmon/decoys/gentrome.fa -i transcript_index --decoys decoys/decoys.txt -k 31
