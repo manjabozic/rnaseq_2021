@@ -1,0 +1,9 @@
+Sample	Subject	Treatment
+C_6_Susc	Susc. genotype	C-6
+T_6_Susc	Susc. genotype	T-6
+C_24_Susc	Susc. genotype	C-24
+T_24_Susc	Susc. genotype	T-24
+C_6_Tol	Tol. genotype	C-6
+T_6_Tol	Tol. genotype	T-6
+C_24_Tol	Tol. genotype	C-24
+T_24_Tol	Tol. genotype	T-24

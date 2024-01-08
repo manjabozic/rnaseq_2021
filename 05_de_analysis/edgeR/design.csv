@@ -1,0 +1,9 @@
+﻿Sample,Genotype,Treatment
+C_6_Susc,Susceptible,Control_6
+T_6_Susc,Susceptible,Cold_6
+C_24_Susc,Susceptible,Control_24
+T_24_Susc,Susceptible,Cold_24
+C_6_Tol,Tolerant,Control_6
+T_6_Tol,Tolerant,Cold_6
+C_24_Tol,Tolerant,Control_24
+T_24_Tol,Tolerant,Cold_24

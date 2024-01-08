@@ -1,0 +1,24 @@
+- plots/ - volcano plots for all the analyses
+- several Venn diagrams (7)
+- DE_Susc_6h - DEG, susceptible genotype, C vs. T, 6h
+- DE_Susc_24h - DEG, susceptible genotype, C vs. T, 24h
+- DE_Tol_6h - DEG, tolerant genotype, C vs. T, 6h
+- DE_Tol_24h - DEG, tolerant genotype, C vs. T, 24h
+- DE_control_6h - DEG, susceptible vs. tolerant genotype, control, 6h
+- DE_control_24h - DEG, susceptible vs. tolerant genotype, control, 24h
+- DE_treatment_6h - DEG, susceptible vs. tolerant genotype, treatment, 6h
+- DE_treatment_24h - DEG, susceptible vs. tolerant genotype, treatment, 24h
+- de_susc_6h_sign - significant DEG, susceptible genotype, C vs. T, 6h
+- de_susc_6h_24h_sign - significant DEG, susceptible genotype, C vs. T, 24h
+- de_tol_6h_sign - significant DEG, tolerant genotype, C vs. T, 6h
+- de_tol_6h_24h_sign - significant DEG, tolerant genotype, C vs. T, 24h
+- genes_control.6h - list od DE genes, susceptible vs. tolerant genotype, control, 6h
+- genes_control.24h - list od DE genes, susceptible vs. tolerant genotype, control, 24h
+- genes_treatment.6h - list od DE genes, susceptible vs. tolerant genotype, treatment, 6h
+- genes_treatment.24h - list od DE genes, susceptible vs. tolerant genotype, treatment, 24h
+- genes_susc.6h - list od DE genes, susceptible genotype, C vs. T, 6h
+- genes_susc.24h - list od DE genes, susceptible genotype, C vs. T, 24h
+- genes_tol.6h - list od DE genes, tolerant genotype, C vs. T, 6h
+- genes_tol.24h - list od DE genes, tolerant genotype, C vs. T, 24h
+- de_sign.xlsx - significant DEGs in an excel file
+- results.xlsx - combined results in one excel file
