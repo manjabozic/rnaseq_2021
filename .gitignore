@@ -42,3 +42,5 @@ fakereps/
 05_de_analysis/edgeR/.RData
 05_de_analysis/edgeR/.Rhistory
 05_de_analysis/edgeR/data/Zea_mays_B73_RefGen_v5.exon.gtf
+07_cluster_analysis/.RData
+07_cluster_analysis/.Rhistory
