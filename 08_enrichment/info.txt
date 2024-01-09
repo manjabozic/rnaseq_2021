@@ -1,0 +1,9 @@
+Sample	Class
+C_6_Susc	"Control, S, 6h"
+T_6_Susc	"Treatment, S, 6h"
+C_24_Susc	"Control, S, 24h"
+T_24_Susc	"Treatment, S, 24h"
+C_6_Tol	"Control, T, 6h"
+T_6_Tol	"Treatment, T, 6h"
+C_24_Tol	"Control, T, 24h"
+T_24_Tol	"Treatment, T, 24h"

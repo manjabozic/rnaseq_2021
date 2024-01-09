@@ -1,0 +1,32 @@
+""	"category"	"subcategory"	"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"
+"zma00196"	"Metabolism"	"Energy metabolism"	"zma00196"	"Photosynthesis - antenna proteins"	"4/37"	"16/3668"	1.46367878844944e-05	0.000453740424419327	0.0004005857736809	"542716/542320/100282512/100274453"	4
+"zma04712"	"Organismal Systems"	"Environmental adaptation"	"zma04712"	"Circadian rhythm - plant"	"4/37"	"37/3668"	0.000456441445646576	0.00707484240752193	0.00624604083516368	"100383277/100272803/100281091/100273598"	4
+"zma00710"	"Metabolism"	"Energy metabolism"	"zma00710"	"Carbon fixation in photosynthetic organisms"	"3/37"	"49/3668"	0.012658381691254	0.106069500754524	0.0936437018545885	"100282017/100272845/100282845"	3
+"zma00941"	"Metabolism"	"Biosynthesis of other secondary metabolites"	"zma00941"	"Flavonoid biosynthesis"	"2/37"	"18/3668"	0.0136863871941322	0.106069500754524	0.0936437018545885	"100286107/100284998"	2
+"zma00940"	"Metabolism"	"Biosynthesis of other secondary metabolites"	"zma00940"	"Phenylpropanoid biosynthesis"	"4/37"	"103/3668"	0.0190198552941209	0.11792310282355	0.104108681609925	"100192603/100191769/100284998/100191153"	4
+"zma01200"	"Metabolism"	"Global and overview maps"	"zma01200"	"Carbon metabolism"	"5/37"	"202/3668"	0.0500011167351638	0.25833910313168	0.228075269318291	"100285987/100282017/100272845/100282845/103633249"	5
+"zma00630"	"Metabolism"	"Carbohydrate metabolism"	"zma00630"	"Glyoxylate and dicarboxylate metabolism"	"2/37"	"53/3668"	0.0990384860565106	0.410890191234045	0.362755347099666	"100285987/103633249"	2
+"zma00950"	"Metabolism"	"Biosynthesis of other secondary metabolites"	"zma00950"	"Isoquinoline alkaloid biosynthesis"	"1/37"	"12/3668"	0.114714673859322	0.410890191234045	0.362755347099666	"100274380"	1
+"zma04141"	"Genetic Information Processing"	"Folding, sorting and degradation"	"zma04141"	"Protein processing in endoplasmic reticulum"	"4/37"	"189/3668"	0.120352996782138	0.410890191234045	0.362755347099666	"542723/100280907/100283766/100196928"	4
+"zma00945"	"Metabolism"	"Biosynthesis of other secondary metabolites"	"zma00945"	"Stilbenoid, diarylheptanoid and gingerol biosynthesis"	"1/37"	"14/3668"	0.132545222978724	0.410890191234045	0.362755347099666	"100284998"	1
+"zma00730"	"Metabolism"	"Metabolism of cofactors and vitamins"	"zma00730"	"Thiamine metabolism"	"1/37"	"16/3668"	0.150026162194541	0.422801002548251	0.373270834168236	"542714"	1
+"zma00904"	"Metabolism"	"Metabolism of terpenoids and polyketides"	"zma00904"	"Diterpenoid biosynthesis"	"1/37"	"19/3668"	0.175606605158987	0.43803710599906	0.386722063021242	"103627438"	1
+"zma00360"	"Metabolism"	"Amino acid metabolism"	"zma00360"	"Phenylalanine metabolism"	"1/37"	"21/3668"	0.192242422960111	0.43803710599906	0.386722063021242	"100274380"	1
+"zma00906"	"Metabolism"	"Metabolism of terpenoids and polyketides"	"zma00906"	"Carotenoid biosynthesis"	"1/37"	"22/3668"	0.200437386039485	0.43803710599906	0.386722063021242	"542686"	1
+"zma00130"	"Metabolism"	"Metabolism of cofactors and vitamins"	"zma00130"	"Ubiquinone and other terpenoid-quinone biosynthesis"	"1/37"	"26/3668"	0.232415814780778	0.43803710599906	0.386722063021242	"100284998"	1
+"zma00460"	"Metabolism"	"Metabolism of other amino acids"	"zma00460"	"Cyanoamino acid metabolism"	"1/37"	"26/3668"	0.232415814780778	0.43803710599906	0.386722063021242	"100382914"	1
+"zma00350"	"Metabolism"	"Amino acid metabolism"	"zma00350"	"Tyrosine metabolism"	"1/37"	"27/3668"	0.240213896838194	0.43803710599906	0.386722063021242	"100274380"	1
+"zma00380"	"Metabolism"	"Amino acid metabolism"	"zma00380"	"Tryptophan metabolism"	"1/37"	"29/3668"	0.255579494205951	0.440164684465805	0.388600400547061	"100274380"	1
+"zma04075"	"Environmental Information Processing"	"Signal transduction"	"zma04075"	"Plant hormone signal transduction"	"3/37"	"184/3668"	0.283082357862874	0.461871215460479	0.407764061187519	"100274370/100281022/100286212"	3
+"zma00195"	"Metabolism"	"Energy metabolism"	"zma00195"	"Photosynthesis"	"1/37"	"36/3668"	0.307014539315995	0.475872535939792	0.420125159063993	"100285458"	1
+"zma00030"	"Metabolism"	"Carbohydrate metabolism"	"zma00030"	"Pentose phosphate pathway"	"1/37"	"40/3668"	0.334835667184923	0.494281222987267	0.436377310616942	"100272845"	1
+"zma03082"	"Genetic Information Processing"	"Chromosome"	"zma03082"	"ATP-dependent chromatin remodeling"	"1/37"	"43/3668"	0.354985271018087	0.496117352869449	0.437998342091873	"103504712"	1
+"zma00051"	"Metabolism"	"Carbohydrate metabolism"	"zma00051"	"Fructose and mannose metabolism"	"1/37"	"45/3668"	0.368087068257978	0.496117352869449	0.437998342091873	"100272845"	1
+"zma04146"	"Cellular Processes"	"Transport and catabolism"	"zma04146"	"Peroxisome"	"1/37"	"64/3668"	0.480312713429971	0.620403921513713	0.547725024086809	"100285987"	1
+"zma00480"	"Metabolism"	"Metabolism of other amino acids"	"zma00480"	"Glutathione metabolism"	"1/37"	"76/3668"	0.540929545913812	0.661699754671256	0.584183145040837	"542632"	1
+"zma00270"	"Metabolism"	"Amino acid metabolism"	"zma00270"	"Cysteine and methionine metabolism"	"1/37"	"79/3668"	0.554973987788795	0.661699754671256	0.584183145040837	"100382364"	1
+"zma00010"	"Metabolism"	"Carbohydrate metabolism"	"zma00010"	"Glycolysis / Gluconeogenesis"	"1/37"	"101/3668"	0.645935795625208	0.741629987569683	0.654749734356936	"100272845"	1
+"zma04626"	"Organismal Systems"	"Environmental adaptation"	"zma04626"	"Plant-pathogen interaction"	"1/37"	"133/3668"	0.746757644348092	0.826767391956816	0.729913486956782	"100196928"	1
+"zma03040"	"Genetic Information Processing"	"Transcription"	"zma03040"	"Spliceosome"	"1/37"	"163/3668"	0.815549647214906	0.839357670022801	0.741028842804511	"100272749"	1
+"zma01240"	"Metabolism"	"Global and overview maps"	"zma01240"	"Biosynthesis of cofactors"	"1/37"	"168/3668"	0.825087200123439	0.839357670022801	0.741028842804511	"542714"	1
+"zma01230"	"Metabolism"	"Global and overview maps"	"zma01230"	"Biosynthesis of amino acids"	"1/37"	"176/3668"	0.839357670022801	0.839357670022801	0.741028842804511	"100272845"	1

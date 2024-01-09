@@ -1,0 +1,1209 @@
+A0A060CWY7	A0A060CWY7_MAIZE	unreviewed	EREB112	Zea mays (Maize)	Zm00001eb027780	EREB112	103644933	AP2-EREBP transcription factor (Ethylene-responsive transcription factor ERF055) (Fragment)				
+A0A060D1Z1	A0A060D1Z1_MAIZE	unreviewed	COL2	Zea mays (Maize)	Zm00001eb054810	COL2	103643889	C2C2-CO-like transcription factor (Fragment)				
+A0A060D7E5	A0A060D7E5_MAIZE	unreviewed	GNAT4	Zea mays (Maize)	Zm00001eb060500	GNAT4	103644167	Acyl-CoA N-acyltransferase (NAT) superfamily protein (GNAT transcription factor) (Fragment)				
+A0A060D866	A0A060D866_MAIZE	unreviewed	Orphan207	Zea mays (Maize)	Zm00001eb045750	Orphan207		MATH domain containing protein (Orphans transcription factor) (Fragment)				
+A0A096QAD0	A0A096QAD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb107440			Uncharacterized protein				
+A0A096RU32	A0A096RU32_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb033930			BURP2				
+A0A096UAQ8	A0A096UAQ8_MAIZE	unreviewed	107521950	Zea mays (Maize)	Zm00001eb016390	107521950		Uncharacterized protein				
+A0A0A7ENC7	A0A0A7ENC7_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7ENF8	A0A0A7ENF8_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7ENR2	A0A0A7ENR2_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7ENT1	A0A0A7ENT1_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7ENT5	A0A0A7ENT5_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7EQ26	A0A0A7EQ26_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7EQ31	A0A0A7EQ31_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7EQA2	A0A0A7EQA2_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A0A7EQD6	A0A0A7EQD6_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK		Wall-associated kinase				
+A0A1D6DRB1	A0A1D6DRB1_MAIZE				Zm00001eb031890			Deleted.				
+A0A1D6DRE8	A0A1D6DRE8_MAIZE				Zm00001eb031890			Deleted.				
+A0A1D6DRF8	A0A1D6DRF8_MAIZE				Zm00001eb031890			Deleted.				
+A0A1D6DRF9	A0A1D6DRF9_MAIZE				Zm00001eb031890			Deleted.				
+A0A1D6DRI1	A0A1D6DRI1_MAIZE				Zm00001eb031890			Deleted.				
+A0A1D6DW38	A0A1D6DW38_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb179400			Insect resistance3				
+A0A1D6DW47	A0A1D6DW47_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb068480			Uncharacterized protein				
+A0A1D6DXI7	A0A1D6DXI7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb069550			G-type lectin S-receptor-like serine/threonine-protein kinase B120				
+A0A1D6DZB1	A0A1D6DZB1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070630			Auxin responsive protein				
+A0A1D6DZB6	A0A1D6DZB6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070630			Auxin responsive protein				
+A0A1D6DZD0	A0A1D6DZD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070700			Uncharacterized protein				
+A0A1D6DZD4	A0A1D6DZD4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070720			Leucine-rich repeat transmembrane protein kinase				
+A0A1D6DZD5	A0A1D6DZD5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070720			Leucine-rich repeat transmembrane protein kinase				
+A0A1D6DZL8	A0A1D6DZL8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070880			Putative inactive purple acid phosphatase 16				
+A0A1D6E0U7	A0A1D6E0U7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb072060			DUF674 family protein				
+A0A1D6E1V8	A0A1D6E1V8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb072870			Protein REVEILLE 1				
+A0A1D6E1W0	A0A1D6E1W0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb072870			Protein REVEILLE 1				
+A0A1D6E534	A0A1D6E534_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076210			Peroxidase (EC 1.11.1.7)				
+A0A1D6E5E4	A0A1D6E5E4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Cytochrome P450 family 72 subfamily A polypeptide 8				
+A0A1D6E5V9	A0A1D6E5V9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6E5W0	A0A1D6E5W0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6E5W1	A0A1D6E5W1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6E617	A0A1D6E617_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb077330			Wall-associated receptor kinase-like 8				
+A0A1D6E6C2	A0A1D6E6C2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116890			CLIP-associated protein				
+A0A1D6E6D5	A0A1D6E6D5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116890			CLIP-associated protein				
+A0A1D6E785	A0A1D6E785_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			CBF1 interacting corepressor				
+A0A1D6E7A4	A0A1D6E7A4_MAIZE	unreviewed	103646275	Zea mays (Maize)	Zm00001eb078660	103646275		Uncharacterized protein				
+A0A1D6EBT4	A0A1D6EBT4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6EC39	A0A1D6EC39_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb084850			Histone superfamily protein				
+A0A1D6ECV8	A0A1D6ECV8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Uncharacterized protein				
+A0A1D6EDA7	A0A1D6EDA7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086190			Receptor-like kinase				
+A0A1D6EDB0	A0A1D6EDB0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086190			Receptor-like kinase				
+A0A1D6EDG5	A0A1D6EDG5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EDG6	A0A1D6EDG6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EDG7	A0A1D6EDG7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EDG8	A0A1D6EDG8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EDG9	A0A1D6EDG9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EDH0	A0A1D6EDH0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb086470			Protein arginine N-methyltransferase 1.5				
+A0A1D6EEN8	A0A1D6EEN8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb102070			UDP-glycosyltransferase 85A7				
+A0A1D6EEU2	A0A1D6EEU2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087860			Uncharacterized protein				
+A0A1D6EEW2	A0A1D6EEW2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087960			Natterin-4				
+A0A1D6EEW6	A0A1D6EEW6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087970			Uncharacterized protein				
+A0A1D6EEX1	A0A1D6EEX1_MAIZE	unreviewed	103646784	Zea mays (Maize)	Zm00001eb088020	103646784		Natterin-4				
+A0A1D6EF86	A0A1D6EF86_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb088450			Zinc finger CCCH domain-containing protein 59				
+A0A1D6EFR5	A0A1D6EFR5_MAIZE	unreviewed	103646871	Zea mays (Maize)	Zm00001eb089190	103646871		HXXXD-type acyl-transferase family protein				
+A0A1D6EFU1	A0A1D6EFU1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb089370			Alpha/beta-Hydrolases superfamily protein				
+A0A1D6EGG8	A0A1D6EGG8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6EGG9	A0A1D6EGG9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6EGH0	A0A1D6EGH0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			Uncharacterized protein				
+A0A1D6EGH1	A0A1D6EGH1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Myb_DNA-bind_3 domain-containing protein				
+A0A1D6EGH2	A0A1D6EGH2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6EHR5	A0A1D6EHR5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb072110			60S ribosomal protein L3-1				
+A0A1D6EKY2	A0A1D6EKY2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6EMP9	A0A1D6EMP9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047650			Cellulose synthase A catalytic subunit 5 [UDP-forming]				
+A0A1D6EMW5	A0A1D6EMW5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047650			Cellulose synthase A catalytic subunit 5 [UDP-forming]				
+A0A1D6ENV3	A0A1D6ENV3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097880			TPX2 (Targeting protein for Xklp2) protein family				
+A0A1D6ENV4	A0A1D6ENV4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097880			TPX2 (Targeting protein for Xklp2) protein family				
+A0A1D6ENZ1	A0A1D6ENZ1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097920			Cytochrome P450 84A1				
+A0A1D6EPE4	A0A1D6EPE4_MAIZE	unreviewed	100283280	Zea mays (Maize)	Zm00001eb098760	100283280		Phosphopyruvate hydratase (EC 4.2.1.11)				
+A0A1D6EPM3	A0A1D6EPM3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Uncharacterized protein				
+A0A1D6EQ39	A0A1D6EQ39_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Phosphatidylinositol/phosphatidylcholine transfer protein SFH8				
+A0A1D6EQ45	A0A1D6EQ45_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			H(+)-exporting diphosphatase (EC 7.1.3.1)				
+A0A1D6EQ46	A0A1D6EQ46_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQ52	A0A1D6EQ52_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099780			Ubiquitin carrier protein 7				
+A0A1D6EQ56	A0A1D6EQ56_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQ60	A0A1D6EQ60_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQ61	A0A1D6EQ61_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQ65	A0A1D6EQ65_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQA8	A0A1D6EQA8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQF0	A0A1D6EQF0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQG8	A0A1D6EQG8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6EQM6	A0A1D6EQM6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			H(+)-exporting diphosphatase (EC 7.1.3.1)				
+A0A1D6EQN2	A0A1D6EQN2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			H(+)-exporting diphosphatase (EC 7.1.3.1)				
+A0A1D6ER30	A0A1D6ER30_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb100200			Flavonoid 3-monooxygenase				
+A0A1D6ER36	A0A1D6ER36_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb100220			Flavonoid 3-monooxygenase				
+A0A1D6ES33	A0A1D6ES33_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+A0A1D6ESG2	A0A1D6ESG2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb102070			Cytokinin-O-glucosyltransferase 2				
+A0A1D6ETC5	A0A1D6ETC5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103140			Serine/threonine-protein kinase RIO1 (EC 2.7.11.1)				
+A0A1D6ETC6	A0A1D6ETC6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103140			Non-specific serine/threonine protein kinase (EC 2.7.11.1)				
+A0A1D6ETC7	A0A1D6ETC7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103140			Non-specific serine/threonine protein kinase (EC 2.7.11.1)				
+A0A1D6EUM6	A0A1D6EUM6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb104320			High mobility group B protein 2				
+A0A1D6EVQ9	A0A1D6EVQ9_MAIZE	unreviewed	103647672	Zea mays (Maize)	Zm00001eb105040	103647672		Trehalose 6-phosphate phosphatase (EC 3.1.3.12)				
+A0A1D6EXK7	A0A1D6EXK7_MAIZE	unreviewed	103647733	Zea mays (Maize)	Zm00001eb106410	103647733		"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+A0A1D6EZ91	A0A1D6EZ91_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6EZF2	A0A1D6EZF2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb107440			Uncharacterized protein				
+A0A1D6F039	A0A1D6F039_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb108190			Transcription factor bHLH85				
+A0A1D6F1S0	A0A1D6F1S0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A1D6F1S2	A0A1D6F1S2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A1D6F1S8	A0A1D6F1S8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A1D6F1S9	A0A1D6F1S9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A1D6F1T0	A0A1D6F1T0_MAIZE	unreviewed	100501175	Zea mays (Maize)	Zm00001eb109440	100501175		Uncharacterized protein				
+A0A1D6F1T1	A0A1D6F1T1_MAIZE	unreviewed	100501175	Zea mays (Maize)	Zm00001eb109440	100501175		Uncharacterized protein				
+A0A1D6F1T2	A0A1D6F1T2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A1D6F1W3	A0A1D6F1W3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb198090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A1D6F273	A0A1D6F273_MAIZE	unreviewed	103647882	Zea mays (Maize)	Zm00001eb109980	103647882		Putative plant SNARE 13				
+A0A1D6F2B9	A0A1D6F2B9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb110240			Ubiquitin-protein ligase CIP8				
+A0A1D6F436	A0A1D6F436_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb111110			FPF1-like protein 1				
+A0A1D6F4K1	A0A1D6F4K1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb111670			Hydroxyproline-rich glycoprotein family protein				
+A0A1D6F4K3	A0A1D6F4K3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb111670			Hydroxyproline-rich glycoprotein family protein				
+A0A1D6F525	A0A1D6F525_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb112080			Two-component response regulator-like APRR3				
+A0A1D6F534	A0A1D6F534_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb112120			Receptor like protein 1				
+A0A1D6F553	A0A1D6F553_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168100			"Chlorophyll a-b binding protein, chloroplastic"				
+A0A1D6F5G9	A0A1D6F5G9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027080			Dihydrofolate reductase (EC 1.5.1.3)				
+A0A1D6F5H2	A0A1D6F5H2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027080			Dihydrofolate reductase (EC 1.5.1.3)				
+A0A1D6F6I1	A0A1D6F6I1_MAIZE	unreviewed	100383277	Zea mays (Maize)	Zm00001eb113780	100383277		Adagio protein 3				
+A0A1D6F7C2	A0A1D6F7C2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb114950			Methyltransferase (EC 2.1.1.-)				
+A0A1D6F7E3	A0A1D6F7E3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb096640			Uncharacterized protein				
+A0A1D6F7M7	A0A1D6F7M7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb115210			Uncharacterized protein				
+A0A1D6F803	A0A1D6F803_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046720			Uncharacterized protein				
+A0A1D6F809	A0A1D6F809_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6F813	A0A1D6F813_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6F835	A0A1D6F835_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6F843	A0A1D6F843_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein (Fragment)				
+A0A1D6F8W1	A0A1D6F8W1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116670			Receptor-like kinase-like				
+A0A1D6F8W4	A0A1D6F8W4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116670			Receptor-like kinase-like				
+A0A1D6F8X5	A0A1D6F8X5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116790			Uncharacterized protein				
+A0A1D6F9P6	A0A1D6F9P6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb117200			Aspartic proteinase A1				
+A0A1D6FB26	A0A1D6FB26_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6FHE6	A0A1D6FHE6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			Ubiquitin carrier protein 7				
+A0A1D6FM53	A0A1D6FM53_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000310			Uncharacterized protein				
+A0A1D6FQJ7	A0A1D6FQJ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb208650			Uncharacterized protein				
+A0A1D6FQP4	A0A1D6FQP4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Cysteine-rich receptor-like protein kinase 29				
+A0A1D6FYV9	A0A1D6FYV9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6FYW6	A0A1D6FYW6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6FYW9	A0A1D6FYW9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6G1Q6	A0A1D6G1Q6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A1D6G1S4	A0A1D6G1S4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A1D6G1V0	A0A1D6G1V0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A1D6G1V1	A0A1D6G1V1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A1D6G1V9	A0A1D6G1V9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A1D6G1X3	A0A1D6G1X3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011870			Uncharacterized protein				
+A0A1D6G996	A0A1D6G996_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015770			"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent) (EC 5.4.2.12)"				
+A0A1D6GAE1	A0A1D6GAE1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+A0A1D6GFI9	A0A1D6GFI9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6GFJ0	A0A1D6GFJ0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6GHG8	A0A1D6GHG8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065190			Myosin-12				
+A0A1D6GLE7	A0A1D6GLE7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047770			12-dihydroxy-3-keto-5-methylthiopentene dioxygenase 4				
+A0A1D6GLH0	A0A1D6GLH0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004670			Uncharacterized protein				
+A0A1D6GM10	A0A1D6GM10_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6GNM1	A0A1D6GNM1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044280			1-phosphatidylinositol-4-phosphate 5-kinase (EC 2.7.1.68)				
+A0A1D6GNM3	A0A1D6GNM3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044280			Phosphatidylinositol 4-phosphate 5-kinase 9				
+A0A1D6GNM5	A0A1D6GNM5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044280			Phosphatidylinositol 4-phosphate 5-kinase (EC 2.7.1.68)				
+A0A1D6GQJ9	A0A1D6GQJ9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006900			Putative mitochondrial adenine nucleotide transporter BTL2				
+A0A1D6GS98	A0A1D6GS98_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006900			Putative mitochondrial adenine nucleotide transporter BTL2				
+A0A1D6GYY9	A0A1D6GYY9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Uncharacterized protein				
+A0A1D6GZZ9	A0A1D6GZZ9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase (EC 2.3.1.48)				
+A0A1D6H003	A0A1D6H003_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase (EC 2.3.1.48)				
+A0A1D6H012	A0A1D6H012_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase HAC1 (Fragment)				
+A0A1D6H013	A0A1D6H013_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase (EC 2.3.1.48)				
+A0A1D6H031	A0A1D6H031_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase (EC 2.3.1.48)				
+A0A1D6H036	A0A1D6H036_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase (EC 2.3.1.48) (Fragment)				
+A0A1D6H041	A0A1D6H041_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178750			Histone acetyltransferase HAC1				
+A0A1D6H0Z0	A0A1D6H0Z0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047350			ADP-ribosylation factor GTPase-activating protein AGD3				
+A0A1D6H0Z1	A0A1D6H0Z1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047350			ADP-ribosylation factor GTPase-activating protein AGD3 (Fragment)				
+A0A1D6H2Y9	A0A1D6H2Y9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A1D6H362	A0A1D6H362_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6H491	A0A1D6H491_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6H6X4	A0A1D6H6X4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087970			Uncharacterized protein (Fragment)				
+A0A1D6H7S1	A0A1D6H7S1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb175510			Uncharacterized protein				
+A0A1D6H7S8	A0A1D6H7S8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb175510			Uncharacterized protein				
+A0A1D6HBG9	A0A1D6HBG9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb033400			GTP cyclohydrolase II (EC 3.5.4.25) (GTP cyclohydrolase-2)				
+A0A1D6HCX2	A0A1D6HCX2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Carboxypeptidase SOL1				
+A0A1D6HCX3	A0A1D6HCX3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Carboxypeptidase SOL1				
+A0A1D6HDR6	A0A1D6HDR6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065190			Myosin-10				
+A0A1D6HDR7	A0A1D6HDR7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065190			Myosin-10				
+A0A1D6HDR8	A0A1D6HDR8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065190			Myosin-10				
+A0A1D6HF43	A0A1D6HF43_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb186620			Expansin-B4				
+A0A1D6HG90	A0A1D6HG90_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011870			Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)				
+A0A1D6HJB2	A0A1D6HJB2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051760			Putative dual specificity protein phosphatase DSP8				
+A0A1D6HLZ7	A0A1D6HLZ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103140			Non-specific serine/threonine protein kinase (EC 2.7.11.1)				
+A0A1D6HWJ5	A0A1D6HWJ5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6HWJ6	A0A1D6HWJ6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6I080	A0A1D6I080_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Potassium ion transmembrane transporter				
+A0A1D6IGW3	A0A1D6IGW3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171950			Uncharacterized protein				
+A0A1D6IKT9	A0A1D6IKT9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109980			Putative plant SNARE 13 (Fragment)				
+A0A1D6IKU0	A0A1D6IKU0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109980			Putative plant SNARE 13				
+A0A1D6IPL5	A0A1D6IPL5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb112080			Uncharacterized protein				
+A0A1D6IPL6	A0A1D6IPL6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb112080			Uncharacterized protein				
+A0A1D6IRP0	A0A1D6IRP0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb117700			Uncharacterized protein				
+A0A1D6IXP5	A0A1D6IXP5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			GDSL esterase/lipase EXL3				
+A0A1D6IXS3	A0A1D6IXS3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Uncharacterized protein				
+A0A1D6IXW4	A0A1D6IXW4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058890			Exocyst complex component SEC15A				
+A0A1D6IYL4	A0A1D6IYL4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Potassium transporter 10				
+A0A1D6IYL5	A0A1D6IYL5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Potassium transporter 10				
+A0A1D6J041	A0A1D6J041_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Circadian clock associated2				
+A0A1D6J043	A0A1D6J043_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Putative MYB DNA-binding domain superfamily protein				
+A0A1D6J297	A0A1D6J297_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6J4L4	A0A1D6J4L4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039790			Uncharacterized protein				
+A0A1D6J6D6	A0A1D6J6D6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			Uncharacterized protein				
+A0A1D6J7N1	A0A1D6J7N1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Saposin B domain-containing protein				
+A0A1D6J7N2	A0A1D6J7N2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Saposin B domain-containing protein				
+A0A1D6J891	A0A1D6J891_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207730			Putative choline kinase 2				
+A0A1D6JAX9	A0A1D6JAX9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Uncharacterized protein				
+A0A1D6JAY0	A0A1D6JAY0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Uncharacterized protein				
+A0A1D6JD12	A0A1D6JD12_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb198090			Uncharacterized protein				
+A0A1D6JE39	A0A1D6JE39_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Potassium transporter 10				
+A0A1D6JE49	A0A1D6JE49_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099220			Potassium transporter 10				
+A0A1D6JJ83	A0A1D6JJ83_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000070			Uncharacterized protein				
+A0A1D6JN18	A0A1D6JN18_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015370			Exocyst complex component SEC5A				
+A0A1D6JN48	A0A1D6JN48_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb002910			Uncharacterized protein				
+A0A1D6JPJ3	A0A1D6JPJ3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6JPK7	A0A1D6JPK7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6JPM7	A0A1D6JPM7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Uncharacterized protein				
+A0A1D6JPM8	A0A1D6JPM8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Uncharacterized protein				
+A0A1D6JPN0	A0A1D6JPN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004900			Uncharacterized protein				
+A0A1D6JQ67	A0A1D6JQ67_MAIZE	unreviewed	103631780	Zea mays (Maize)	Zm00001eb005580	103631780		Cystatin domain-containing protein				
+A0A1D6JR34	A0A1D6JR34_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006600			Cullin-associated NEDD8-dissociated protein 1				
+A0A1D6JRH1	A0A1D6JRH1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb007100			Uncharacterized protein				
+A0A1D6JRU0	A0A1D6JRU0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb007550			Tetratricopeptide repeat-like superfamily protein				
+A0A1D6JS31	A0A1D6JS31_MAIZE	unreviewed	103632224	Zea mays (Maize)	Zm00001eb007740	103632224		Glycosyl hydrolase family 10 protein				
+A0A1D6JSC3	A0A1D6JSC3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008030			Noc2p family				
+A0A1D6JSD0	A0A1D6JSD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008030			Noc2p family				
+A0A1D6JSE6	A0A1D6JSE6_MAIZE	unreviewed	100274325	Zea mays (Maize)	Zm00001eb008080	100274325		Putative polyol transporter 1				
+A0A1D6JSE7	A0A1D6JSE7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Putative polyol transporter 1				
+A0A1D6JSH2	A0A1D6JSH2_MAIZE	unreviewed	103632470	Zea mays (Maize)	Zm00001eb008180	103632470		Aminotransferase ALD1				
+A0A1D6JSH4	A0A1D6JSH4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6JSH5	A0A1D6JSH5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6JSH6	A0A1D6JSH6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030360			Uncharacterized protein				
+A0A1D6JTL7	A0A1D6JTL7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb009040			Uncharacterized protein				
+A0A1D6JX22	A0A1D6JX22_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6JXD6	A0A1D6JXD6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011820			Maternal effect embryo arrest 59				
+A0A1D6JXE7	A0A1D6JXE7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011850			EIN3-binding F-box protein 1				
+A0A1D6JXL7	A0A1D6JXL7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXL8	A0A1D6JXL8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXL9	A0A1D6JXL9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXM0	A0A1D6JXM0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXM2	A0A1D6JXM2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXN0	A0A1D6JXN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JXN2	A0A1D6JXN2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+A0A1D6JY51	A0A1D6JY51_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			HAT dimerization domain-containing protein / transposase-related				
+A0A1D6JYN0	A0A1D6JYN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			Ent-kaurenoic acid oxidase 1				
+A0A1D6K089	A0A1D6K089_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Outer envelope pore protein 16-2 chloroplastic				
+A0A1D6K091	A0A1D6K091_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Outer envelope pore protein 16-2 chloroplastic				
+A0A1D6K092	A0A1D6K092_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Outer envelope pore protein 16-2 chloroplastic				
+A0A1D6K154	A0A1D6K154_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015370			MADS box interactor-like				
+A0A1D6K1T6	A0A1D6K1T6_MAIZE	unreviewed	103634611	Zea mays (Maize)	Zm00001eb015770	103634611		"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent) (EC 5.4.2.12)"				
+A0A1D6K1V4	A0A1D6K1V4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015860			Hydroxyacylglutathione hydrolase cytoplasmic				
+A0A1D6K1V6	A0A1D6K1V6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015860			Hydroxyacylglutathione hydrolase cytoplasmic				
+A0A1D6K2C6	A0A1D6K2C6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016230			Alanine--glyoxylate aminotransferase1				
+A0A1D6K341	A0A1D6K341_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016860			DNA mismatch repair protein MSH2				
+A0A1D6K3D3	A0A1D6K3D3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017030			Cytochrome P450 family 81 subfamily D polypeptide 8				
+A0A1D6K3T9	A0A1D6K3T9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017590			Putative low-specificity L-threonine aldolase 1				
+A0A1D6K3U0	A0A1D6K3U0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017590			Putative low-specificity L-threonine aldolase 1				
+A0A1D6K3U1	A0A1D6K3U1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017590			Putative low-specificity L-threonine aldolase 1				
+A0A1D6K3U2	A0A1D6K3U2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017590			Putative low-specificity L-threonine aldolase 1				
+A0A1D6K3U8	A0A1D6K3U8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017590			Putative low-specificity L-threonine aldolase 1				
+A0A1D6K457	A0A1D6K457_MAIZE	unreviewed	103635519	Zea mays (Maize)	Zm00001eb018040	103635519		Cytochrome P450 CYP709H1				
+A0A1D6K4H3	A0A1D6K4H3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb018440			Methyltransferase (EC 2.1.1.-)				
+A0A1D6K4X8	A0A1D6K4X8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019080			Vesicle transport v-SNARE 12				
+A0A1D6K5B6	A0A1D6K5B6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019480			3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 2				
+A0A1D6K5B7	A0A1D6K5B7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019480			3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 2				
+A0A1D6K5H3	A0A1D6K5H3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019760			Uncharacterized protein				
+A0A1D6K5L5	A0A1D6K5L5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019880			Uncharacterized protein				
+A0A1D6K5N1	A0A1D6K5N1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019980			Eukaryotic translation initiation factor 3 subunit E				
+A0A1D6K5Q3	A0A1D6K5Q3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb020070			Alpha-humulene/(-)-(E)-beta-caryophyllene synthase				
+A0A1D6K5U4	A0A1D6K5U4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb020240			WAT1-related protein				
+A0A1D6K5U5	A0A1D6K5U5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb020240			WAT1-related protein				
+A0A1D6K716	A0A1D6K716_MAIZE	unreviewed	103637226	Zea mays (Maize)	Zm00001eb021470	103637226		Peptidoglycan-binding LysM domain-containing protein				
+A0A1D6K718	A0A1D6K718_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb021500			Irregular pollen exine1				
+A0A1D6K767	A0A1D6K767_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099740			Ubiquitin carrier protein 7				
+A0A1D6K7B8	A0A1D6K7B8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			H(+)-exporting diphosphatase (EC 7.1.3.1)				
+A0A1D6K7M8	A0A1D6K7M8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Hexose transporter				
+A0A1D6K7V7	A0A1D6K7V7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022640			Uncharacterized protein				
+A0A1D6K803	A0A1D6K803_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022810			E3 ubiquitin ligase (RING-type E3 ubiquitin transferase) (Serine/threonine-protein kinase)				
+A0A1D6K828	A0A1D6K828_MAIZE	unreviewed	103637625	Zea mays (Maize)	Zm00001eb022890	103637625		Divalent ion symporter				
+A0A1D6K8H9	A0A1D6K8H9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb089370			Alpha/beta-Hydrolases superfamily protein				
+A0A1D6K8I2	A0A1D6K8I2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb089370			Alpha/beta-Hydrolases superfamily protein				
+A0A1D6KBL0	A0A1D6KBL0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb026240			Putative alpha-mannosidase				
+A0A1D6KBQ1	A0A1D6KBQ1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb026240			Putative alpha-mannosidase				
+A0A1D6KBQ7	A0A1D6KBQ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb026240			Putative alpha-mannosidase				
+A0A1D6KCE1	A0A1D6KCE1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027080			Dihydrofolate reductase (EC 1.5.1.3)				
+A0A1D6KCW0	A0A1D6KCW0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027900			Spermidine hydroxycinnamoyl transferase				
+A0A1D6KCW1	A0A1D6KCW1_MAIZE	unreviewed	103639152	Zea mays (Maize)	Zm00001eb027900	103639152		Hydroxycinnamoyltransferase4				
+A0A1D6KDC2	A0A1D6KDC2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb028620			Uncharacterized protein				
+A0A1D6KE93	A0A1D6KE93_MAIZE	unreviewed	100285685	Zea mays (Maize)	Zm00001eb029530	100285685		Purple acid phosphatase (EC 3.1.3.2)				
+A0A1D6KE94	A0A1D6KE94_MAIZE	unreviewed	100285685	Zea mays (Maize)	Zm00001eb029530	100285685		Purple acid phosphatase (EC 3.1.3.2)				
+A0A1D6KEL8	A0A1D6KEL8_MAIZE	unreviewed	103640483	Zea mays (Maize)	Zm00001eb029940	103640483		Lipid transfer protein				
+A0A1D6KET0	A0A1D6KET0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030360			Uncharacterized protein				
+A0A1D6KF46	A0A1D6KF46_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030670			Uncharacterized protein				
+A0A1D6KFI0	A0A1D6KFI0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KFI2	A0A1D6KFI2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KFI3	A0A1D6KFI3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KFI5	A0A1D6KFI5_MAIZE	unreviewed	100275351	Zea mays (Maize)	Zm00001eb031210	100275351		Basic leucine zipper 25				
+A0A1D6KFI7	A0A1D6KFI7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KFI8	A0A1D6KFI8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KFJ0	A0A1D6KFJ0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6KGG0	A0A1D6KGG0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032040			Mitochondrial ribosomal protein L27				
+A0A1D6KGM0	A0A1D6KGM0_MAIZE	unreviewed	103640631	Zea mays (Maize)	Zm00001eb032280	103640631		Cysteine dioxygenase (EC 1.13.11.20)				
+A0A1D6KGM1	A0A1D6KGM1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032280			"Cupin, RmlC-type"				
+A0A1D6KGQ1	A0A1D6KGQ1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032480			Uncharacterized protein				
+A0A1D6KHL6	A0A1D6KHL6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb033400			Monofunctional riboflavin biosynthesis protein RIBA 3 chloroplastic				
+A0A1D6KI51	A0A1D6KI51_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb033930			RAFTIN1a protein				
+A0A1D6KIE5	A0A1D6KIE5_MAIZE	unreviewed	103641577	Zea mays (Maize)	Zm00001eb034240	103641577		Dirigent protein				
+A0A1D6KIE6	A0A1D6KIE6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034240			Dirigent protein				
+A0A1D6KIF9	A0A1D6KIF9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034410			S-locus lectin kinase family protein				
+A0A1D6KIG7	A0A1D6KIG7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044850			Uncharacterized protein				
+A0A1D6KIH3	A0A1D6KIH3_MAIZE	unreviewed	103641763	Zea mays (Maize)	Zm00001eb034410	103641763		Receptor-like serine/threonine-protein kinase (EC 2.7.11.1)				
+A0A1D6KJ91	A0A1D6KJ91_MAIZE	unreviewed	100272506	Zea mays (Maize)	Zm00001eb035520	100272506		Myb_DNA-bind_3 domain-containing protein				
+A0A1D6KJ92	A0A1D6KJ92_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6KJ99	A0A1D6KJ99_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Uncharacterized protein				
+A0A1D6KJA4	A0A1D6KJA4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035600			Uncharacterized protein				
+A0A1D6KJA5	A0A1D6KJA5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Carboxypeptidase SOL1				
+A0A1D6KJA6	A0A1D6KJA6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Carboxypeptidase SOL1				
+A0A1D6KK86	A0A1D6KK86_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb036780			ACR4				
+A0A1D6KKS3	A0A1D6KKS3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037290			Putative transcription factor PosF21				
+A0A1D6KL39	A0A1D6KL39_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037580			GDSL-like lipase/acylhydrolase				
+A0A1D6KL41	A0A1D6KL41_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037600			Heat shock factor protein 7				
+A0A1D6KL47	A0A1D6KL47_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037660			40S ribosomal protein S4-3				
+A0A1D6KLY4	A0A1D6KLY4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb038690			Exocyst complex component EXO84C				
+A0A1D6KM88	A0A1D6KM88_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KM98	A0A1D6KM98_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KM99	A0A1D6KM99_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KMA4	A0A1D6KMA4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KMA5	A0A1D6KMA5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KMB6	A0A1D6KMB6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004890			Transcription initiation factor TFIID subunit 4b				
+A0A1D6KMK3	A0A1D6KMK3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039440			Uncharacterized protein				
+A0A1D6KMK4	A0A1D6KMK4_MAIZE	unreviewed	103643191	Zea mays (Maize)	Zm00001eb039440	103643191		Uncharacterized protein				
+A0A1D6KMN0	A0A1D6KMN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039440			Uncharacterized protein				
+A0A1D6KMN4	A0A1D6KMN4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039440			Uncharacterized protein				
+A0A1D6KMU8	A0A1D6KMU8_MAIZE	unreviewed	103643204	Zea mays (Maize)	Zm00001eb039750	103643204		Zinc finger protein 2				
+A0A1D6KMW4	A0A1D6KMW4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039790			Uncharacterized protein				
+A0A1D6KNC7	A0A1D6KNC7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb040440			Uncharacterized protein				
+A0A1D6KNE9	A0A1D6KNE9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb040580			Chaperone DnaJ-domain superfamily protein				
+A0A1D6KP80	A0A1D6KP80_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A1D6KP85	A0A1D6KP85_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A1D6KP89	A0A1D6KP89_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Gamma-glutamylcyclotransferase (EC 4.3.2.9)				
+A0A1D6KP92	A0A1D6KP92_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A1D6KP93	A0A1D6KP93_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A1D6KPB0	A0A1D6KPB0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb102070			UDP-glycosyltransferase 85A7				
+A0A1D6KR41	A0A1D6KR41_MAIZE	unreviewed	103645327	Zea mays (Maize)	Zm00001eb043820	103645327		HR-like lesion-inducing protein-related				
+A0A1D6KRA8	A0A1D6KRA8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044100			Transmembrane ascorbate ferrireductase 1				
+A0A1D6KRA9	A0A1D6KRA9_MAIZE	unreviewed	100216802	Zea mays (Maize)	Zm00001eb044100	100216802		Transmembrane ascorbate ferrireductase 1				
+A0A1D6KRB0	A0A1D6KRB0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044100			Transmembrane ascorbate ferrireductase 1				
+A0A1D6KRC7	A0A1D6KRC7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044160			Uncharacterized protein				
+A0A1D6KRG3	A0A1D6KRG3_MAIZE	unreviewed	103643394	Zea mays (Maize)	Zm00001eb044280	103643394		Phosphatidylinositol 4-phosphate 5-kinase (EC 2.7.1.68)				
+A0A1D6KRP4	A0A1D6KRP4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044510			Evolutionarily conserved C-terminal region 2				
+A0A1D6KS89	A0A1D6KS89_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044850			Rep_fac-A_C domain-containing protein				
+A0A1D6KS90	A0A1D6KS90_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044850			Uncharacterized protein				
+A0A1D6KSC7	A0A1D6KSC7_MAIZE	unreviewed	103643419	Zea mays (Maize)	Zm00001eb044990	103643419		Ripening-related protein 3				
+A0A1D6KT08	A0A1D6KT08_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb045750			MATH domain containing protein				
+A0A1D6KTN4	A0A1D6KTN4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6KTN5	A0A1D6KTN5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6KTN6	A0A1D6KTN6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030360			Uncharacterized protein				
+A0A1D6KTN7	A0A1D6KTN7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+A0A1D6KU46	A0A1D6KU46_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046720			Uncharacterized protein				
+A0A1D6KU93	A0A1D6KU93_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051760			Putative dual specificity protein phosphatase DSP8				
+A0A1D6KUA5	A0A1D6KUA5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022890			Citrate transporter family protein				
+A0A1D6KUT7	A0A1D6KUT7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047650			Cellulose synthase-like protein D3				
+A0A1D6KUV0	A0A1D6KUV0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047740			Uncharacterized protein				
+A0A1D6KV42	A0A1D6KV42_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116790			Uncharacterized protein				
+A0A1D6KVQ3	A0A1D6KVQ3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb048370			DOF40 C2C2-DOF type transcription factor				
+A0A1D6KXF9	A0A1D6KXF9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb050970			Phenylalanine ammonia-lyase (EC 4.3.1.24)				
+A0A1D6KXL9	A0A1D6KXL9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051280			Outer arm dynein light chain 1 protein				
+A0A1D6KXP1	A0A1D6KXP1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051340			B3 domain-containing protein				
+A0A1D6KXR3	A0A1D6KXR3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051100			Uncharacterized protein				
+A0A1D6KXZ8	A0A1D6KXZ8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051760			Gamma-glutamylcyclotransferase (EC 4.3.2.9)				
+A0A1D6KXZ9	A0A1D6KXZ9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051760			Gamma-glutamylcyclotransferase (EC 4.3.2.9)				
+A0A1D6KYR1	A0A1D6KYR1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Uncharacterized protein				
+A0A1D6KZD9	A0A1D6KZD9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb053000			Uncharacterized protein				
+A0A1D6KZF4	A0A1D6KZF4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb053150			Spermidine hydroxycinnamoyl transferase				
+A0A1D6L1R1	A0A1D6L1R1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb054810			Zinc finger protein CONSTANS-LIKE 7 (Fragment)				
+A0A1D6L2A0	A0A1D6L2A0_MAIZE	unreviewed	100283104	Zea mays (Maize)	Zm00001eb055380	100283104		Cortical cell-delineating protein				
+A0A1D6L2P1	A0A1D6L2P1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055630			Uncharacterized protein				
+A0A1D6L2P2	A0A1D6L2P2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055630			Uncharacterized protein				
+A0A1D6L312	A0A1D6L312_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056010			"Peptidase, M50 family"				
+A0A1D6L313	A0A1D6L313_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056010			"Peptidase, M50 family"				
+A0A1D6L335	A0A1D6L335_MAIZE	unreviewed	103645593	Zea mays (Maize)	Zm00001eb056110	103645593		Uncharacterized protein				
+A0A1D6L3M5	A0A1D6L3M5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb117200			Helix-loop-helix DNA-binding domain containing protein				
+A0A1D6L4K5	A0A1D6L4K5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057310			Actin-depolymerizing factor 6				
+A0A1D6L5F7	A0A1D6L5F7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057930			OsWRKY4 family protein				
+A0A1D6L5H2	A0A1D6L5H2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058040			Uncharacterized protein				
+A0A1D6L5H4	A0A1D6L5H4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058060			Cytochrome P450 family 81 subfamily D polypeptide 8				
+A0A1D6L5H5	A0A1D6L5H5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058070			Cytochrome P450 family 81 subfamily D polypeptide 8				
+A0A1D6L5K5	A0A1D6L5K5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			GlcNAc kinase (EC 2.7.1.59) (N-acetyl-D-glucosamine kinase)				
+A0A1D6L5K8	A0A1D6L5K8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			Actin-like ATPase superfamily protein				
+A0A1D6L5L5	A0A1D6L5L5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			GlcNAc kinase (EC 2.7.1.59) (N-acetyl-D-glucosamine kinase)				
+A0A1D6L5M0	A0A1D6L5M0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			GlcNAc kinase (EC 2.7.1.59) (N-acetyl-D-glucosamine kinase)				
+A0A1D6L5M5	A0A1D6L5M5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			Actin-like ATPase superfamily protein				
+A0A1D6L5M8	A0A1D6L5M8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			GlcNAc kinase (EC 2.7.1.59) (N-acetyl-D-glucosamine kinase)				
+A0A1D6L5M9	A0A1D6L5M9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058170			Actin-like ATPase superfamily protein				
+A0A1D6L5T6	A0A1D6L5T6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058420			Uncharacterized protein				
+A0A1D6L6K6	A0A1D6L6K6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb059400			Uncharacterized protein				
+A0A1D6L6N9	A0A1D6L6N9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb059710			Actin-depolymerizing factor 6				
+A0A1D6L6P5	A0A1D6L6P5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb059760			Uncharacterized protein				
+A0A1D6L6P6	A0A1D6L6P6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb059760			Uncharacterized protein				
+A0A1D6L7Q3	A0A1D6L7Q3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6L7S7	A0A1D6L7S7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+A0A1D6L7T4	A0A1D6L7T4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Opaque2 heterodimerizing protein 1				
+A0A1D6L7T6	A0A1D6L7T6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Opaque2 heterodimerizing protein 1				
+A0A1D6L8H4	A0A1D6L8H4_MAIZE	unreviewed	103644215	Zea mays (Maize)	Zm00001eb061670	103644215		Rubredoxin-like superfamily protein				
+A0A1D6L8H6	A0A1D6L8H6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb061670			Rubredoxin-like superfamily protein				
+A0A1D6LAA8	A0A1D6LAA8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb063260			NAD(P)-binding Rossmann-fold superfamily protein				
+A0A1D6LAC3	A0A1D6LAC3_MAIZE	unreviewed	100193647	Zea mays (Maize)	Zm00001eb063350	100193647		Haloacid dehalogenase-like hydrolase (HAD) superfamily protein				
+A0A1D6LAW3	A0A1D6LAW3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb063860			Elongation factor 2				
+A0A1D6LB92	A0A1D6LB92_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb063860			Elongation factor 2 (Putative translation elongation factor family protein)				
+A0A1D6LCF0	A0A1D6LCF0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			GDSL esterase/lipase EXL3				
+A0A1D6LG68	A0A1D6LG68_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Phosphatidylinositol/phosphatidylcholine transfer protein SFH8				
+A0A1D6LG69	A0A1D6LG69_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Phosphatidylinositol/phosphatidylcholine transfer protein SFH8				
+A0A1D6LHN9	A0A1D6LHN9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058380			Glutathione S-transferase T1				
+A0A1D6LKT5	A0A1D6LKT5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055610			Uncharacterized protein				
+A0A1D6LKX6	A0A1D6LKX6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6LS38	A0A1D6LS38_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076210			Peroxidase (EC 1.11.1.7)				
+A0A1D6LVE6	A0A1D6LVE6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+A0A1D6M3H7	A0A1D6M3H7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044510			Evolutionarily conserved C-terminal region 2				
+A0A1D6M5Y0	A0A1D6M5Y0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Uncharacterized protein				
+A0A1D6M5Y1	A0A1D6M5Y1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Uncharacterized protein				
+A0A1D6M5Y2	A0A1D6M5Y2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Uncharacterized protein				
+A0A1D6MB53	A0A1D6MB53_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103650			CDP-diacylglycerol--serine O-phosphatidyltransferase 1				
+A0A1D6MHX0	A0A1D6MHX0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb088450			Zinc finger CCCH domain-containing protein 59				
+A0A1D6MIA4	A0A1D6MIA4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6MMY8	A0A1D6MMY8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103650			CDP-diacylglycerol--serine O-phosphatidyltransferase 1				
+A0A1D6MQR2	A0A1D6MQR2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006600			Protein kinase APK1B chloroplastic				
+A0A1D6MQS2	A0A1D6MQS2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006600			Protein kinase APK1B chloroplastic				
+A0A1D6MRU8	A0A1D6MRU8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			Ubiquitin carrier protein 7 (Fragment)				
+A0A1D6MRU9	A0A1D6MRU9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099750			Ubiquitin carrier protein 7 (Fragment)				
+A0A1D6N0B2	A0A1D6N0B2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb058380			Glutathione S-transferase T1				
+A0A1D6N1S9	A0A1D6N1S9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb203250			40S ribosomal protein S4-3				
+A0A1D6N3J2	A0A1D6N3J2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046070			Uncharacterized protein				
+A0A1D6N8I9	A0A1D6N8I9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015770			"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent) (EC 5.4.2.12)"				
+A0A1D6N8J1	A0A1D6N8J1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015770			"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent) (EC 5.4.2.12)"				
+A0A1D6NDQ6	A0A1D6NDQ6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6NDQ9	A0A1D6NDQ9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6NIR9	A0A1D6NIR9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Uncharacterized protein				
+A0A1D6NIU3	A0A1D6NIU3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Uncharacterized protein				
+A0A1D6NIX4	A0A1D6NIX4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Uncharacterized protein				
+A0A1D6NIY9	A0A1D6NIY9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Uncharacterized protein				
+A0A1D6NKK2	A0A1D6NKK2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022810			Protein kinase protein with adenine nucleotide alpha hydrolase-like domain				
+A0A1D6NKL0	A0A1D6NKL0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022810			Protein kinase protein with adenine nucleotide alpha hydrolase-like domain				
+A0A1D6NLU3	A0A1D6NLU3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6NLW1	A0A1D6NLW1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6NLW3	A0A1D6NLW3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000560			ABC transporter G family member 40				
+A0A1D6NMD4	A0A1D6NMD4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016860			Pentatricopeptide repeat-containing protein mitochondrial				
+A0A1D6NMW1	A0A1D6NMW1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			GDSL esterase/lipase EXL3				
+A0A1D6NR83	A0A1D6NR83_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Uncharacterized protein (Fragment)				
+A0A1D6P0X3	A0A1D6P0X3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb183920			ARM repeat superfamily protein				
+A0A1D6P351	A0A1D6P351_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6P6T7	A0A1D6P6T7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			CAI-1 autoinducer sensor kinase/phosphatase cqsS isoform 1				
+A0A1D6PAD9	A0A1D6PAD9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Phosphatidylinositol/phosphatidylcholine transfer protein SFH8				
+A0A1D6PAK2	A0A1D6PAK2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6PH45	A0A1D6PH45_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb029530			Putative inactive purple acid phosphatase 1				
+A0A1D6PIC2	A0A1D6PIC2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Polyol transporter protein 4				
+A0A1D6PIC3	A0A1D6PIC3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Polyol transporter protein 4				
+A0A1D6PJQ2	A0A1D6PJQ2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A1D6PLB4	A0A1D6PLB4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb090530			AP-2 complex subunit alpha				
+A0A1D6PLB6	A0A1D6PLB6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb090530			AP-2 complex subunit alpha-2				
+A0A1D6PLC6	A0A1D6PLC6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb090530			AP-2 complex subunit alpha-2				
+A0A1D6PLM8	A0A1D6PLM8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			Homeobox-leucine zipper protein REVOLUTA				
+A0A1D6PLP0	A0A1D6PLP0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			Homeobox-leucine zipper protein REVOLUTA				
+A0A1D6PLP3	A0A1D6PLP3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			Homeobox-leucine zipper protein REVOLUTA				
+A0A1D6PN75	A0A1D6PN75_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164940			Disease resistance RPP13-like protein 4				
+A0A1D6PNJ4	A0A1D6PNJ4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6PNP8	A0A1D6PNP8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb113150			AAA-type ATPase family protein				
+A0A1D6PPY5	A0A1D6PPY5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166200			Ribosome associated membrane protein RAMP4				
+A0A1D6PQ39	A0A1D6PQ39_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166420			Uncharacterized protein				
+A0A1D6PQK6	A0A1D6PQK6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6PQN3	A0A1D6PQN3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Saposin B domain-containing protein				
+A0A1D6PQN8	A0A1D6PQN8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb167120			Ent-copalyl diphosphate synthase chloroplastic				
+A0A1D6PR01	A0A1D6PR01_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200160			Acyl-coenzyme A oxidase				
+A0A1D6PR86	A0A1D6PR86_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb167700			Hevein-like preproprotein				
+A0A1D6PRP7	A0A1D6PRP7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6PRR3	A0A1D6PRR3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6PRR4	A0A1D6PRR4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			RST domain-containing protein				
+A0A1D6PRS3	A0A1D6PRS3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6PRS5	A0A1D6PRS5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			Uncharacterized protein				
+A0A1D6PRS9	A0A1D6PRS9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb004900			Uncharacterized protein				
+A0A1D6PSA9	A0A1D6PSA9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Saposin B domain-containing protein				
+A0A1D6PV36	A0A1D6PV36_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171840			B-box type zinc finger family protein				
+A0A1D6PVT8	A0A1D6PVT8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172250			BTB/POZ domain-containing protein				
+A0A1D6PVW2	A0A1D6PVW2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			Homeobox-leucine zipper protein REVOLUTA				
+A0A1D6PVW3	A0A1D6PVW3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			Homeobox-leucine zipper protein REVOLUTA				
+A0A1D6PVW5	A0A1D6PVW5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			OSJNBa0089K21.9-like protein				
+A0A1D6PVY0	A0A1D6PVY0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Circadian clock associated1				
+A0A1D6PVY2	A0A1D6PVY2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Circadian clock associated1				
+A0A1D6PVZ0	A0A1D6PVZ0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Circadian clock associated1				
+A0A1D6PYG5	A0A1D6PYG5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb175510			Uncharacterized protein				
+A0A1D6PZB1	A0A1D6PZB1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170160			40S ribosomal protein S4-3				
+A0A1D6Q058	A0A1D6Q058_MAIZE	unreviewed	103653365	Zea mays (Maize)	Zm00001eb177760	103653365		Uncharacterized protein				
+A0A1D6Q0M6	A0A1D6Q0M6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178570			Uncharacterized protein				
+A0A1D6Q1L5	A0A1D6Q1L5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+A0A1D6Q1Q2	A0A1D6Q1Q2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027080			Dihydrofolate reductase (EC 1.5.1.3)				
+A0A1D6Q1R5	A0A1D6Q1R5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Myb_DNA-bind_3 domain-containing protein				
+A0A1D6Q1R7	A0A1D6Q1R7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6Q1R8	A0A1D6Q1R8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6Q1S1	A0A1D6Q1S1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Uncharacterized protein				
+A0A1D6Q1S6	A0A1D6Q1S6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057850			Uncharacterized protein				
+A0A1D6Q1S8	A0A1D6Q1S8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb180160			Phospholipase D (EC 3.1.4.4)				
+A0A1D6Q262	A0A1D6Q262_MAIZE	unreviewed	100278525	Zea mays (Maize)	Zm00001eb181040	100278525		Polyprotein				
+A0A1D6Q2F5	A0A1D6Q2F5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A1D6Q2F6	A0A1D6Q2F6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein (Fragment)				
+A0A1D6Q428	A0A1D6Q428_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb183680			Putative cytochrome P450 superfamily protein				
+A0A1D6Q4A9	A0A1D6Q4A9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb183790			Exocyst subunit Exo70 family protein				
+A0A1D6Q4C8	A0A1D6Q4C8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb183920			ARM repeat superfamily protein				
+A0A1D6Q4P7	A0A1D6Q4P7_MAIZE	unreviewed	103653753	Zea mays (Maize)	Zm00001eb184490	103653753		Polyprotein				
+A0A1D6Q576	A0A1D6Q576_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb184490			Polyprotein				
+A0A1D6Q592	A0A1D6Q592_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb185100			RNA-binding (RRM/RBD/RNP motifs) family protein				
+A0A1D6Q6G4	A0A1D6Q6G4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb186620			Expansin-B4				
+A0A1D6Q726	A0A1D6Q726_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb187390			Sulfotransferase (EC 2.8.2.-)				
+A0A1D6Q754	A0A1D6Q754_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb187450			Protein REVEILLE 1				
+A0A1D6Q7H2	A0A1D6Q7H2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6Q7H4	A0A1D6Q7H4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6Q7H5	A0A1D6Q7H5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6Q7H6	A0A1D6Q7H6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6Q7H7	A0A1D6Q7H7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Retrotransposon-like protein				
+A0A1D6Q8F5	A0A1D6Q8F5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188750			Heat shock 70 kDa protein 17				
+A0A1D6Q8F9	A0A1D6Q8F9_MAIZE	unreviewed	100280907	Zea mays (Maize)	Zm00001eb188750	100280907		Heat shock 70 kDa protein 17				
+A0A1D6Q8G0	A0A1D6Q8G0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188750			Heat shock 70 kDa protein 17				
+A0A1D6Q9R8	A0A1D6Q9R8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb045190			Uncharacterized protein				
+A0A1D6Q9S2	A0A1D6Q9S2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb190090			Putative aspartyl protease				
+A0A1D6QBN6	A0A1D6QBN6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb007550			Tetratricopeptide repeat-like superfamily protein				
+A0A1D6QBN7	A0A1D6QBN7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Adenosine deaminases				
+A0A1D6QBN8	A0A1D6QBN8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Gamma-glutamylcyclotransferase 2-2				
+A0A1D6QDD2	A0A1D6QDD2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065190			Opaque endosperm1				
+A0A1D6QEE2	A0A1D6QEE2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb105040			Putative trehalose-phosphate phosphatase D				
+A0A1D6QGY3	A0A1D6QGY3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb195920			WRI1 transcription factor2				
+A0A1D6QI05	A0A1D6QI05_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb197600			60S ribosomal protein L23				
+A0A1D6QIT0	A0A1D6QIT0_MAIZE	unreviewed	100303908	Zea mays (Maize)	Zm00001eb198150	100303908		O-methyltransferase ZRP4				
+A0A1D6QJG3	A0A1D6QJG3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb198620			Heat stress transcription factor B-2b				
+A0A1D6QKM3	A0A1D6QKM3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb199750			Non-structural maintenance of chromosomes element 1 homolog (EC 2.3.2.27) (Fragment)				
+A0A1D6QKV2	A0A1D6QKV2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200030			Chalcone synthase 2				
+A0A1D6QKV3	A0A1D6QKV3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200030			Chalcone synthase 8				
+A0A1D6QL37	A0A1D6QL37_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200380			OSJNBb0045P24.5-like protein				
+A0A1D6QLD0	A0A1D6QLD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200730			Cysteine-rich receptor-like protein kinase 6				
+A0A1D6QLD1	A0A1D6QLD1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200730			Cysteine-rich receptor-like protein kinase 6				
+A0A1D6QLS8	A0A1D6QLS8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201190			Uncharacterized protein				
+A0A1D6QLT1	A0A1D6QLT1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201190			Uncharacterized protein				
+A0A1D6QLU3	A0A1D6QLU3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201400			Uncharacterized protein				
+A0A1D6QLU4	A0A1D6QLU4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201400			Uncharacterized protein				
+A0A1D6QMJ7	A0A1D6QMJ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb202380			Digalactosyldiacylglycerol synthase 1 chloroplastic (Fragment)				
+A0A1D6QMW6	A0A1D6QMW6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb202810			CMV 1a interacting protein 1				
+A0A1D6QNL2	A0A1D6QNL2_MAIZE	unreviewed	103654685	Zea mays (Maize)	Zm00001eb203250	103654685		Putative ribosomal protein S4 (RPS4A) family protein isoform 1				
+A0A1D6QP22	A0A1D6QP22_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb203890			Gamma-glutamylcyclotransferase (EC 4.3.2.9) (Fragment)				
+A0A1D6QPH5	A0A1D6QPH5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204530			Uncharacterized protein				
+A0A1D6QQA3	A0A1D6QQA3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A1D6QQA4	A0A1D6QQA4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A1D6QSS2	A0A1D6QSS2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207670			Uncharacterized protein				
+A0A1D6QST0	A0A1D6QST0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207730			Putative choline kinase 2				
+A0A1D6QST1	A0A1D6QST1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207730			Putative choline kinase 2				
+A0A1D6QTD4	A0A1D6QTD4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb208380			S-(+)-linalool synthase chloroplastic				
+A0A1D6QTV4	A0A1D6QTV4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb208720			Nucleobase-ascorbate transporter 11				
+A0A1D6QVI2	A0A1D6QVI2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D6QVI3	A0A1D6QVI3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D6QVJ0	A0A1D6QVJ0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D6QVJ1	A0A1D6QVJ1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D6QVJ2	A0A1D6QVJ2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D6QVJ3	A0A1D6QVJ3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb210160			Ankyrin repeat family protein				
+A0A1D8RGD7	A0A1D8RGD7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164390			Chloroplast ribulose bisphosphate carboxylase/oxygenase activase (Fragment)				
+A0A1Q0XX12	A0A1Q0XX12_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			CBF1 interacting corepressor (Fragment)				
+A0A1R3NI01	A0A1R3NI01_MAIZE	unreviewed	103647191	Zea mays (Maize)	Zm00001eb094680	103647191		Putative E3 ubiquitin-protein ligase RF4				
+A0A1X7YFP7	A0A1X7YFP7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201370			Deleted.				
+A0A1X7YGM7	A0A1X7YGM7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Deleted.				
+A0A1X7YGT4	A0A1X7YGT4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Deleted.				
+A0A1X7YGV0	A0A1X7YGV0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Deleted.				
+A0A1X7YH08	A0A1X7YH08_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Deleted.				
+A0A1X7YH14	A0A1X7YH14_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031890			Deleted.				
+A0A1X8IAU0	A0A1X8IAU0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Deleted.				
+A0A317Y0F6	A0A317Y0F6_MAIZE	unreviewed	HTH_4	Zea mays (Maize)	Zm00001eb021500	HTH_4		Protein HOTHEAD				
+A0A317Y0F8	A0A317Y0F8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb027960			Uncharacterized protein				
+A0A317Y0G0	A0A317Y0G0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030360			"Thioredoxin-like protein AAED1, chloroplastic"				
+A0A317Y0Z8	A0A317Y0Z8_MAIZE	unreviewed	HSP21_0	Zea mays (Maize)	Zm00001eb034050	HSP21_0		"Small heat shock protein, chloroplastic"				
+A0A317Y173	A0A317Y173_MAIZE	unreviewed	3BETAHSD	Zea mays (Maize)	Zm00001eb019480	3BETAHSD	D1_1	3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 1				
+A0A317Y1A9	A0A317Y1A9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030670			Uncharacterized protein				
+A0A317Y1C9	A0A317Y1C9_MAIZE	unreviewed	PCO1_2	Zea mays (Maize)	Zm00001eb032280	PCO1_2		Cysteine dioxygenase (EC 1.13.11.20)				
+A0A317Y1I1	A0A317Y1I1_MAIZE	unreviewed	ALD1	Zea mays (Maize)	Zm00001eb008180	ALD1		Aminotransferase ALD1				
+A0A317Y1J0	A0A317Y1J0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Myb_DNA-bind_3 domain-containing protein				
+A0A317Y1N3	A0A317Y1N3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb045750			Uncharacterized protein				
+A0A317Y209	A0A317Y209_MAIZE	unreviewed	DIR11	Zea mays (Maize)	Zm00001eb034240	DIR11		Dirigent protein				
+A0A317Y253	A0A317Y253_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Uncharacterized protein				
+A0A317Y327	A0A317Y327_MAIZE	unreviewed	CYP71A1_0	Zea mays (Maize)	Zm00001eb017640	CYP71A1_0		Cytochrome P450 71A1				
+A0A317Y3C7	A0A317Y3C7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb045750			Ubiquitin carboxyl-terminal hydrolase 12				
+A0A317Y3E8	A0A317Y3E8_MAIZE	unreviewed	At3g08860_2	Zea mays (Maize)	Zm00001eb016230	At3g08860_2		"Alanine--glyoxylate aminotransferase 2 3, mitochondrial"				
+A0A317Y3J3	A0A317Y3J3_MAIZE	unreviewed	HTH_6	Zea mays (Maize)	Zm00001eb021500	HTH_6		Protein HOTHEAD				
+A0A317Y3W6	A0A317Y3W6_MAIZE	unreviewed	Os12g0628600_1	Zea mays (Maize)	Zm00001eb032560	Os12g0628600_1	Os12g0628600_2	Thaumatin-like protein				
+A0A317Y3Y1	A0A317Y3Y1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			Uncharacterized protein				
+A0A317Y3Y3	A0A317Y3Y3_MAIZE	unreviewed	EXO84C_0	Zea mays (Maize)	Zm00001eb038690	EXO84C_0		Exocyst complex component EXO84C				
+A0A317Y400	A0A317Y400_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb029530			Purple acid phosphatase (EC 3.1.3.2)				
+A0A317Y4B0	A0A317Y4B0_MAIZE	unreviewed	arsB_0	Zea mays (Maize)	Zm00001eb022890	arsB_0		Putative transporter arsB				
+A0A317Y5B6	A0A317Y5B6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016390			Uncharacterized protein				
+A0A317Y5B7	A0A317Y5B7_MAIZE	unreviewed	GSTT1_0	Zea mays (Maize)	Zm00001eb058380	GSTT1_0	GSTT1_3	Glutathione S-transferase T1				
+A0A317Y5C8	A0A317Y5C8_MAIZE	unreviewed	MICU_6	Zea mays (Maize)	Zm00001eb046070	MICU_6		"Calcium uptake protein, mitochondrial"				
+A0A317Y5J7	A0A317Y5J7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044280			Phosphatidylinositol 4-phosphate 5-kinase (EC 2.7.1.68)				
+A0A317Y684	A0A317Y684_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Myb_DNA-bind_3 domain-containing protein				
+A0A317Y6P7	A0A317Y6P7_MAIZE	unreviewed	LYRM4_0	Zea mays (Maize)	Zm00001eb011200	LYRM4_0		LYR motif-containing protein 4				
+A0A317Y6U2	A0A317Y6U2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb007740			Anti-sigma-I factor RsgI6				
+A0A317Y6W7	A0A317Y6W7_MAIZE	unreviewed	GLU15	Zea mays (Maize)	Zm00001eb042070	GLU15		Endoglucanase (EC 3.2.1.4)				
+A0A317Y722	A0A317Y722_MAIZE	unreviewed	RF2a_6	Zea mays (Maize)	Zm00001eb037290	RF2a_6		Transcription factor RF2a				
+A0A317Y735	A0A317Y735_MAIZE	unreviewed	rbm8a_2	Zea mays (Maize)	Zm00001eb062000	rbm8a_2		RNA-binding protein 8A				
+A0A317Y792	A0A317Y792_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204330			Uncharacterized protein				
+A0A317Y7C4	A0A317Y7C4_MAIZE	unreviewed	AKR1_5	Zea mays (Maize)	Zm00001eb047740	AKR1_5		Putative aldo-keto reductase 1				
+A0A317Y7M4	A0A317Y7M4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Uncharacterized protein				
+A0A317Y7S4	A0A317Y7S4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb021470			LysM domain-containing protein				
+A0A317Y7Y0	A0A317Y7Y0_MAIZE	unreviewed	GLX2-2	Zea mays (Maize)	Zm00001eb015860	GLX2-2		Hydroxyacylglutathione hydrolase cytoplasmic				
+A0A317Y7Y9	A0A317Y7Y9_MAIZE	unreviewed	Os12g0628600_0	Zea mays (Maize)	Zm00001eb032580	Os12g0628600_0		Thaumatin-like protein				
+A0A317Y8C5	A0A317Y8C5_MAIZE	unreviewed	Os03g0621600_0	Zea mays (Maize)	Zm00001eb051340	Os03g0621600_0		Putative B3 domain-containing protein				
+A0A317Y8D9	A0A317Y8D9_MAIZE	unreviewed	DRTS_0	Zea mays (Maize)	Zm00001eb027080	DRTS_0		Dihydrofolate reductase (EC 1.5.1.3)				
+A0A317Y8S2	A0A317Y8S2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb019880			Uncharacterized protein				
+A0A317Y915	A0A317Y915_MAIZE	unreviewed	ZFP2_4	Zea mays (Maize)	Zm00001eb039750	ZFP2_4		Zinc finger protein 2				
+A0A317Y925	A0A317Y925_MAIZE	unreviewed	PLT1_1	Zea mays (Maize)	Zm00001eb008080	PLT1_1		Putative polyol transporter 1				
+A0A317Y9D5	A0A317Y9D5_MAIZE	unreviewed	Os10g0490100_0	Zea mays (Maize)	Zm00001eb044990	Os10g0490100_0		Ripening-related protein 3				
+A0A317Y9D8	A0A317Y9D8_MAIZE	unreviewed	TYDC1	Zea mays (Maize)	Zm00001eb048560	TYDC1		Tyrosine/DOPA decarboxylase 1				
+A0A317Y9K7	A0A317Y9K7_MAIZE	unreviewed	XI-F_3	Zea mays (Maize)	Zm00001eb065190	XI-F_3		Myosin-12				
+A0A317Y9P8	A0A317Y9P8_MAIZE	unreviewed	CDF2_4	Zea mays (Maize)	Zm00001eb048370	CDF2_4		Cyclic dof factor 2				
+A0A317Y9S3	A0A317Y9S3_MAIZE	unreviewed	CYP709B2_4	Zea mays (Maize)	Zm00001eb018040	CYP709B2_4		Cytochrome P450 709B2				
+A0A317Y9S7	A0A317Y9S7_MAIZE	unreviewed	MUS1_1	Zea mays (Maize)	Zm00001eb016860	MUS1_1		DNA mismatch repair protein MSH2				
+A0A317Y9T9	A0A317Y9T9_MAIZE	unreviewed	CSLF7	Zea mays (Maize)	Zm00001eb047650	CSLF7		Putative mixed-linked glucan synthase 7				
+A0A317Y9U4	A0A317Y9U4_MAIZE	unreviewed	LTL1_3	Zea mays (Maize)	Zm00001eb046570	LTL1_3		GDSL esterase/lipase LTL1				
+A0A317YA10	A0A317YA10_MAIZE	unreviewed	ACR4_5	Zea mays (Maize)	Zm00001eb036780	ACR4_5		ACT domain-containing protein ACR4				
+A0A317YA95	A0A317YA95_MAIZE	unreviewed	PUB33_3	Zea mays (Maize)	Zm00001eb022810	PUB33_3		E3 ubiquitin ligase (RING-type E3 ubiquitin transferase) (Serine/threonine-protein kinase)				
+A0A317YAC8	A0A317YAC8_MAIZE	unreviewed	SD22	Zea mays (Maize)	Zm00001eb034410	SD22		Receptor-like serine/threonine-protein kinase (EC 2.7.11.1)				
+A0A317YAD0	A0A317YAD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070640			Uncharacterized protein				
+A0A317YAD4	A0A317YAD4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035600			Uncharacterized protein				
+A0A317YAG0	A0A317YAG0_MAIZE	unreviewed	RAP2-4_0	Zea mays (Maize)	Zm00001eb027780	RAP2-4_0		Ethylene-responsive transcription factor RAP2-4				
+A0A317YBB8	A0A317YBB8_MAIZE	unreviewed	At5g66150_0	Zea mays (Maize)	Zm00001eb026240	At5g66150_0		Alpha-mannosidase (EC 3.2.1.-)				
+A0A317YBJ6	A0A317YBJ6_MAIZE	unreviewed	LDJ2_7	Zea mays (Maize)	Zm00001eb018130	LDJ2_7		DnaJ 2				
+A0A317YBL3	A0A317YBL3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb020240			WAT1-related protein				
+A0A317YBP6	A0A317YBP6_MAIZE	unreviewed	CRRSP55_1	Zea mays (Maize)	Zm00001eb012570	CRRSP55_1		Cysteine-rich repeat secretory protein 55				
+A0A317YBR9	A0A317YBR9_MAIZE	unreviewed	CXE8_1	Zea mays (Maize)	Zm00001eb040190	CXE8_1		Putative carboxylesterase 8				
+A0A317YBZ6	A0A317YBZ6_MAIZE	unreviewed	CESA5_3	Zea mays (Maize)	Zm00001eb047650	CESA5_3		Putative cellulose synthase A catalytic subunit 5 [UDP-forming]				
+A0A317YC22	A0A317YC22_MAIZE	unreviewed	ARD4_3	Zea mays (Maize)	Zm00001eb047770	ARD4_3		"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54) (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD) (Fe-ARD)"				
+A0A317YC54	A0A317YC54_MAIZE	unreviewed	At2g18940_1	Zea mays (Maize)	Zm00001eb059400	At2g18940_1		Pentatricopeptide repeat-containing protein				
+A0A317YC63	A0A317YC63_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb002910			Uncharacterized protein				
+A0A317YC79	A0A317YC79_MAIZE	unreviewed	EXL3_5	Zea mays (Maize)	Zm00001eb065120	EXL3_5		GDSL esterase/lipase EXL3				
+A0A317YCD6	A0A317YCD6_MAIZE	unreviewed	GSTU6_14	Zea mays (Maize)	Zm00001eb021600	GSTU6_14		Putative glutathione S-transferase GSTU6				
+A0A317YCL4	A0A317YCL4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046720			Uncharacterized protein				
+A0A317YCN5	A0A317YCN5_MAIZE	unreviewed	CNOT1_5	Zea mays (Maize)	Zm00001eb092500	CNOT1_5	CNOT1_1	CCR4-NOT transcription complex subunit 1				
+A0A317YCV7	A0A317YCV7_MAIZE	unreviewed	CERK1_1	Zea mays (Maize)	Zm00001eb007100	CERK1_1		Chitin elicitor receptor kinase 1				
+A0A317YCW3	A0A317YCW3_MAIZE	unreviewed	PSS2_1	Zea mays (Maize)	Zm00001eb103650	PSS2_1		CDP-diacylglycerol--serine O-phosphatidyltransferase 2				
+A0A317YD41	A0A317YD41_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb030360			Uncharacterized protein				
+A0A317YDE7	A0A317YDE7_MAIZE	unreviewed	THT2_0	Zea mays (Maize)	Zm00001eb027900	THT2_0	THT2_1	Tryptamine hydroxycinnamoyltransferase 2				
+A0A317YDN8	A0A317YDN8_MAIZE	unreviewed	EXPB3_0	Zea mays (Maize)	Zm00001eb023420	EXPB3_0		Expansin-B3				
+A0A317YDP2	A0A317YDP2_MAIZE	unreviewed	GAD1_0	Zea mays (Maize)	Zm00001eb055490	GAD1_0		Glutamate decarboxylase (EC 4.1.1.15)				
+A0A317YDT5	A0A317YDT5_MAIZE	unreviewed	RIBA1	Zea mays (Maize)	Zm00001eb033400	RIBA1		"Putative bifunctional riboflavin biosynthesis protein RIBA 1, chloroplastic"				
+A0A317YDY4	A0A317YDY4_MAIZE	unreviewed	dnaJ_0	Zea mays (Maize)	Zm00001eb040580	dnaJ_0		Chaperone protein DnaJ				
+A0A317YE20	A0A317YE20_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb040350			Uncharacterized protein				
+A0A317YEB8	A0A317YEB8_MAIZE	unreviewed	PAL_0	Zea mays (Maize)	Zm00001eb050970	PAL_0		Phenylalanine ammonia-lyase (EC 4.3.1.24) (Fragment)				
+A0A317YEF1	A0A317YEF1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb002910			Uncharacterized protein				
+A0A317YEL5	A0A317YEL5_MAIZE	unreviewed	RAFTIN1A	Zea mays (Maize)	Zm00001eb033930	RAFTIN1A		Protein RAFTIN 1A (Fragment)				
+A0A317YEL6	A0A317YEL6_MAIZE	unreviewed	CPRF2_2	Zea mays (Maize)	Zm00001eb031210	CPRF2_2		Light-inducible protein CPRF2				
+A0A317YEW9	A0A317YEW9_MAIZE	unreviewed	ACC1_0	Zea mays (Maize)	Zm00001eb055950	ACC1_0		1-aminocyclopropane-1-carboxylate synthase 1				
+A0A317YEX5	A0A317YEX5_MAIZE	unreviewed	SPAC24B11.05_0	Zea mays (Maize)	Zm00001eb063350	SPAC24B11.05_0		Uncharacterized protein C24B11.05				
+A0A317YEY6	A0A317YEY6_MAIZE	unreviewed	UGT83A1_0	Zea mays (Maize)	Zm00001eb057770	UGT83A1_0		UDP-glycosyltransferase 83A1				
+A0A317YFR7	A0A317YFR7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056110			Uncharacterized protein				
+A0A317YFX1	A0A317YFX1_MAIZE	unreviewed	VCS_4	Zea mays (Maize)	Zm00001eb037580	VCS_4		ATP-dependent DNA helicase (EC 3.6.4.12)				
+A0A317YFY9	A0A317YFY9_MAIZE	unreviewed	KAO_0	Zea mays (Maize)	Zm00001eb012940	KAO_0		Ent-kaurenoic acid oxidase				
+A0A317YG22	A0A317YG22_MAIZE	unreviewed	XTH32_0	Zea mays (Maize)	Zm00001eb000660	XTH32_0		Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)				
+A0A317YGN3	A0A317YGN3_MAIZE	unreviewed	THA2_2	Zea mays (Maize)	Zm00001eb017590	THA2_2		Putative low-specificity L-threonine aldolase 2				
+A0A317YGR1	A0A317YGR1_MAIZE	unreviewed	HSFB2B_0	Zea mays (Maize)	Zm00001eb037600	HSFB2B_0		Heat stress transcription factor B-2b				
+A0A317YGU3	A0A317YGU3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb002910			Uncharacterized protein				
+A0A317YGZ6	A0A317YGZ6_MAIZE	unreviewed	EXPB7	Zea mays (Maize)	Zm00001eb000380	EXPB7		Expansin-B7				
+A0A317YH95	A0A317YH95_MAIZE	unreviewed	At3g13620_1	Zea mays (Maize)	Zm00001eb018270	At3g13620_1		Putative polyamine transporter				
+A0A317YHJ0	A0A317YHJ0_MAIZE	unreviewed	CYP81E1_1	Zea mays (Maize)	Zm00001eb017030	CYP81E1_1		Isoflavone 2'-hydroxylase				
+A0A317YHM8	A0A317YHM8_MAIZE	unreviewed	CCDP_0	Zea mays (Maize)	Zm00001eb055380	CCDP_0		Cortical cell-delineating protein				
+A0A317YHP3	A0A317YHP3_MAIZE	unreviewed	COL16_0	Zea mays (Maize)	Zm00001eb054810	COL16_0		Zinc finger protein CONSTANS-LIKE 16				
+A0A317YHV5	A0A317YHV5_MAIZE	unreviewed	COL13_1	Zea mays (Maize)	Zm00001eb016800	COL13_1		Zinc finger protein CONSTANS-LIKE 13				
+A0A317YIA5	A0A317YIA5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006310			Uncharacterized protein				
+A0A317YIA9	A0A317YIA9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			"Outer envelope pore protein 16-2, chloroplastic"				
+A0A317YIC2	A0A317YIC2_MAIZE	unreviewed	CYP81E8_2	Zea mays (Maize)	Zm00001eb058070	CYP81E8_2		Cytochrome P450 81E8				
+A0A317YIM9	A0A317YIM9_MAIZE	unreviewed	At3g13620_0	Zea mays (Maize)	Zm00001eb018270	At3g13620_0		Putative polyamine transporter				
+A0A317YIR3	A0A317YIR3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb024710			Uncharacterized protein				
+A0A317YIT0	A0A317YIT0_MAIZE	unreviewed	Os03g0328900_2	Zea mays (Maize)	Zm00001eb055630	Os03g0328900_2		Zinc finger CCCH domain-containing protein 22				
+A0A317YIW5	A0A317YIW5_MAIZE	unreviewed	ACT-2_1	Zea mays (Maize)	Zm00001eb053150	ACT-2_1		Agmatine coumaroyltransferase-2				
+A0A317YJ88	A0A317YJ88_MAIZE	unreviewed	At3g13620_4	Zea mays (Maize)	Zm00001eb018270	At3g13620_4		Putative polyamine transporter				
+A0A317YJD8	A0A317YJD8_MAIZE	unreviewed	pod_0	Zea mays (Maize)	Zm00001eb009940	pod_0		Peroxidase (EC 1.11.1.7)				
+A0A317YJF2	A0A317YJF2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012550			Uncharacterized protein YsfE				
+A0A317YJH1	A0A317YJH1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011820			Uncharacterized protein				
+A0A317YJW2	A0A317YJW2_MAIZE	unreviewed	PMGI_2	Zea mays (Maize)	Zm00001eb015770	PMGI_2		"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent) (EC 5.4.2.12)"				
+A0A317YK23	A0A317YK23_MAIZE	unreviewed	WRKY46_6	Zea mays (Maize)	Zm00001eb076500	WRKY46_6		WRKY transcription factor SUSIBA2				
+A0A317YK67	A0A317YK67_MAIZE	unreviewed	Os01g0857700_5	Zea mays (Maize)	Zm00001eb051100	Os01g0857700_5		Protein BUD31 1				
+A0A317YKE7	A0A317YKE7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Uncharacterized protein				
+A0A317YL31	A0A317YL31_MAIZE	unreviewed	EGY3	Zea mays (Maize)	Zm00001eb056010	EGY3		"Putative zinc metalloprotease EGY3, chloroplastic"				
+A0A317YMC2	A0A317YMC2_MAIZE	unreviewed	Os02g0642300_0	Zea mays (Maize)	Zm00001eb044100	Os02g0642300_0		Putative ascorbate-specific transmembrane electron transporter 1				
+A0A3L6D7H4	A0A3L6D7H4_MAIZE	unreviewed	RAP2-4_4	Zea mays (Maize)	Zm00001eb027780	RAP2-4_4		Ethylene-responsive transcription factor RAP2-4				
+A0A3L6D8G5	A0A3L6D8G5_MAIZE	unreviewed	RAP2-4_1	Zea mays (Maize)	Zm00001eb027780	RAP2-4_1		Ethylene-responsive transcription factor RAP2-4				
+A0A3L6D8L4	A0A3L6D8L4_MAIZE	unreviewed	ANP1_0	Zea mays (Maize)	Zm00001eb099730	ANP1_0		Mitogen-activated protein kinase kinase kinase ANP1				
+A0A3L6D9U7	A0A3L6D9U7_MAIZE	unreviewed	Os05g0358500_20	Zea mays (Maize)	Zm00001eb030360	Os05g0358500_20		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6DB38	A0A3L6DB38_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			Uncharacterized protein				
+A0A3L6DB46	A0A3L6DB46_MAIZE	unreviewed	CAND1_1	Zea mays (Maize)	Zm00001eb006600	CAND1_1		Cullin-associated NEDD8-dissociated protein 1				
+A0A3L6DC25	A0A3L6DC25_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb089370			Hydrolase_4 domain-containing protein				
+A0A3L6DC36	A0A3L6DC36_MAIZE	unreviewed	ZEP_5	Zea mays (Maize)	Zm00001eb006600	ZEP_5		"Zeaxanthin epoxidase, chloroplastic"				
+A0A3L6DC38	A0A3L6DC38_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006310			Uncharacterized protein				
+A0A3L6DCF0	A0A3L6DCF0_MAIZE	unreviewed	CLPB2_3	Zea mays (Maize)	Zm00001eb000310	CLPB2_3		"Chaperone protein ClpB2, chloroplastic"				
+A0A3L6DEF2	A0A3L6DEF2_MAIZE	unreviewed	PLT5_9	Zea mays (Maize)	Zm00001eb008080	PLT5_9		Polyol transporter 5				
+A0A3L6DEL4	A0A3L6DEL4_MAIZE	unreviewed	H33_0	Zea mays (Maize)	Zm00001eb115920	H33_0		Histone H3.3				
+A0A3L6DER6	A0A3L6DER6_MAIZE	unreviewed	GSTU6_12	Zea mays (Maize)	Zm00001eb021600	GSTU6_12		Putative glutathione S-transferase GSTU6				
+A0A3L6DFR7	A0A3L6DFR7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022880			Uncharacterized protein				
+A0A3L6DI18	A0A3L6DI18_MAIZE	unreviewed	HTH_3	Zea mays (Maize)	Zm00001eb021500	HTH_3		Protein HOTHEAD				
+A0A3L6DM43	A0A3L6DM43_MAIZE	unreviewed	ENO2_0	Zea mays (Maize)	Zm00001eb000310	ENO2_0		Phosphopyruvate hydratase (EC 4.2.1.11)				
+A0A3L6DM53	A0A3L6DM53_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046710			Uncharacterized protein				
+A0A3L6DN35	A0A3L6DN35_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Phosphatidylinositol/phosphatidylcholine transfer protein SFH8				
+A0A3L6DNE2	A0A3L6DNE2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb090340			"Light-harvesting complex-like protein OHP1, chloroplastic"				
+A0A3L6DR72	A0A3L6DR72_MAIZE	unreviewed	CIPK31_3	Zea mays (Maize)	Zm00001eb201400	CIPK31_3		CBL-interacting protein kinase 31				
+A0A3L6DS04	A0A3L6DS04_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Phospholipid--sterol O-acyltransferase				
+A0A3L6DSD1	A0A3L6DSD1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+A0A3L6DVF7	A0A3L6DVF7_MAIZE	unreviewed	RPS8_5	Zea mays (Maize)	Zm00001eb205630	RPS8_5		40S ribosomal protein S8				
+A0A3L6DYW1	A0A3L6DYW1_MAIZE	unreviewed	MICU_1	Zea mays (Maize)	Zm00001eb046070	MICU_1		"Calcium uptake protein, mitochondrial"				
+A0A3L6E4P2	A0A3L6E4P2_MAIZE	unreviewed	NPSN13_0	Zea mays (Maize)	Zm00001eb109980	NPSN13_0		Putative plant SNARE 13				
+A0A3L6E4Z9	A0A3L6E4Z9_MAIZE	unreviewed	At3g02090_5	Zea mays (Maize)	Zm00001eb168900	At3g02090_5		"Putative mitochondrial-processing peptidase subunit beta, mitochondrial"				
+A0A3L6E594	A0A3L6E594_MAIZE	unreviewed	RPS4_23	Zea mays (Maize)	Zm00001eb183920	RPS4_23		40S ribosomal protein S4				
+A0A3L6E5M8	A0A3L6E5M8_MAIZE	unreviewed	XTH32_3	Zea mays (Maize)	Zm00001eb000660	XTH32_3		Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)				
+A0A3L6E7U3	A0A3L6E7U3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Uncharacterized protein				
+A0A3L6E8F3	A0A3L6E8F3_MAIZE	unreviewed	EXL1_2	Zea mays (Maize)	Zm00001eb065120	EXL1_2		GDSL esterase/lipase EXL1				
+A0A3L6E9B6	A0A3L6E9B6_MAIZE	unreviewed	CESA11_3	Zea mays (Maize)	Zm00001eb047650	CESA11_3		Putative cellulose synthase A catalytic subunit 11 [UDP-forming]				
+A0A3L6EA34	A0A3L6EA34_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+A0A3L6EC80	A0A3L6EC80_MAIZE	unreviewed	RPA1B_24	Zea mays (Maize)	Zm00001eb044850	RPA1B_24		Replication protein A DNA-binding subunit B				
+A0A3L6ECR9	A0A3L6ECR9_MAIZE	unreviewed	GGCT2:2_1	Zea mays (Maize)	Zm00001eb203890	GGCT2:2_1		Gamma-glutamylcyclotransferase (EC 4.3.2.9)				
+A0A3L6EDF2	A0A3L6EDF2_MAIZE	unreviewed	adat1	Zea mays (Maize)	Zm00001eb191880	adat1		tRNA-specific adenosine deaminase 1				
+A0A3L6EDG9	A0A3L6EDG9_MAIZE	unreviewed	RPA1B_36	Zea mays (Maize)	Zm00001eb044850	RPA1B_36		Replication protein A DNA-binding subunit B				
+A0A3L6EEV5	A0A3L6EEV5_MAIZE	unreviewed	GSTT1_4	Zea mays (Maize)	Zm00001eb058380	GSTT1_4		Glutathione S-transferase T1				
+A0A3L6EF88	A0A3L6EF88_MAIZE	unreviewed	DIR15_0	Zea mays (Maize)	Zm00001eb034240	DIR15_0		Dirigent protein				
+A0A3L6EF89	A0A3L6EF89_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Uncharacterized protein				
+A0A3L6EFA9	A0A3L6EFA9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Replication protein A DNA-binding subunit B				
+A0A3L6EJP7	A0A3L6EJP7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034240			Dirigent protein				
+A0A3L6EK00	A0A3L6EK00_MAIZE	unreviewed	EXL3_2	Zea mays (Maize)	Zm00001eb065120	EXL3_2		GDSL esterase/lipase EXL3				
+A0A3L6ELF0	A0A3L6ELF0_MAIZE	unreviewed	Os02g0778600	Zea mays (Maize)	Zm00001eb042070	Os02g0778600		Endoglucanase (EC 3.2.1.4)				
+A0A3L6ELW1	A0A3L6ELW1_MAIZE	unreviewed	Os02g0224100_0	Zea mays (Maize)	Zm00001eb205090	Os02g0224100_0		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6EM72	A0A3L6EM72_MAIZE	unreviewed	EXPB15	Zea mays (Maize)	Zm00001eb186620	EXPB15		Expansin-B15				
+A0A3L6ENQ4	A0A3L6ENQ4_MAIZE	unreviewed	SHOC1	Zea mays (Maize)	Zm00001eb044100	SHOC1		Protein SHORTAGE IN CHIASMATA 1				
+A0A3L6EP28	A0A3L6EP28_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170160			Uncharacterized protein				
+A0A3L6EPD6	A0A3L6EPD6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087970			Uncharacterized protein				
+A0A3L6EQZ4	A0A3L6EQZ4_MAIZE	unreviewed	Os10g0495500_2	Zea mays (Maize)	Zm00001eb008040	Os10g0495500_2		Nucleolar complex protein 2				
+A0A3L6ERZ9	A0A3L6ERZ9_MAIZE	unreviewed	At3g01300_4	Zea mays (Maize)	Zm00001eb086190	At3g01300_4		Receptor-like serine/threonine-protein kinase				
+A0A3L6ESM5	A0A3L6ESM5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076500			Uncharacterized protein				
+A0A3L6ESV1	A0A3L6ESV1_MAIZE	unreviewed	GDH2_9	Zea mays (Maize)	Zm00001eb191880	GDH2_9		"Glycine cleavage system H protein 2, mitochondrial"				
+A0A3L6EVA0	A0A3L6EVA0_MAIZE	unreviewed	rio1_0	Zea mays (Maize)	Zm00001eb103140	rio1_0		Non-specific serine/threonine protein kinase (EC 2.7.11.1)				
+A0A3L6EW76	A0A3L6EW76_MAIZE	unreviewed	TPKB	Zea mays (Maize)	Zm00001eb169870	TPKB		Two pore potassium channel b				
+A0A3L6EWB9	A0A3L6EWB9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb187450			Protein LHY				
+A0A3L6EWG1	A0A3L6EWG1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb041680			Uncharacterized protein				
+A0A3L6EX04	A0A3L6EX04_MAIZE	unreviewed	ZRP4_3	Zea mays (Maize)	Zm00001eb198150	ZRP4_3		O-methyltransferase ZRP4				
+A0A3L6EX09	A0A3L6EX09_MAIZE	unreviewed	CYS4	Zea mays (Maize)	Zm00001eb168980	CYS4		Cysteine proteinase inhibitor 4				
+A0A3L6EX70	A0A3L6EX70_MAIZE	unreviewed	H2B1_5	Zea mays (Maize)	Zm00001eb188570	H2B1_5		Histone H2B				
+A0A3L6EXB9	A0A3L6EXB9_MAIZE	unreviewed	NUP155_4	Zea mays (Maize)	Zm00001eb201400	NUP155_4		Nuclear pore complex protein NUP155				
+A0A3L6EXK1	A0A3L6EXK1_MAIZE	unreviewed	UGT83A1_5	Zea mays (Maize)	Zm00001eb175940	UGT83A1_5		UDP-glycosyltransferase 83A1				
+A0A3L6EXW8	A0A3L6EXW8_MAIZE	unreviewed	CRK40	Zea mays (Maize)	Zm00001eb200730	CRK40		Cysteine-rich receptor-like protein kinase 40				
+A0A3L6EY22	A0A3L6EY22_MAIZE	unreviewed	GGP3_0	Zea mays (Maize)	Zm00001eb206620	GGP3_0		Gamma-glutamyl peptidase 3				
+A0A3L6EYC2	A0A3L6EYC2_MAIZE	unreviewed	Os03g0429000_3	Zea mays (Maize)	Zm00001eb168980	Os03g0429000_3		Cysteine proteinase inhibitor 8				
+A0A3L6EYG3	A0A3L6EYG3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166200			Uncharacterized protein				
+A0A3L6EYH7	A0A3L6EYH7_MAIZE	unreviewed	ALDP_0	Zea mays (Maize)	Zm00001eb200910	ALDP_0		Fructose-bisphosphate aldolase (EC 4.1.2.13)				
+A0A3L6EYM8	A0A3L6EYM8_MAIZE	unreviewed	RPM1_9	Zea mays (Maize)	Zm00001eb197290	RPM1_9		Disease resistance protein RPM1				
+A0A3L6EYP6	A0A3L6EYP6_MAIZE	unreviewed	CPS2_0	Zea mays (Maize)	Zm00001eb167120	CPS2_0		Ent-copalyl diphosphate synthase 2				
+A0A3L6EYR4	A0A3L6EYR4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103650			CDP-diacylglycerol--serine O-phosphatidyltransferase 2				
+A0A3L6EYU7	A0A3L6EYU7_MAIZE	unreviewed	Os11g0547000_0	Zea mays (Maize)	Zm00001eb201580	Os11g0547000_0		Adagio-like protein 3				
+A0A3L6EZH1	A0A3L6EZH1_MAIZE	unreviewed	ZRP4_9	Zea mays (Maize)	Zm00001eb198140	ZRP4_9		O-methyltransferase ZRP4				
+A0A3L6EZK4	A0A3L6EZK4_MAIZE	unreviewed	LHCB5_0	Zea mays (Maize)	Zm00001eb168100	LHCB5_0		"Chlorophyll a-b binding protein, chloroplastic"				
+A0A3L6EZS8	A0A3L6EZS8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200380			DUF4220 domain-containing protein				
+A0A3L6F0T4	A0A3L6F0T4_MAIZE	unreviewed	WRI1_2	Zea mays (Maize)	Zm00001eb195920	WRI1_2		Ethylene-responsive transcription factor WRI1				
+A0A3L6F1L3	A0A3L6F1L3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103650			Uncharacterized protein				
+A0A3L6F1U9	A0A3L6F1U9_MAIZE	unreviewed	Rbm42_0	Zea mays (Maize)	Zm00001eb185100	Rbm42_0		RNA-binding protein 42				
+A0A3L6F242	A0A3L6F242_MAIZE	unreviewed	RPL26A_2	Zea mays (Maize)	Zm00001eb175750	RPL26A_2		60S ribosomal protein L26-1				
+A0A3L6F251	A0A3L6F251_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171950			Uncharacterized protein				
+A0A3L6F259	A0A3L6F259_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb209990			NAD(P)-bd_dom domain-containing protein				
+A0A3L6F2W0	A0A3L6F2W0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6F410	A0A3L6F410_MAIZE	unreviewed	MTN1_1	Zea mays (Maize)	Zm00001eb175180	MTN1_1		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 1				
+A0A3L6F473	A0A3L6F473_MAIZE	unreviewed	Os05g0358500_14	Zea mays (Maize)	Zm00001eb198090	Os05g0358500_14		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6F4M5	A0A3L6F4M5_MAIZE	unreviewed	CCD4_1	Zea mays (Maize)	Zm00001eb188280	CCD4_1		"Putative carotenoid cleavage dioxygenase 4, chloroplastic"				
+A0A3L6F544	A0A3L6F544_MAIZE	unreviewed	COL13_2	Zea mays (Maize)	Zm00001eb171840	COL13_2		Zinc finger protein CONSTANS-LIKE 13				
+A0A3L6F561	A0A3L6F561_MAIZE	unreviewed	RPS4_10	Zea mays (Maize)	Zm00001eb017590	RPS4_10		40S ribosomal protein S4				
+A0A3L6F566	A0A3L6F566_MAIZE	unreviewed	Os12g0155000_8	Zea mays (Maize)	Zm00001eb171520	Os12g0155000_8		Germin-like protein				
+A0A3L6F574	A0A3L6F574_MAIZE	unreviewed	SOT15	Zea mays (Maize)	Zm00001eb187390	SOT15		Sulfotransferase (EC 2.8.2.-)				
+A0A3L6F593	A0A3L6F593_MAIZE	unreviewed	P58B_1	Zea mays (Maize)	Zm00001eb164940	P58B_1		DnaJ protein P58IPK B				
+A0A3L6F5C7	A0A3L6F5C7_MAIZE	unreviewed	LHY_2	Zea mays (Maize)	Zm00001eb172450	LHY_2		Protein LHY				
+A0A3L6F5N5	A0A3L6F5N5_MAIZE	unreviewed	nep1_11	Zea mays (Maize)	Zm00001eb190090	nep1_11		Aspartic proteinase nepenthesin-1				
+A0A3L6F5Q6	A0A3L6F5Q6_MAIZE	unreviewed	EXPB14_1	Zea mays (Maize)	Zm00001eb186620	EXPB14_1		Putative expansin-B14				
+A0A3L6F5R1	A0A3L6F5R1_MAIZE	unreviewed	IMPL1	Zea mays (Maize)	Zm00001eb207300	IMPL1		Inositol-1-monophosphatase (EC 3.1.3.25)				
+A0A3L6F5W0	A0A3L6F5W0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035520			Myb_DNA-bind_3 domain-containing protein				
+A0A3L6F5W2	A0A3L6F5W2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204330			zf-RVT domain-containing protein (Fragment)				
+A0A3L6F604	A0A3L6F604_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb194590			Methyltransferase-like protein 7A				
+A0A3L6F6B3	A0A3L6F6B3_MAIZE	unreviewed	RPS8_0	Zea mays (Maize)	Zm00001eb205630	RPS8_0	RPS8_4	40S ribosomal protein S8				
+A0A3L6F6N5	A0A3L6F6N5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb184490			Uncharacterized protein				
+A0A3L6F6V4	A0A3L6F6V4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168900			Protein STRICTOSIDINE SYNTHASE-LIKE 3				
+A0A3L6F6Z4	A0A3L6F6Z4_MAIZE	unreviewed	WHP1	Zea mays (Maize)	Zm00001eb200030	WHP1		Chalcone synthase WHP1				
+A0A3L6F723	A0A3L6F723_MAIZE	unreviewed	Os03g0283600_9	Zea mays (Maize)	Zm00001eb043820	Os03g0283600_9		"Cardiolipin synthase (CMP-forming), mitochondrial"				
+A0A3L6F765	A0A3L6F765_MAIZE	unreviewed	KPPR_1	Zea mays (Maize)	Zm00001eb188120	KPPR_1		Phosphoribulokinase (EC 2.7.1.19)				
+A0A3L6F7G2	A0A3L6F7G2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207670			Uncharacterized protein				
+A0A3L6F7N5	A0A3L6F7N5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164390			"Ribulose bisphosphate carboxylase/oxygenase activase, chloroplastic"				
+A0A3L6F7N7	A0A3L6F7N7_MAIZE	unreviewed	BIPE3_3	Zea mays (Maize)	Zm00001eb006600	BIPE3_3		Luminal-binding protein 3				
+A0A3L6F7P5	A0A3L6F7P5_MAIZE	unreviewed	CHS7	Zea mays (Maize)	Zm00001eb198080	CHS7		Chalcone synthase 7				
+A0A3L6F7T9	A0A3L6F7T9_MAIZE	unreviewed	HSFB2B_1	Zea mays (Maize)	Zm00001eb198620	HSFB2B_1		Heat stress transcription factor B-2b				
+A0A3L6F7V5	A0A3L6F7V5_MAIZE	unreviewed	PLDBETA1_6	Zea mays (Maize)	Zm00001eb180160	PLDBETA1_6		Phospholipase D (EC 3.1.4.4)				
+A0A3L6F7X2	A0A3L6F7X2_MAIZE	unreviewed	CYP86B1_0	Zea mays (Maize)	Zm00001eb183820	CYP86B1_0		Cytochrome P450 86B1				
+A0A3L6F812	A0A3L6F812_MAIZE	unreviewed	Os06g0508700_2	Zea mays (Maize)	Zm00001eb189910	Os06g0508700_2		Methionyl-tRNA synthetase (EC 6.1.1.10)				
+A0A3L6F821	A0A3L6F821_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb177760			Uncharacterized protein				
+A0A3L6F847	A0A3L6F847_MAIZE	unreviewed	SP_0	Zea mays (Maize)	Zm00001eb197000	SP_0		Protein SELF-PRUNING				
+A0A3L6F887	A0A3L6F887_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb196990			Uncharacterized protein				
+A0A3L6F8A6	A0A3L6F8A6_MAIZE	unreviewed	ZRP4_7	Zea mays (Maize)	Zm00001eb198140	ZRP4_7	ZRP4_6	O-methyltransferase ZRP4				
+A0A3L6F8A9	A0A3L6F8A9_MAIZE	unreviewed	CWC21_1	Zea mays (Maize)	Zm00001eb204830	CWC21_1		Pre-mRNA-splicing factor CWC21				
+A0A3L6F8F2	A0A3L6F8F2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb193710			Uncharacterized protein				
+A0A3L6F8I7	A0A3L6F8I7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170080			BAG domain-containing protein				
+A0A3L6F8Q1	A0A3L6F8Q1_MAIZE	unreviewed	BARW_1	Zea mays (Maize)	Zm00001eb167700	BARW_1		Barwin				
+A0A3L6F8Q9	A0A3L6F8Q9_MAIZE	unreviewed	DRTS_2	Zea mays (Maize)	Zm00001eb027080	DRTS_2		Dihydrofolate reductase (EC 1.5.1.3)				
+A0A3L6F8T4	A0A3L6F8T4_MAIZE	unreviewed	At3g47200_10	Zea mays (Maize)	Zm00001eb170770	At3g47200_10		UPF0481 protein				
+A0A3L6F9B1	A0A3L6F9B1_MAIZE	unreviewed	Os12g0155000_7	Zea mays (Maize)	Zm00001eb171590	Os12g0155000_7		Germin-like protein				
+A0A3L6F9C6	A0A3L6F9C6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164960			Uncharacterized protein				
+A0A3L6F9M0	A0A3L6F9M0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb181040			Uncharacterized protein				
+A0A3L6F9N6	A0A3L6F9N6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb165030			Uncharacterized protein				
+A0A3L6F9Q1	A0A3L6F9Q1_MAIZE	unreviewed	PER70_3	Zea mays (Maize)	Zm00001eb204960	PER70_3		Peroxidase (EC 1.11.1.7)				
+A0A3L6F9T4	A0A3L6F9T4_MAIZE	unreviewed	At1g74320_5	Zea mays (Maize)	Zm00001eb207730	At1g74320_5		Putative choline kinase 2				
+A0A3L6FA84	A0A3L6FA84_MAIZE	unreviewed	NOP5-2_2	Zea mays (Maize)	Zm00001eb015370	NOP5-2_2		Chorismate mutase (EC 5.4.99.5)				
+A0A3L6FAD2	A0A3L6FAD2_MAIZE	unreviewed	MICU_5	Zea mays (Maize)	Zm00001eb046070	MICU_5		"Calcium uptake protein, mitochondrial"				
+A0A3L6FAG0	A0A3L6FAG0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb187130			Uncharacterized protein				
+A0A3L6FAW2	A0A3L6FAW2_MAIZE	unreviewed	GULLO2_1	Zea mays (Maize)	Zm00001eb173900	GULLO2_1		L-gulonolactone oxidase (EC 1.1.3.8)				
+A0A3L6FB80	A0A3L6FB80_MAIZE	unreviewed	CPS2_1	Zea mays (Maize)	Zm00001eb167120	CPS2_1		Ent-copalyl diphosphate synthase 2				
+A0A3L6FBD1	A0A3L6FBD1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			ULP_PROTEASE domain-containing protein				
+A0A3L6FBK3	A0A3L6FBK3_MAIZE	unreviewed	HSP70-17_2	Zea mays (Maize)	Zm00001eb188750	HSP70-17_2		Heat shock protein 17				
+A0A3L6FBV6	A0A3L6FBV6_MAIZE	unreviewed	Os02g0677700_2	Zea mays (Maize)	Zm00001eb088450	Os02g0677700_2		Zinc finger CCCH domain-containing protein 17				
+A0A3L6FCL7	A0A3L6FCL7_MAIZE	unreviewed	Os05g0358500_33	Zea mays (Maize)	Zm00001eb198090	Os05g0358500_33		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6FDC8	A0A3L6FDC8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb180830			Bidirectional sugar transporter SWEET				
+A0A3L6FFD7	A0A3L6FFD7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb051940			Myb_DNA-bind_3 domain-containing protein				
+A0A3L6FFZ2	A0A3L6FFZ2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb092500			Uncharacterized protein				
+A0A3L6FHX1	A0A3L6FHX1_MAIZE	unreviewed	EXO70B1_12	Zea mays (Maize)	Zm00001eb183790	EXO70B1_12		Exocyst complex component EXO70B1				
+A0A3L6FJ80	A0A3L6FJ80_MAIZE	unreviewed	DAPF_0	Zea mays (Maize)	Zm00001eb000310	DAPF_0		"Putative diaminopimelate epimerase, chloroplastic"				
+A0A3L6FKE8	A0A3L6FKE8_MAIZE	unreviewed	HEX6_0	Zea mays (Maize)	Zm00001eb047630	HEX6_0		Hexose carrier protein HEX6				
+A0A3L6FMI2	A0A3L6FMI2_MAIZE	unreviewed	PSS2_3	Zea mays (Maize)	Zm00001eb103650	PSS2_3		CDP-diacylglycerol--serine O-phosphatidyltransferase 2				
+A0A3L6FN36	A0A3L6FN36_MAIZE	unreviewed	RPL23A_7	Zea mays (Maize)	Zm00001eb197600	RPL23A_7		60S ribosomal protein L23				
+A0A3L6FPD6	A0A3L6FPD6_MAIZE	unreviewed	RVE1_0	Zea mays (Maize)	Zm00001eb072870	RVE1_0		Protein REVEILLE 1				
+A0A3L6FPF6	A0A3L6FPF6_MAIZE	unreviewed	PAP16_1	Zea mays (Maize)	Zm00001eb070880	PAP16_1		Putative inactive purple acid phosphatase 16				
+A0A3L6FPF8	A0A3L6FPF8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			ULP_PROTEASE domain-containing protein				
+A0A3L6FPH4	A0A3L6FPH4_MAIZE	unreviewed	AT15_2	Zea mays (Maize)	Zm00001eb089190	AT15_2		Acyl transferase 15				
+A0A3L6FPJ9	A0A3L6FPJ9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			Uncharacterized protein				
+A0A3L6FQ16	A0A3L6FQ16_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097880			Uncharacterized protein				
+A0A3L6FQ33	A0A3L6FQ33_MAIZE	unreviewed	Os03g0328900_1	Zea mays (Maize)	Zm00001eb055630	Os03g0328900_1		Zinc finger CCCH domain-containing protein 22				
+A0A3L6FQH8	A0A3L6FQH8_MAIZE	unreviewed	TIFY9_1	Zea mays (Maize)	Zm00001eb084980	TIFY9_1		Protein TIFY 9				
+A0A3L6FRY4	A0A3L6FRY4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078660			Uncharacterized protein				
+A0A3L6FUB6	A0A3L6FUB6_MAIZE	unreviewed	At3g19950_2	Zea mays (Maize)	Zm00001eb110240	At3g19950_2		E3 ubiquitin-protein ligase RING1-like				
+A0A3L6FUF2	A0A3L6FUF2_MAIZE	unreviewed	At1g26850_1	Zea mays (Maize)	Zm00001eb114950	At1g26850_1		Methyltransferase (EC 2.1.1.-)				
+A0A3L6FUY2	A0A3L6FUY2_MAIZE	unreviewed	Os07g0671000_0	Zea mays (Maize)	Zm00001eb111110	Os07g0671000_0		Flowering-promoting factor 1-like protein 5				
+A0A3L6FUZ7	A0A3L6FUZ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015370			Uncharacterized protein				
+A0A3L6FV91	A0A3L6FV91_MAIZE	unreviewed	At5g56590_1	Zea mays (Maize)	Zm00001eb106410	At5g56590_1		"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+A0A3L6FVF0	A0A3L6FVF0_MAIZE	unreviewed	At1g56130_6	Zea mays (Maize)	Zm00001eb070720	At1g56130_6		Putative LRR receptor-like serine/threonine-protein kinase				
+A0A3L6FW72	A0A3L6FW72_MAIZE	unreviewed	TOP1B_2	Zea mays (Maize)	Zm00001eb171950	TOP1B_2		DNA topoisomerase I (EC 5.6.2.1) (DNA topoisomerase 1)				
+A0A3L6FWD4	A0A3L6FWD4_MAIZE	unreviewed	AGD3_1	Zea mays (Maize)	Zm00001eb047350	AGD3_1		ADP-ribosylation factor GTPase-activating protein AGD3				
+A0A3L6FWH9	A0A3L6FWH9_MAIZE	unreviewed	MYB78_4	Zea mays (Maize)	Zm00001eb111710	MYB78_4		Transcription factor MYB78				
+A0A3L6FX59	A0A3L6FX59_MAIZE	unreviewed	Riok1	Zea mays (Maize)	Zm00001eb103140	Riok1		Non-specific serine/threonine protein kinase (EC 2.7.11.1)				
+A0A3L6FXC4	A0A3L6FXC4_MAIZE	unreviewed	TPP10	Zea mays (Maize)	Zm00001eb105040	TPP10		Trehalose-phosphatase (EC 3.1.3.12)				
+A0A3L6FXF7	A0A3L6FXF7_MAIZE	unreviewed	PRMT5_1	Zea mays (Maize)	Zm00001eb086470	PRMT5_1		Protein arginine N-methyltransferase 5				
+A0A3L6FXP4	A0A3L6FXP4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A3L6FXS4	A0A3L6FXS4_MAIZE	unreviewed	RF298_0	Zea mays (Maize)	Zm00001eb094680	RF298_0		Putative E3 ubiquitin-protein ligase RF298				
+A0A3L6FXY5	A0A3L6FXY5_MAIZE	unreviewed	BCHB_2	Zea mays (Maize)	Zm00001eb171950	BCHB_2		BEACH domain-containing protein B				
+A0A3L6FY53	A0A3L6FY53_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015410			Uncharacterized protein				
+A0A3L6FYA9	A0A3L6FYA9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb084850			Uncharacterized protein				
+A0A3L6FYF4	A0A3L6FYF4_MAIZE	unreviewed	At1g64760_2	Zea mays (Maize)	Zm00001eb114330	At1g64760_2		"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+A0A3L6FYW1	A0A3L6FYW1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A3L6G0J5	A0A3L6G0J5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb191880			Uncharacterized protein				
+A0A3L6G0L8	A0A3L6G0L8_MAIZE	unreviewed	TIFY9_0	Zea mays (Maize)	Zm00001eb084980	TIFY9_0		Protein TIFY 9				
+A0A3L6G0R7	A0A3L6G0R7_MAIZE	unreviewed	PRR37_1	Zea mays (Maize)	Zm00001eb112080	PRR37_1		Two-component response regulator-like PRR37				
+A0A3L6G0W4	A0A3L6G0W4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb103650			CDP-diacylglycerol--serine O-phosphatidyltransferase 2				
+A0A3L6G159	A0A3L6G159_MAIZE	unreviewed	RL14	Zea mays (Maize)	Zm00001eb046090	RL14		Putative 60S ribosomal protein L14				
+A0A3L6G182	A0A3L6G182_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070630			Uncharacterized protein				
+A0A3L6G196	A0A3L6G196_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb069550			G-type lectin S-receptor-like serine/threonine-protein kinase RKS1				
+A0A3L6G1B8	A0A3L6G1B8_MAIZE	unreviewed	Os11g0547000_1	Zea mays (Maize)	Zm00001eb113780	Os11g0547000_1		Adagio-like protein 3				
+A0A3L6G1F9	A0A3L6G1F9_MAIZE	unreviewed	RPA1B_45	Zea mays (Maize)	Zm00001eb044850	RPA1B_45		Replication protein A DNA-binding subunit B				
+A0A3L6G1T3	A0A3L6G1T3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb068480			Uncharacterized protein				
+A0A3L6G236	A0A3L6G236_MAIZE	unreviewed	R40C1_0	Zea mays (Maize)	Zm00001eb111670	R40C1_0		Ricin B-like lectin R40C1				
+A0A3L6G278	A0A3L6G278_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Uncharacterized protein				
+A0A3L6G293	A0A3L6G293_MAIZE	unreviewed	CML11_1	Zea mays (Maize)	Zm00001eb084880	CML11_1		Putative calcium-binding protein CML11				
+A0A3L6G2E5	A0A3L6G2E5_MAIZE	unreviewed	GSO2_2	Zea mays (Maize)	Zm00001eb112120	GSO2_2		LRR receptor-like serine/threonine-protein kinase GSO2				
+A0A3L6G2P4	A0A3L6G2P4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+A0A3L6G318	A0A3L6G318_MAIZE	unreviewed	NATT3_0	Zea mays (Maize)	Zm00001eb087980	NATT3_0		Natterin-3				
+A0A3L6G340	A0A3L6G340_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb115210			Uncharacterized protein				
+A0A3L6G345	A0A3L6G345_MAIZE	unreviewed	NATT4_1	Zea mays (Maize)	Zm00001eb087960	NATT4_1		Natterin-4				
+A0A3L6G393	A0A3L6G393_MAIZE	unreviewed	At3g01300_3	Zea mays (Maize)	Zm00001eb086190	At3g01300_3		Receptor-like serine/threonine-protein kinase				
+A0A3L6G3H8	A0A3L6G3H8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb091100			Uncharacterized protein				
+A0A3L6G3P3	A0A3L6G3P3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb076510			Cytochrome P450 72A14				
+A0A3L6G3Z7	A0A3L6G3Z7_MAIZE	unreviewed	NATT4_0	Zea mays (Maize)	Zm00001eb088020	NATT4_0		Natterin-4				
+A0A3L6G402	A0A3L6G402_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb064110			Uncharacterized protein				
+A0A3L6G479	A0A3L6G479_MAIZE	unreviewed	PIX7_6	Zea mays (Maize)	Zm00001eb086190	PIX7_6		Putative serine/threonine-protein kinase PIX7				
+A0A3L6G4B2	A0A3L6G4B2_MAIZE	unreviewed	CYP75B2_0	Zea mays (Maize)	Zm00001eb100200	CYP75B2_0		Flavonoid 3'-monooxygenase				
+A0A3L6G4H0	A0A3L6G4H0_MAIZE	unreviewed	PUP11_2	Zea mays (Maize)	Zm00001eb072600	PUP11_2		Probable purine permease				
+A0A3L6G4T5	A0A3L6G4T5_MAIZE	unreviewed	LHY_0	Zea mays (Maize)	Zm00001eb172450	LHY_0		Protein LHY				
+A0A3L6G4X0	A0A3L6G4X0_MAIZE	unreviewed	LHY_3	Zea mays (Maize)	Zm00001eb172450	LHY_3		Protein LHY				
+A0A3L6G734	A0A3L6G734_MAIZE	unreviewed	PRO4_1	Zea mays (Maize)	Zm00001eb101820	PRO4_1		Profilin-4				
+A0A3L6G7J8	A0A3L6G7J8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032430			DUF659 domain-containing protein				
+A0A3L6G7S5	A0A3L6G7S5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb199750			AAA_11 domain-containing protein				
+A0A3L6G863	A0A3L6G863_MAIZE	unreviewed	Os05g0358500_16	Zea mays (Maize)	Zm00001eb198090	Os05g0358500_16		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+A0A3L6G8P6	A0A3L6G8P6_MAIZE	unreviewed	CYP75B1_5	Zea mays (Maize)	Zm00001eb100220	CYP75B1_5		Flavonoid 3'-monooxygenase				
+A0A3L6GA88	A0A3L6GA88_MAIZE	unreviewed	MICU_4	Zea mays (Maize)	Zm00001eb046070	MICU_4		"Calcium uptake protein, mitochondrial"				
+A0A3L6GBG4	A0A3L6GBG4_MAIZE	unreviewed	RGA4_1	Zea mays (Maize)	Zm00001eb029530	RGA4_1		Putative disease resistance protein RGA4				
+A0A3L6GC07	A0A3L6GC07_MAIZE	unreviewed	CPR_3	Zea mays (Maize)	Zm00001eb040620	CPR_3		NADPH--cytochrome P450 reductase				
+A0A3L6GCD7	A0A3L6GCD7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb099730			Uncharacterized protein				
+A0A3L6GCN8	A0A3L6GCN8_MAIZE	unreviewed	EXL1_1	Zea mays (Maize)	Zm00001eb065120	EXL1_1		GDSL esterase/lipase EXL1				
+A0A3L6GEG0	A0A3L6GEG0_MAIZE	unreviewed	DIR4_1	Zea mays (Maize)	Zm00001eb034240	DIR4_1		Dirigent protein				
+A0A5J6CYG2	A0A5J6CYG2_MAIZE	unreviewed	Hsf01	Zea mays (Maize)	Zm00001eb004670	Hsf01		Heat shock transcription factor				
+A8WER8	A8WER8_MAIZE	unreviewed	ZCN6	Zea mays (Maize)	Zm00001eb197000	ZCN6		ZCN6				
+A9LLY0	A9LLY0_MAIZE	unreviewed	ZCN6	Zea mays (Maize)	Zm00001eb197000	ZCN6		RCN1-Corn Centroradialis/TFL1-like protein (ZCN6)				
+B4F972	B4F972_MAIZE	unreviewed	100191549	Zea mays (Maize)	Zm00001eb055490	100191549		Glutamate decarboxylase (EC 4.1.1.15)				
+B4F9U9	B4F9U9_MAIZE	unreviewed	100272926	Zea mays (Maize)	Zm00001eb111670	100272926		Hydroxyproline-rich glycoprotein family protein				
+B4FA32	B4FA32_MAIZE	unreviewed	100191769	Zea mays (Maize)	Zm00001eb204960	100191769		Peroxidase (EC 1.11.1.7)				
+B4FA61	B4FA61_MAIZE	unreviewed	100191791	Zea mays (Maize)	Zm00001eb058070	100191791		Uncharacterized protein				
+B4FAT3	B4FAT3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+B4FBX6	B4FBX6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+B4FBY1	B4FBY1_MAIZE	unreviewed	100192597	Zea mays (Maize)	Zm00001eb040580	100192597		Chaperone protein dnaJ				
+B4FBY8	B4FBY8_MAIZE	unreviewed	100192603	Zea mays (Maize)	Zm00001eb009940	100192603		Peroxidase (EC 1.11.1.7)				
+B4FBZ6	B4FBZ6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb111710			Myb domain protein 112				
+B4FBZ9	B4FBZ9_MAIZE	unreviewed	100192612	Zea mays (Maize)	Zm00001eb027960	100192612		Uncharacterized protein				
+B4FCC5	B4FCC5_MAIZE	unreviewed	100272735	Zea mays (Maize)	Zm00001eb114330	100272735		"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+B4FCH0	B4FCH0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			Uncharacterized protein				
+B4FCK5	B4FCK5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Uncharacterized protein				
+B4FCP9	B4FCP9_MAIZE	unreviewed	100192804	Zea mays (Maize)	Zm00001eb200730	100192804		Protein kinase domain-containing protein				
+B4FCX6	B4FCX6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Uncharacterized protein				
+B4FDS6	B4FDS6_MAIZE	unreviewed	100193098	Zea mays (Maize)	Zm00001eb195920	100193098	EREB20	AP2-EREBP transcription factor				
+B4FE18	B4FE18_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188570			Histone H2B				
+B4FE90	B4FE90_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205630			40S ribosomal protein S8				
+B4FFA6	B4FFA6_MAIZE	unreviewed	100273616	Zea mays (Maize)	Zm00001eb187450	100273616		Uncharacterized protein				
+B4FFT4	B4FFT4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb063350			Uncharacterized protein				
+B4FFU7	B4FFU7_MAIZE	unreviewed	100193658	Zea mays (Maize)	Zm00001eb037290	100193658		BZIP domain-containing protein				
+B4FG55	B4FG55_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011850			Uncharacterized protein				
+B4FGF5	B4FGF5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015860			Hydroxyacylglutathione hydrolase cytoplasmic				
+B4FGN9	B4FGN9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006310			Uncharacterized protein				
+B4FH12	B4FH12_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb178570			Uncharacterized protein				
+B4FH66	B4FH66_MAIZE	unreviewed	100282375	Zea mays (Maize)	Zm00001eb070780	100282375		Adhesive/proline-rich protein				
+B4FHA1	B4FHA1_MAIZE	unreviewed	100194055	Zea mays (Maize)	Zm00001eb047740	100194055		Aldo_ket_red domain-containing protein				
+B4FHK4	B4FHK4_MAIZE	unreviewed	103646782	Zea mays (Maize)	Zm00001eb087980	103646782		Natterin-4				
+B4FHM8	B4FHM8_MAIZE	unreviewed	100194156	Zea mays (Maize)	Zm00001eb169120	100194156		Uncharacterized protein				
+B4FHS5	B4FHS5_MAIZE	unreviewed	100194192	Zea mays (Maize)	Zm00001eb000660	100194192		Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)				
+B4FJT4	B4FJT4_MAIZE	unreviewed	100216802	Zea mays (Maize)	Zm00001eb044100	100216802		Transmembrane ascorbate ferrireductase 1				
+B4FJX5	B4FJX5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037190			Uncharacterized protein				
+B4FKX9	B4FKX9_MAIZE	unreviewed	100217008	Zea mays (Maize)	Zm00001eb087970	100217008		Uncharacterized protein				
+B4FL55	B4FL55_MAIZE	unreviewed	542320	Zea mays (Maize)	Zm00001eb168100	542320		"Chlorophyll a-b binding protein, chloroplastic"				
+B4FLJ7	B4FLJ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101820			Uncharacterized protein				
+B4FLN5	B4FLN5_MAIZE	unreviewed	100217152	Zea mays (Maize)	Zm00001eb046570	100217152		GDSL esterase/lipase LTL1				
+B4FLT9	B4FLT9_MAIZE	unreviewed	100194055	Zea mays (Maize)	Zm00001eb047740	100194055		Aldo_ket_red domain-containing protein				
+B4FMB4	B4FMB4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055950			Aminotran_1_2 domain-containing protein				
+B4FME5	B4FME5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb185100			Uncharacterized protein				
+B4FMN2	B4FMN2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046090			Uncharacterized protein				
+B4FMR3	B4FMR3_MAIZE	unreviewed	541908	Zea mays (Maize)	Zm00001eb000380	541908		Expansin-B4				
+B4FN05	B4FN05_MAIZE	unreviewed	100381644	Zea mays (Maize)	Zm00001eb207730	100381644		Putative choline kinase 2				
+B4FP15	B4FP15_MAIZE	unreviewed	100272506	Zea mays (Maize)	Zm00001eb035520	100272506		Myb_DNA-bind_3 domain-containing protein				
+B4FPX4	B4FPX4_MAIZE	unreviewed	MYBR58	Zea mays (Maize)	Zm00001eb187450	MYBR58		MYB-related transcription factor				
+B4FQ55	B4FQ55_MAIZE	unreviewed	100281654	Zea mays (Maize)	Zm00001eb017640	100281654		Cytochrome P450 84A1				
+B4FR47	B4FR47_MAIZE	unreviewed	100272845	Zea mays (Maize)	Zm00001eb200910	100272845		Fructose-bisphosphate aldolase (EC 4.1.2.13)				
+B4FR66	B4FR66_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017640			Uncharacterized protein				
+B4FS12	B4FS12_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb102070			UDPGT domain-containing protein				
+B4FS39	B4FS39_MAIZE	unreviewed	100272985	Zea mays (Maize)	Zm00001eb018820	100272985		Myb_DNA-bind_3 domain-containing protein				
+B4FS83	B4FS83_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016820			Uncharacterized protein				
+B4FSQ6	B4FSQ6_MAIZE	unreviewed	100273083	Zea mays (Maize)	Zm00001eb047630	100273083		Sugar transport protein 3				
+B4FT93	B4FT93_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb100200			Uncharacterized protein				
+B4FTA5	B4FTA5_MAIZE	unreviewed	109939171	Zea mays (Maize)	Zm00001eb002910	109939171		Uncharacterized protein				
+B4FUG0	B4FUG0_MAIZE	unreviewed	100273307	Zea mays (Maize)	Zm00001eb170770	100273307		Uncharacterized protein				
+B4FUR2	B4FUR2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012570			Cysteine-rich repeat secretory protein 55				
+B4FUT0	B4FUT0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017030			Uncharacterized protein				
+B4FUT1	B4FUT1_MAIZE	unreviewed	100192603	Zea mays (Maize)	Zm00001eb009940	100192603		Peroxidase (EC 1.11.1.7)				
+B4FUW3	B4FUW3_MAIZE	unreviewed	100282648	Zea mays (Maize)	Zm00001eb180830	100282648		Bidirectional sugar transporter SWEET				
+B4FVB3	B4FVB3_MAIZE	unreviewed	100273406	Zea mays (Maize)	Zm00001eb116670	100273406		F-box domain-containing protein				
+B4FVM0	B4FVM0_MAIZE	unreviewed	100284970	Zea mays (Maize)	Zm00001eb032560	100284970		Osmotin-like protein OSM34 (Thaumatin-like protein)				
+B4FWE8	B4FWE8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			Myosin heavy chain-related				
+B4FWL7	B4FWL7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb187450			HTH myb-type domain-containing protein				
+B4FWS6	B4FWS6_MAIZE	unreviewed	100273650	Zea mays (Maize)	Zm00001eb040190	100273650		Putative carboxylesterase 8				
+B4FYB5	B4FYB5_MAIZE	unreviewed	100275351	Zea mays (Maize)	Zm00001eb031210	100275351	bZIP111	BZIP transcription factor (Basic leucine zipper 25)				
+B4FYX2	B4FYX2_MAIZE	unreviewed	100274071	Zea mays (Maize)	Zm00001eb006310	100274071		15-cis-phytoene desaturase chloroplastic/chromoplastic				
+B4FZ50	B4FZ50_MAIZE	unreviewed	100192804	Zea mays (Maize)	Zm00001eb200730	100192804		Cysteine-rich receptor-like protein kinase 6 (Serine/threonine protein kinase)				
+B4FZG0	B4FZG0_MAIZE	unreviewed	100274182	Zea mays (Maize)	Zm00001eb042070	100274182		Endoglucanase (EC 3.2.1.4)				
+B4FZV0	B4FZV0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056010			Uncharacterized protein				
+B4G088	B4G088_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			MFS domain-containing protein				
+B4G0I3	B4G0I3_MAIZE	unreviewed	100274370	Zea mays (Maize)	Zm00001eb084980	100274370		Protein TIFY 9 (TIFY13)				
+B4G0K6	B4G0K6_MAIZE	unreviewed	100274380	Zea mays (Maize)	Zm00001eb048560	100274380		Tyrosine decarboxylase 1				
+B4G1M4	B4G1M4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057770			Uncharacterized protein				
+B6SGF3	B6SGF3_MAIZE	unreviewed	100280456	Zea mays (Maize)	Zm00001eb012550	100280456		Glyoxalase family protein superfamily				
+B6SGG2	B6SGG2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb186620			Beta-expansin 2				
+B6SHC8	B6SHC8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb173810			Uncharacterized protein				
+B6SIR2	B6SIR2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Uncharacterized protein				
+B6SJR6	B6SJR6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb068480			Uncharacterized protein				
+B6SM89	B6SM89_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Uncharacterized protein				
+B6SN74	B6SN74_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb071630			CHL-CPN10				
+B6SND8	B6SND8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb054340			Uncharacterized protein				
+B6SP09	B6SP09_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087860			Uncharacterized protein				
+B6SP66	B6SP66_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188750			Oxygen-regulated protein				
+B6SPA3	B6SPA3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			LHY protein				
+B6SQX4	B6SQX4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb077600			Uncharacterized protein				
+B6SR25	B6SR25_MAIZE	unreviewed	100275298	Zea mays (Maize)	Zm00001eb011820	100275298		Uncharacterized protein				
+B6SRP9	B6SRP9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			Basic leucine zipper 25				
+B6SS29	B6SS29_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			LHY protein				
+B6SST5	B6SST5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170770			Uncharacterized protein				
+B6SSX8	B6SSX8_MAIZE	unreviewed	100281181	Zea mays (Maize)	Zm00001eb100220	100281181		Flavonoid 3-monooxygenase				
+B6STA8	B6STA8_MAIZE	unreviewed	100275439	Zea mays (Maize)	Zm00001eb170470	100275439		Uncharacterized protein				
+B6STM7	B6STM7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb087960			Agglutinin domain-containing protein				
+B6SUE5	B6SUE5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012570			Serine/threonine kinase-like protein				
+B6SUG6	B6SUG6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb198140			O-methyltransferase ZRP4				
+B6SV20	B6SV20_MAIZE	unreviewed	100273344	Zea mays (Maize)	Zm00001eb017030	100273344		Cytochrome P450 CYP81L6 (Cytochrome P450 family 81 subfamily D polypeptide 8)				
+B6SV85	B6SV85_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb036780			ACR4				
+B6SVL9	B6SVL9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb048370			Dof-type domain-containing protein				
+B6SW13	B6SW13_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb183820			Cytochrome P450 CYP86E2				
+B6SXJ1	B6SXJ1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb017640			Flavonoid 3-monooxygenase				
+B6SZ50	B6SZ50_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034050			Retrotransposon protein				
+B6T033	B6T033_MAIZE	unreviewed	541850	Zea mays (Maize)	Zm00001eb021600	541850		Glutathione S-transferase GSTU6 (Glutathione transferase42)				
+B6T1Z6	B6T1Z6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034240			Dirigent protein				
+B6T253	B6T253_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032040			Uncharacterized protein				
+B6T2Y2	B6T2Y2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb015860			Hydroxyacylglutathione hydrolase				
+B6T3W4	B6T3W4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006310			Uncharacterized protein				
+B6T416	B6T416_MAIZE	unreviewed	Rca	Zea mays (Maize)	Zm00001eb164390	Rca		"RUBISCO activase2 (Ribulose bisphosphate carboxylase/oxygenase activase) (Ribulose-1,5-bisphosphate carboxylase/oxygenase) (EC 4.1.1.39) (Ribulose-1,5-bisphosphate carboxylase/oxygenase activase small isoform)"				
+B6T7D4	B6T7D4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200910			Fructose-bisphosphate aldolase (EC 4.1.2.13)				
+B6T9H5	B6T9H5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000660			Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)				
+B6T9U6	B6T9U6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb180830			Bidirectional sugar transporter SWEET				
+B6TB90	B6TB90_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb032280			Cysteine dioxygenase (EC 1.13.11.20)				
+B6TC13	B6TC13_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb190090			Aspartic proteinase nepenthesin-2				
+B6TDZ7	B6TDZ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb018040			Cytochrome P450 CYP709H1				
+B6TEM4	B6TEM4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055380			Cortical cell-delineating protein				
+B6TEW7	B6TEW7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb033930			RAFTIN1a protein				
+B6TEX1	B6TEX1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb035600			Uncharacterized protein				
+B6TEY6	B6TEY6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011990			T-snare				
+B6TJ68	B6TJ68_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb198620			Heat shock factor protein 7				
+B6TJE6	B6TJE6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb110240			Ubiquitin-protein ligase CIP8				
+B6TLB1	B6TLB1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb011820			Uncharacterized protein				
+B6TMU5	B6TMU5_MAIZE	unreviewed	100283893	Zea mays (Maize)	Zm00001eb062000	100283893		RNA-binding protein 8A				
+B6TPY4	B6TPY4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097880			TPX2 domain-containing protein				
+B6TQL4	B6TQL4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034240			Dirigent protein				
+B6TS00	B6TS00_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb109440			Uncharacterized protein				
+B6TSL7	B6TSL7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb169870			Calcium-activated outward-rectifying potassium channel 1				
+B6TSL9	B6TSL9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Polyol transporter protein 4				
+B6TSM6	B6TSM6_MAIZE	unreviewed	100284347	Zea mays (Maize)	Zm00001eb011200	100284347		"Catalytic/ oxidoreductase, acting on NADH or NADPH"				
+B6TTJ2	B6TTJ2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			Anther-specific proline-rich protein APG				
+B6TV05	B6TV05_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb193020			Uncharacterized protein				
+B6TVK1	B6TVK1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb101870			Uncharacterized protein				
+B6TW06	B6TW06_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb059760			Uncharacterized protein				
+B6TX61	B6TX61_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb114330			"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+B6TXN8	B6TXN8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb084850			Uncharacterized protein				
+B6TYK7	B6TYK7_MAIZE	unreviewed	100273153	Zea mays (Maize)	Zm00001eb100200	100273153		Flavonoid 3-monooxygenase				
+B6TYM1	B6TYM1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188120			Phosphoribulokinase (EC 2.7.1.19)				
+B6TZ59	B6TZ59_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb018270			Cationic amino acid transporter				
+B6U056	B6U056_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb189370			Uncharacterized protein				
+B6U289	B6U289_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb205090			Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+B6U2Q9	B6U2Q9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb110240			Ubiquitin-protein ligase CIP8				
+B6U3N4	B6U3N4_MAIZE	unreviewed	100278076	Zea mays (Maize)	Zm00001eb165030	100278076		Uncharacterized protein				
+B6U3W8	B6U3W8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047770			"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54) (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD) (Fe-ARD)"				
+B6U4P4	B6U4P4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000380			Beta-expansin				
+B6U511	B6U511_MAIZE	unreviewed	100278182	Zea mays (Maize)	Zm00001eb032040	100278182		Mitochondrial ribosomal protein L27				
+B6U566	B6U566_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb044100			Cytochrome b561				
+B6U5W7	B6U5W7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000660			Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)				
+B6U6Q5	B6U6Q5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016230			Alanine--glyoxylate aminotransferase 2				
+B6U6Z2	B6U6Z2_MAIZE	unreviewed	100278322	Zea mays (Maize)	Zm00001eb024710	100278322		Uncharacterized protein				
+B6U825	B6U825_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170160			Uncharacterized protein				
+B6U857	B6U857_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb029530			Purple acid phosphatase (EC 3.1.3.2)				
+B6U888	B6U888_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb114950			Methyltransferase (EC 2.1.1.-)				
+B6U9F8	B6U9F8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb110240			RING-type domain-containing protein				
+B6U9M5	B6U9M5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb181040			Uncharacterized protein				
+B6U9R2	B6U9R2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb040350			Uncharacterized protein				
+B6UA69	B6UA69_MAIZE	unreviewed	100278525	Zea mays (Maize)	Zm00001eb181040	100278525		Polyprotein				
+B6UAB6	B6UAB6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb000380			Beta-expansin 1a				
+B6UAJ2	B6UAJ2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb193710			EF hand family protein				
+B6UAJ7	B6UAJ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb022640			Uncharacterized protein				
+B6UB79	B6UB79_MAIZE	unreviewed	100285888	Zea mays (Maize)	Zm00001eb018270	100285888		Cationic amino acid transporter				
+B6UBC0	B6UBC0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046570			Anther-specific proline-rich protein APG				
+B6UBS4	B6UBS4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171380			Uncharacterized protein				
+B6UCG2	B6UCG2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057770			Indole-3-acetate beta-glucosyltransferase				
+B6UDA5	B6UDA5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb037600			Heat shock factor protein 7				
+B6UDK7	B6UDK7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			CBF1 interacting corepressor				
+B6UEF4	B6UEF4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb007100			Uncharacterized protein				
+B6UET0	B6UET0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056010			"Peptidase, M50 family"				
+B6UEW2	B6UEW2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			Polyol transporter protein 4				
+B6UF50	B6UF50_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170080			BAG domain containing protein				
+B6UFN0	B6UFN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb014550			Outer envelope pore protein 16-2 chloroplastic				
+B6UGF0	B6UGF0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb166920			Uncharacterized protein				
+B6UGF5	B6UGF5_MAIZE	unreviewed	100279008	Zea mays (Maize)	Zm00001eb189350	100279008		Uncharacterized protein				
+B6UH72	B6UH72_MAIZE	unreviewed	542004	Zea mays (Maize)	Zm00001eb201370	542004		Uncharacterized protein				
+B6UHD6	B6UHD6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb002910			Uncharacterized protein				
+B6UHE6	B6UHE6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb072870			Uncharacterized protein				
+B6UHF8	B6UHF8_MAIZE	unreviewed	100286299	Zea mays (Maize)	Zm00001eb175180	100286299		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2 (MTA/SAH nucleosidase)				
+B6UHN0	B6UHN0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb047740			Aldo_ket_red domain-containing protein				
+B7ZX54	B7ZX54_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016230			Uncharacterized protein				
+B7ZXM8	B7ZXM8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb111670			Uncharacterized protein				
+B7ZYX3	B7ZYX3_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170080			BAG domain-containing protein				
+B7ZZ55	B7ZZ55_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb008080			MFS domain-containing protein				
+B7ZZM2	B7ZZM2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201580			Adagio protein 3				
+B8A064	B8A064_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb188120			Phosphoribulokinase (EC 2.7.1.19)				
+B8A1D7	B8A1D7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb039440			Uncharacterized protein				
+B8A239	B8A239_MAIZE	unreviewed	100280131	Zea mays (Maize)	Zm00001eb004670	100280131		Heat stress transcription factor A-6b				
+C0HE65	C0HE65_MAIZE	unreviewed	100304260	Zea mays (Maize)	Zm00001eb020240	100304260		WAT1-related protein				
+C0HEJ5	C0HEJ5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb016230			Uncharacterized protein				
+C0HET4	C0HET4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116670			Uncharacterized protein				
+C0HEY9	C0HEY9_MAIZE	unreviewed	100217270	Zea mays (Maize)	Zm00001eb055950	100217270		1-aminocyclopropane-1-carboxylate synthase6				
+C0HF08	C0HF08_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb104920			Uncharacterized protein				
+C0HF82	C0HF82_MAIZE	unreviewed	WAK	Zea mays (Maize)	Zm00001eb116160	WAK	100304375	S-receptor kinase1 (Wall-associated kinase)				
+C0HGA1	C0HGA1_MAIZE	unreviewed	100501175	Zea mays (Maize)	Zm00001eb109440	100501175		Uncharacterized protein				
+C0HH31	C0HH31_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb006310			Uncharacterized protein				
+C0HH66	C0HH66_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb196990			Uncharacterized protein				
+C0HHR5	C0HHR5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207730			Uncharacterized protein				
+C0HI52	C0HI52_MAIZE	unreviewed	MYBR20	Zea mays (Maize)	Zm00001eb072870	MYBR20		MYB-related transcription factor (Protein REVEILLE 1)				
+C0P419	C0P419_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb056970			Uncharacterized protein				
+C0P5S2	C0P5S2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb089190			HXXXD-type acyl-transferase family protein				
+C0P5V7	C0P5V7_MAIZE	unreviewed	100382258	Zea mays (Maize)	Zm00001eb072110	100382258		60S ribosomal protein L3-1 (Peroxisome biogenesis protein 6)				
+C0P5X1	C0P5X1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164390			ATPase_AAA_core domain-containing protein				
+C0P667	C0P667_MAIZE	unreviewed	100382292	Zea mays (Maize)	Zm00001eb083940	100382292		Putative serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit TON2				
+C0P689	C0P689_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb208650			Uncharacterized protein				
+C0P6S9	C0P6S9_MAIZE	unreviewed	100274523	Zea mays (Maize)	Zm00001eb057770	100274523		UDP-glycosyltransferase 83A1				
+C0P7A7	C0P7A7_MAIZE	unreviewed	100382402	Zea mays (Maize)	Zm00001eb021500	100382402		GMC_OxRdtase_N domain-containing protein				
+C0P7H4	C0P7H4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168100			"Chlorophyll a-b binding protein, chloroplastic"				
+C0P7H6	C0P7H6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb195920			WRI1 transcription factor2				
+C0P7Z0	C0P7Z0_MAIZE	unreviewed	100282851	Zea mays (Maize)	Zm00001eb190090	100282851		Peptidase A1 domain-containing protein				
+C0P8T5	C0P8T5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168300			RST domain-containing protein				
+C0P987	C0P987_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204330			zf-RVT domain-containing protein				
+C0PB98	C0PB98_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb045750			Uncharacterized protein				
+C0PBB4	C0PBB4_MAIZE	unreviewed	100382865	Zea mays (Maize)	Zm00001eb194590	100382865		S-adenosyl-L-methionine-dependent methyltransferase superfamily protein				
+C0PBD7	C0PBD7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			Uncharacterized protein				
+C0PBD8	C0PBD8_MAIZE	unreviewed	100286299	Zea mays (Maize)	Zm00001eb175180	100286299		PNP_UDP_1 domain-containing protein				
+C0PC63	C0PC63_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb185100			RNA-binding (RRM/RBD/RNP motifs) family protein				
+C0PCC7	C0PCC7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055490			Glutamate decarboxylase (EC 4.1.1.15)				
+C0PCZ5	C0PCZ5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb094640			Uncharacterized protein				
+C0PD77	C0PD77_MAIZE	unreviewed	100272735	Zea mays (Maize)	Zm00001eb114330	100272735		"Glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)"				
+C0PE64	C0PE64_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb061020			Uncharacterized protein				
+C0PEE5	C0PEE5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204330			Uncharacterized protein				
+C0PFL5	C0PFL5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171840			B box-type domain-containing protein				
+C0PFT8	C0PFT8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb064170			RF_PROK_I domain-containing protein				
+C0PGC7	C0PGC7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057770			Uncharacterized protein				
+C0PGD3	C0PGD3_MAIZE	unreviewed	100272926	Zea mays (Maize)	Zm00001eb111670	100272926		Uncharacterized protein				
+C0PGG9	C0PGG9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb201580			Adagio protein 3				
+C0PGI7	C0PGI7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb036780			Uncharacterized protein				
+C0PGW7	C0PGW7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb199770			GRF-type domain-containing protein				
+C0PI33	C0PI33_MAIZE	unreviewed	100383648	Zea mays (Maize)	Zm00001eb016800	100383648		C2C2-CO-like transcription factor (Zinc finger protein CONSTANS-LIKE 13)				
+C0PID6	C0PID6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb020240			Uncharacterized protein				
+C0PIS5	C0PIS5_MAIZE	unreviewed	100383747	Zea mays (Maize)	Zm00001eb032070	100383747		Uncharacterized protein				
+C0PK61	C0PK61_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055630			Uncharacterized protein				
+C0PK83	C0PK83_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb097980			Uncharacterized protein				
+C0PLM2	C0PLM2_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172330			MEKHLA domain-containing protein				
+C0PM76	C0PM76_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb055950			Uncharacterized protein				
+C0PMK1	C0PMK1_MAIZE	unreviewed	100384219	Zea mays (Maize)	Zm00001eb187130	100384219		Uncharacterized protein				
+C0PNL7	C0PNL7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb116890			TOG domain-containing protein				
+C0PP27	C0PP27_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb207300			Inositol-1-monophosphatase (EC 3.1.3.25)				
+C0PPG1	C0PPG1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb034050			25.3 kDa heat shock protein chloroplastic				
+C4IZL8	C4IZL8_MAIZE	unreviewed	100384710	Zea mays (Maize)	Zm00001eb183820	100384710		Cytochrome P450 family 86 subfamily C polypeptide 1				
+C4IZQ7	C4IZQ7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb200730			Cysteine-rich receptor-like protein kinase 6				
+C4IZS8	C4IZS8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070720			Leucine-rich repeat transmembrane protein kinase				
+C4J032	C4J032_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb204330			zf-RVT domain-containing protein				
+C4J1B8	C4J1B8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb169870			Two-pore potassium channel 1				
+C4J1E8	C4J1E8_MAIZE	unreviewed	100278496	Zea mays (Maize)	Zm00001eb040350	100278496		Ferredoxin-related				
+C4J1K6	C4J1K6_MAIZE	unreviewed	100501175	Zea mays (Maize)	Zm00001eb109440	100501175		Uncharacterized protein				
+C4J2L9	C4J2L9_MAIZE	unreviewed	100501330	Zea mays (Maize)	Zm00001eb044850	100501330		Rep_fac-A_C domain-containing protein				
+C4J2V9	C4J2V9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb057930			DUF3598 domain-containing protein				
+C4J2W1	C4J2W1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb175180			PNP_UDP_1 domain-containing protein				
+C4J334	C4J334_MAIZE	unreviewed	100501404	Zea mays (Maize)	Zm00001eb072600	100501404		Probable purine permease				
+C4J3Q9	C4J3Q9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065210			Uncharacterized protein				
+C4J4X0	C4J4X0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046720			Uncharacterized protein				
+C4J8U1	C4J8U1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046570			Uncharacterized protein				
+C4J944	C4J944_MAIZE	unreviewed	103644300	Zea mays (Maize)	Zm00001eb063820	103644300		Succ_DH_flav_C domain-containing protein				
+C4J9B8	C4J9B8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb046570			Uncharacterized protein				
+C4J9C3	C4J9C3_MAIZE	unreviewed	100502212	Zea mays (Maize)	Zm00001eb015410	100502212		Myb_DNA-bind_3 domain-containing protein				
+C4JAH0	C4JAH0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb065120			Uncharacterized protein				
+C4JAP6	C4JAP6_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb199770			Uncharacterized protein				
+C4JB67	C4JB67_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb031210			BZIP domain-containing protein				
+C4JBC5	C4JBC5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb115920			Histone domain-containing protein				
+C4JBE7	C4JBE7_MAIZE	unreviewed	100282046	Zea mays (Maize)	Zm00001eb078530	100282046		Uncharacterized protein				
+C4JC65	C4JC65_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb021500			Uncharacterized protein				
+E9L0A5	E9L0A5_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb172450			Circadian clock associated protein 1				
+F8TP56	F8TP56_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb168980			Cystatin (Fragment)				
+K7TR87	K7TR87_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb167120			Ent-copalyl diphosphate synthase chloroplastic				
+K7TS00	K7TS00_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb169120			Uncharacterized protein				
+K7TSD8	K7TSD8_MAIZE	unreviewed	Orphan301	Zea mays (Maize)	Zm00001eb170080	Orphan301	100279586	Orphans transcription factor (Putative IQ calmodulin-binding and BAG domain containing family protein)				
+K7TT00	K7TT00_MAIZE	unreviewed	103653010	Zea mays (Maize)	Zm00001eb171520	103653010		Germin-like protein				
+K7TYB0	K7TYB0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb175750			60S ribosomal protein L26-1				
+K7TYD0	K7TYD0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb185100			RNA-binding (RRM/RBD/RNP motifs) family protein				
+K7U0B5	K7U0B5_MAIZE	unreviewed	100282648	Zea mays (Maize)	Zm00001eb180830	100282648		Bidirectional sugar transporter SWEET				
+K7U156	K7U156_MAIZE	unreviewed	100281091	Zea mays (Maize)	Zm00001eb172450	100281091		Circadian clock associated1				
+K7U1M0	K7U1M0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb173900			L-gulonolactone oxidase (EC 1.1.3.8)				
+K7U1Q5	K7U1Q5_MAIZE	unreviewed	103653753	Zea mays (Maize)	Zm00001eb184490	103653753		Polyprotein				
+K7U2L5	K7U2L5_MAIZE	unreviewed	103653257	Zea mays (Maize)	Zm00001eb175940	103653257		UDP-glycosyltransferase 83A1				
+K7U5P5	K7U5P5_MAIZE	unreviewed	103654233	Zea mays (Maize)	Zm00001eb193710	103654233		EF hand family protein				
+K7U6L0	K7U6L0_MAIZE	unreviewed	103654772	Zea mays (Maize)	Zm00001eb204830	103654772		Cwf21				
+K7U7K6	K7U7K6_MAIZE	unreviewed	100501454	Zea mays (Maize)	Zm00001eb188280	100501454		Nine-cis-epoxycarotenoid dioxygenase6				
+K7U8C7	K7U8C7_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb208380			S-(+)-linalool synthase chloroplastic				
+K7U8I5	K7U8I5_MAIZE	unreviewed	103652694	Zea mays (Maize)	Zm00001eb164960	103652694		NEP-interacting protein 1				
+K7UB77	K7UB77_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb197290			Disease resistance protein RPM1				
+K7UDS1	K7UDS1_MAIZE	unreviewed	103654685	Zea mays (Maize)	Zm00001eb203250	103654685		Putative ribosomal protein S4 (RPS4A) family protein isoform 1				
+K7UIJ8	K7UIJ8_MAIZE	unreviewed	100280907	Zea mays (Maize)	Zm00001eb188750	100280907		Heat shock 70 kDa protein 17				
+K7UJ45	K7UJ45_MAIZE	unreviewed	103654058	Zea mays (Maize)	Zm00001eb189910	103654058		Methionyl-tRNA synthetase (EC 6.1.1.10)				
+K7UJS9	K7UJS9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			CBF1 interacting corepressor				
+K7ULV8	K7ULV8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb070720			Putative leucine-rich repeat receptor-like protein kinase family protein				
+K7UML1	K7UML1_MAIZE	unreviewed	103654409	Zea mays (Maize)	Zm00001eb198080	103654409		Type III polyketide synthase B				
+K7UQS0	K7UQS0_MAIZE	unreviewed	PP2C17	Zea mays (Maize)	Zm00001eb205090	PP2C17		Protein-serine/threonine phosphatase (EC 3.1.3.16)				
+K7URF5	K7URF5_MAIZE	unreviewed	103653021	Zea mays (Maize)	Zm00001eb171590	103653021		Germin-like protein				
+K7URM3	K7URM3_MAIZE	unreviewed	103654868	Zea mays (Maize)	Zm00001eb206620	103654868		Gamma-glutamyl peptidase 1				
+K7URV3	K7URV3_MAIZE	unreviewed	100384405	Zea mays (Maize)	Zm00001eb207300	100384405		Inositol-1-monophosphatase (EC 3.1.3.25)				
+K7UX47	K7UX47_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb185100			RNA-binding (RRM/RBD/RNP motifs) family protein				
+K7V2Q7	K7V2Q7_MAIZE	unreviewed	103654413	Zea mays (Maize)	Zm00001eb198140	103654413		O-methyltransferase ZRP4				
+P54348	H2B5_MAIZE	reviewed		Zea mays (Maize)	Zm00001eb188570			Histone H2B.5 (H2B)				
+Q08069	RS8_MAIZE	reviewed	RPS8	Zea mays (Maize)	Zm00001eb205630	RPS8		40S ribosomal protein S8				
+Q3ZTU2	Q3ZTU2_MAIZE	unreviewed	ACS6	Zea mays (Maize)	Zm00001eb055950	ACS6		Acc synthase (Fragment)				
+Q41747	Q41747_MAIZE	unreviewed	Lhcb5-2	Zea mays (Maize)	Zm00001eb168100	Lhcb5-2		"Chlorophyll a-b binding protein, chloroplastic"				
+Q41751	Q41751_MAIZE	unreviewed	MubC5	Zea mays (Maize)	Zm00001eb169170	MubC5		Polyubiquitin				
+Q41752	Q41752_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb169170			Clone MubG1 ubiquitin				
+Q4FZ48	Q4FZ48_MAIZE	unreviewed	cc9	Zea mays (Maize)	Zm00001eb168980	cc9		Cysteine proteinase inhibitor 5 (Putative cystatin)				
+Q5GAR0	Q5GAR0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171380			Uncharacterized protein				
+Q5GAR1	Q5GAR1_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb078530			Uncharacterized protein				
+Q5GAU8	Q5GAU8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb171380			Uncharacterized protein				
+Q6JN57	Q6JN57_MAIZE	unreviewed	ACS65	Zea mays (Maize)	Zm00001eb055950	ACS65		Acc synthase				
+Q8VWH4	Q8VWH4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			DWARF3 (Fragment)				
+Q8W1S8	Q8W1S8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			DWARF3 (Fragment)				
+Q8W1T4	Q8W1T4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			DWARF3 (Fragment)				
+Q8W1U8	Q8W1U8_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			DWARF3 (Fragment)				
+Q8W1U9	Q8W1U9_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb012940			DWARF3 (Fragment)				
+Q94KS7	Q94KS7_MAIZE	unreviewed	expB7	Zea mays (Maize)	Zm00001eb023420	expB7		Beta-expansin 7				
+Q94KT1	Q94KT1_MAIZE	unreviewed	expB3	Zea mays (Maize)	Zm00001eb000380	expB3		Beta-expansin 3 (Fragment)				
+Q9FQ97	Q9FQ97_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb021600			Glutathione S-transferase GST 42 (EC 2.5.1.18) (Fragment)				
+Q9FUI0	Q9FUI0_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb164390			"Ribulose 1,5-bisphosphate carboxylase/oxygenase activase (Fragment)"				
+Q9XGD8	Q9XGD8_MAIZE	unreviewed	betl4	Zea mays (Maize)	Zm00001eb201370	betl4		BETL4 protein				
+Q9ZSX4	Q9ZSX4_MAIZE	unreviewed		Zea mays (Maize)	Zm00001eb170080			Uncharacterized protein				
+Q9ZT00	RCA_MAIZE	reviewed	RCA1	Zea mays (Maize)	Zm00001eb164390	RCA1	RCA	"Ribulose bisphosphate carboxylase/oxygenase activase, chloroplastic (RA) (RuBisCO activase)"				
+Q9ZTI7	Q9ZTI7_MAIZE	unreviewed	pic18	Zea mays (Maize)	Zm00001eb164570	pic18		Disease resistance gene analog PIC18 (Fragment)				
