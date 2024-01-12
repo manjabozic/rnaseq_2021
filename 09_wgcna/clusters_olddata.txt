@@ -1,0 +1,14 @@
+Control_vs_Treatment:
+salmon
+paleturquoise
+lightyellow
+tan
+pink
+green
+
+data.Tolerant.vs.Susceptible
+cyan
+brown
+blue
+lightsteelblue1
+turquoise

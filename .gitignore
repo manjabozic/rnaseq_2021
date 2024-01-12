@@ -44,3 +44,9 @@ fakereps/
 05_de_analysis/edgeR/data/Zea_mays_B73_RefGen_v5.exon.gtf
 07_cluster_analysis/.RData
 07_cluster_analysis/.Rhistory
+06_pca/.RData
+06_pca/.Rhistory
+08_enrichment/.RData
+08_enrichment/.Rhistory
+08_enrichment/Zm-B73-REFERENCE-NAM.UniProt.GO.tab
+08_enrichment/Zm-B73-REFERENCE-NAM.UniProt.proteins

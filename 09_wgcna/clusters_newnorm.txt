@@ -1,0 +1,17 @@
+Control_vs_Treatment:
+darkgrey
+magenta
+yellow
+brown
+red
+lightcyan
+grey60
+purple
+midnightblue
+
+data.Tolerant.vs.Susceptible
+greenyellow
+green
+lightcyan1
+blue
+turquoise
